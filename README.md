@@ -1,7 +1,5 @@
 # DS_Project1
 
-# DS_PI1_MLOps
-
 * Escuela: Soy Henry
 * Curso: Data Science Part Time, cohorte 7
 * Proyecto: Proyecto Individual 1, Machine Learning Operations
@@ -10,7 +8,7 @@
 
 * Contenidos & Fases del Proyecto
   * ETL (Extraction, transformation and loading of data)
-  * Desarrollo API
+  * Desarrollo API Application Program Interfase)
   * Deployment
   * EDA (Exploratory Dat Analysis)
   * Modelo de Aprendiaje Automático   
