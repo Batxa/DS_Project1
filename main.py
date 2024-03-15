@@ -1,3 +1,4 @@
+from fastapi import FastAPI 
 import pandas as pd
 from fastapi import FastAPI 
 from pydantic import BaseModel
@@ -5,6 +6,7 @@ from typing import Optional
 
 app = FastAPI()
 
+#http://127.0.0.1:8001
 
 #Endpoint1
 #Debe devolver año con mas horas jugadas para dicho género.
@@ -63,6 +65,7 @@ def UsersNotRecommend(input_year: int):
     except Exception as e:
         return {"error": str(e)}
 
+#Endpoint5
 #Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
 
 @app.get("sentimentanalysis/{year}")
