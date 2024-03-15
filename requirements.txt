@@ -1,1 +1,4 @@
+decorator
+fastapi
+numpy
 pandas
