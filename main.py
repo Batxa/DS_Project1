@@ -16,7 +16,7 @@ def PlayTimeGenre(input_genre: str):
     try:
         df_e1 = pd.read_csv("df_e1.csv")
         df_e1 = df_e1[df_e1["genres"] == input_genre]
-        output_year = df_e1['year'].iloc[1]
+        output_year = df_e1['year'].iloc[0]
         
         return {f"Año de lanzamiento con más horas jugadas para {input_genre}": output_year}
     except Exception as e:
