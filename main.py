@@ -16,7 +16,7 @@ def PlayTimeGenre(input_genre: str):
     try:
         df_e1 = pd.read_csv("df_e1.csv")
         df_e1 = df_e1[df_e1["genres"] == input_genre]
-        output_year = df_e1(['year']).iloc[1]
+        output_year = df_e1['year'].iloc[1]
         
         return {f"Año de lanzamiento con más horas jugadas para {input_genre}": output_year}
     except Exception as e:
@@ -32,7 +32,7 @@ def UserForGenre(input_genre: str):
         df_e2_playtime = pd.read_csv("df_e2_playtime.csv")
 
         df_e2_users = df_e2_users[df_e2_users["genres"] == input_genre]
-        output_user = df_e2_users(['year']).iloc[1]
+        output_user = df_e2_users['year'].iloc[1]
         #playtime_ouput =
         
         return {f"Usuario con más horas jugadas para el género {input_genre}": output_user}
@@ -74,9 +74,9 @@ def SentimentAnalysis(input_year: int):
     try:
         df_e5 = pd.read_csv("df_e5.csv")
 
-        value_negative = df_func5['negative'].values[0]
-        value_neutral = df_func5['neutral'].values[0]
-        value_positive = df_func5['positive'].values[0]
+        value_negative = df_e5['negative'].values[0]
+        value_neutral = df_e5['neutral'].values[0]
+        value_positive = df_e5['positive'].values[0]
 
         output_sentiment_list = f"Para el año {input_year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, neutral: {value_positive}"       
         return output_sentiment_list
