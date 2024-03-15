@@ -32,7 +32,7 @@ def UserForGenre(input_genre: str):
         df_e2_playtime = pd.read_csv("df_e2_playtime.csv")
 
         df_e2_users = df_e2_users[df_e2_users["genres"] == input_genre]
-        output_user = df_e2_users['year'].iloc[1]
+        output_user = df_e2_users['year'].iloc[0]
         #playtime_ouput =
         
         return {f"Usuario con más horas jugadas para el género {input_genre}": output_user}
