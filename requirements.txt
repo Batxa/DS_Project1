@@ -2,3 +2,4 @@ decorator
 fastapi
 numpy
 pandas
+uvicorn
