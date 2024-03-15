@@ -82,7 +82,3 @@ def SentimentAnalysis(input_year: int):
         return output_sentiment_list
     except Exception as e:
         return {"error": str(e)}
-
-
-
-
