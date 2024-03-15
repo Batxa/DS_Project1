@@ -11,14 +11,14 @@ app = FastAPI()
 #Endpoint1
 #Debe devolver año con mas horas jugadas para dicho género.
 #Ejemplo de retorno: {"Año de lanzamiento con más horas jugadas para Género X" : 2013} 
-@app.get("/playtimegenre/{input_genre}")
-def PlayTimeGenre(input_genre: str):
+@app.get("/playtimegenre/{genero}")
+def PlayTimeGenre(genero: str):
     try:
         df_e1 = pd.read_csv("df_e1.csv")
-        df_e1 = df_e1[df_e1["genres"] == input_genre]
+        df_e1 = df_e1[df_e1["genres"] == genero]
         output_year = df_e1['year'].iloc[0]
         
-        return {f"Año de lanzamiento con más horas jugadas para {input_genre}": output_year}
+        return {f"Año de lanzamiento con más horas jugadas para {genero}": output_year}
     except Exception as e:
         return {"error": str(e)}
     
