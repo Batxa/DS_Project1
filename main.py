@@ -18,6 +18,8 @@ def PlayTimeGenre(genero: str):
         df_e1 = df_e1[df_e1["genres"] == genero]
         output_year = df_e1['year'].iloc[0]
         
+        output_year = int(output_year)
+        
         return {f"Año de lanzamiento con más horas jugadas para {genero}": output_year}
     except Exception as e:
         return {"error": str(e)}
