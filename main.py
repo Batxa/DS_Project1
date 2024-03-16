@@ -33,7 +33,7 @@ def UserForGenre(input_genre: str):
 
         df_e2_users = df_e2_users[df_e2_users["genres"] == input_genre]
         output_user = df_e2_users['year'].iloc[0]
-        output_playtime = df_e2_playtime[]
+        #output_playtime = df_e2_playtime[]
         
         return {f"Usuario con más horas jugadas para el género {input_genre}": output_user}
     except Exception as e:
