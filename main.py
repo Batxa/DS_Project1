@@ -52,7 +52,7 @@ def UsersRecommend(año: int):
         #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
         
         # Filtrar por el año dado y comentarios positivos/neutrales y recomendaciones verdaderas
-        filtered_df = df_e3[(df_e3['year_review'] == year) & (df_e3['sentiment'].isin(['positive', 'neutral'])) & (df_e3['recommend'] == True)]
+        filtered_df = df_e3[(df_e3['year_review'] == año) & (df_e3['sentiment'].isin(['positive', 'neutral'])) & (df_e3['recommend'] == True)]
         
         # Ordenar por la cantidad de recomendaciones en orden descendente y seleccionar los 3 mejores juegos
         top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
