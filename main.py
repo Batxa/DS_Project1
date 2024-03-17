@@ -48,9 +48,18 @@ def UserForGenre(genero: str):
 def UsersRecommend(año: int):
     try:
         df_e3 = pd.read_csv("df_e3.csv")
-        output_top3 = df_e3[df_e3['year_review'] == año].head(3)
-        #output_top3 = str(output_top3)
-        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
+        #output_top3 = df_e3[df_e3['year_review'] == año].head(3)
+        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
+        
+        # Filtrar por el año dado y comentarios positivos/neutrales y recomendaciones verdaderas
+        filtered_df = df_e3[(df_e3['year_review'] == year) & (df_e3['sentiment'].isin(['positive', 'neutral'])) & (df_e3['recommend'] == True)]
+        
+        # Ordenar por la cantidad de recomendaciones en orden descendente y seleccionar los 3 mejores juegos
+        top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
+        
+        # Formatear la salida como una lista de diccionarios
+        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(top3_games)]
+        
         return output_top3_list
     except Exception as e:
         return {"error": str(e)}
@@ -63,7 +72,6 @@ def UsersNotRecommend(año: int):
     try:
         df_e4 = pd.read_csv("df_e4.csv")
         output_last3 = df_e4[df_e4['year_review'] == año].tail(3)
-        output_last3 = int(output_last3)
         output_last3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_last3['app_name'])]
         return output_last3_list
     except Exception as e:
