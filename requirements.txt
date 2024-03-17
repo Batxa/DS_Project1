@@ -3,4 +3,3 @@ fastapi
 numpy
 pandas
 uvicorn
-sklearn
