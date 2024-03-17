@@ -137,12 +137,14 @@ def UsersNotRecommend(year: int):
 def SentimentAnalysis(year: int):
     try:
         df_e5 = pd.read_csv("df_e5.csv")
+        df_year = df_e5[df_e5['year'] == year]
+        value_negative = df_year['negative'].values[0]
+        value_neutral = df_year['neutral'].values[0]
+        value_positive = df_year['positive'].values[0]
 
-        value_negative = df_e5['negative'].values[0]
-        value_neutral = df_e5['neutral'].values[0]
-        value_positive = df_e5['positive'].values[0]
+        # Crear la cadena de salida con los valores obtenidos
+        output_sentiment_list = f"Para el año {year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, positive: {value_positive}"
 
-        output_sentiment_list = f"Para el año {year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, neutral: {value_positive}"
         return output_sentiment_list
     except Exception as e:
         return {"error": str(e)}
