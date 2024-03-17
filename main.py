@@ -49,7 +49,7 @@ def UsersRecommend(año: int):
     try:
         df_e3 = pd.read_csv("df_e3.csv")
         output_top3 = df_e3[df_e3['year_review'] == año].head(3)
-        output_top3 = str(output_top3)
+        #output_top3 = str(output_top3)
         output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
         return output_top3_list
     except Exception as e:
@@ -63,6 +63,7 @@ def UsersNotRecommend(año: int):
     try:
         df_e4 = pd.read_csv("df_e4.csv")
         output_last3 = df_e4[df_e4['year_review'] == año].tail(3)
+        output_last3 = int(output_last3)
         output_last3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_last3['app_name'])]
         return output_last3_list
     except Exception as e:
@@ -71,9 +72,9 @@ def UsersNotRecommend(año: int):
 #Endpoint5
 #Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
 
-@app.get("sentimentanalysis/{year}")
+@app.get("/sentimentanalysis/{año}")
 # Definir la función
-def SentimentAnalysis(input_year: int):
+def SentimentAnalysis(año: int):
     try:
         df_e5 = pd.read_csv("df_e5.csv")
 
@@ -81,7 +82,7 @@ def SentimentAnalysis(input_year: int):
         value_neutral = df_e5['neutral'].values[0]
         value_positive = df_e5['positive'].values[0]
 
-        output_sentiment_list = f"Para el año {input_year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, neutral: {value_positive}"       
+        output_sentiment_list = f"Para el año {año} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, neutral: {value_positive}"       
         return output_sentiment_list
     except Exception as e:
         return {"error": str(e)}
