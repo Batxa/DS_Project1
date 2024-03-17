@@ -58,8 +58,11 @@ def UsersRecommend(año: int):
         top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
         
         # Formatear la salida como una lista de diccionarios
-        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(top3_games)]
+        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(top3_games)]
         
+        # Formatear la salida como una lista de diccionarios utilizando zip
+        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), top3_games)]
+
         return output_top3_list
     except Exception as e:
         return {"error": str(e)}
