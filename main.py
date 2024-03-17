@@ -40,7 +40,8 @@ def UserForGenre(genero: str):
         return {f"Usuario con más horas jugadas para el género {input_genre}": output_user}
     except Exception as e:
         return {"error": str(e)}
-    
+   
+#======================================================================================================
 #Endpoint3
 #Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos/neutrales)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
@@ -48,20 +49,21 @@ def UserForGenre(genero: str):
 def UsersRecommend(año: int):
     try:
         df_e3 = pd.read_csv("df_e3.csv")
-        #output_top3 = df_e3[df_e3['year_review'] == año].head(3)
+        output_top3 = df_e3[df_e3['year_review'] == año].head(3)
         #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
         
         # Filtrar por el año dado y comentarios positivos/neutrales y recomendaciones verdaderas
-        filtered_df = df_e3[(df_e3['year_review'] == año) & (df_e3['sentiment'].isin(['positive', 'neutral'])) & (df_e3['recommend'] == True)]
-        
+        #filtered_df = df_e3[(df_e3['year_review'] == año) & (df_e3['sentiment'].isin(['positive', 'neutral'])) & (df_e3['recommend'] == True)]
         # Ordenar por la cantidad de recomendaciones en orden descendente y seleccionar los 3 mejores juegos
-        top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
+        #top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
         
         # Formatear la salida como una lista de diccionarios
-        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(top3_games)]
+        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3)]
         
         # Formatear la salida como una lista de diccionarios utilizando zip
-        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), top3_games)]
+        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), output_top3)]
+        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), output_top3['app_name'])]
+
 
         return output_top3_list
     except Exception as e:
