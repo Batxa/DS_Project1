@@ -24,7 +24,8 @@ def PlayTimeGenre(genero: str):
     except Exception as e:
         return {"error": str(e)}
     
-#Endpoint2
+#======================================================================================================
+# #Endpoint2
 #Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
 #Ejemplo de retorno: {"Usuario con más horas jugadas para Género X" : us213ndjss09sdf, "Horas jugadas":[{Año: 2013, Horas: 203}, {Año: 2012, Horas: 100}, {Año: 2011, Horas: 23}]}
 @app.get("/usergenre/{genero}")
@@ -58,17 +59,19 @@ def UsersRecommend(año: int):
         #top3_games = filtered_df.sort_values(by='recommend', ascending=False).head(3)['app_name'].tolist()
         
         # Formatear la salida como una lista de diccionarios
-        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3)]
+        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3)]
         
         # Formatear la salida como una lista de diccionarios utilizando zip
         #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), output_top3)]
-        output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), output_top3['app_name'])]
+        #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in zip(range(3), output_top3['app_name'])]
+        
 
 
         return output_top3_list
     except Exception as e:
         return {"error": str(e)}
 
+#======================================================================================================
 #Endpoint4    
 #Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
@@ -82,6 +85,7 @@ def UsersNotRecommend(año: int):
     except Exception as e:
         return {"error": str(e)}
 
+#======================================================================================================
 #Endpoint5
 #Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
 
