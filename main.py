@@ -44,7 +44,7 @@ def UserForGenre(genero: str):
 #Endpoint3
 #Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos/neutrales)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
-@app.get("usersrecommend/{year}")
+@app.get("/usersrecommend/{año}")
 def UsersRecommend(año: int):
     try:
         df_e3 = pd.read_csv("df_e3.csv")
@@ -58,7 +58,7 @@ def UsersRecommend(año: int):
 #Endpoint4    
 #Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
-@app.get("usersnotrecommend/{year}")
+@app.get("/usersnotrecommend/{año}")
 def UsersNotRecommend(año: int):
     try:
         df_e4 = pd.read_csv("df_e4.csv")
