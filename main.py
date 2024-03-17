@@ -53,6 +53,7 @@ def UsersRecommend(año: int):
         año = int(año)
         df_e3 = df_e3[df_e3['year'] == año]
         output_top3 = df_e3[df_e3['year_review'] == año].head(3)
+        output_top3 = int(output_top3)
         #output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
         
         # Filtrar por el año dado y comentarios positivos/neutrales y recomendaciones verdaderas
