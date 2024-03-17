@@ -28,7 +28,7 @@ def PlayTimeGenre(genero: str):
 #Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
 #Ejemplo de retorno: {"Usuario con más horas jugadas para Género X" : us213ndjss09sdf, "Horas jugadas":[{Año: 2013, Horas: 203}, {Año: 2012, Horas: 100}, {Año: 2011, Horas: 23}]}
 @app.get("/usergenre/{genero}")
-def UserForGenre(input_genre: str):
+def UserForGenre(genero: str):
     try:
         df_e2_users = pd.read_csv("df_e2_users.csv")
         df_e2_playtime = pd.read_csv("df_e2_playtime.csv")
@@ -45,10 +45,10 @@ def UserForGenre(input_genre: str):
 #Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos/neutrales)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
 @app.get("usersrecommend/{year}")
-def UsersRecommend(input_year: int):
+def UsersRecommend(año: int):
     try:
         df_e3 = pd.read_csv("df_e3.csv")
-        output_top3 = df_e3[df_e3['year_review'] == input_year].head(3)
+        output_top3 = df_e3[df_e3['year_review'] == año].head(3)
         output_top3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_top3['app_name'])]
         return output_top3_list
     except Exception as e:
@@ -58,10 +58,10 @@ def UsersRecommend(input_year: int):
 #Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos)
 #Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
 @app.get("usersnotrecommend/{year}")
-def UsersNotRecommend(input_year: int):
+def UsersNotRecommend(año: int):
     try:
         df_e4 = pd.read_csv("df_e4.csv")
-        output_last3 = df_e4[df_e4['year_review'] == input_year].tail(3)
+        output_last3 = df_e4[df_e4['year_review'] == año].tail(3)
         output_last3_list = [{"Puesto {}: {}".format(i+1, game)} for i, game in enumerate(output_last3['app_name'])]
         return output_last3_list
     except Exception as e:
