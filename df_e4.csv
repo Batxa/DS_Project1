@@ -1,25 +1,15 @@
 year_review,app_name,recommend_count
-2014,Team Fortress 2,1547
 2015,Counter-Strike: Global Offensive,1527
 2014,Counter-Strike: Global Offensive,1068
-2013,Team Fortress 2,790
 2014,Garry's Mod,757
-0,Counter-Strike: Global Offensive,638
-2015,Team Fortress 2,634
-2014,Unturned,546
 2014,Rust,389
 2014,DayZ,383
 2015,Garry's Mod,357
 2013,Garry's Mod,340
 2014,Borderlands 2,306
 2014,Left 4 Dead 2,298
-2014,Loadout,291
-2015,Unturned,276
-2012,Team Fortress 2,265
-0,Team Fortress 2,246
 2014,Terraria,240
 2013,Left 4 Dead 2,234
-2014,Warframe,233
 2015,Grand Theft Auto V,215
 2015,Terraria,201
 2014,Goat Simulator,201
@@ -27,73 +17,45 @@ year_review,app_name,recommend_count
 2015,Rust,162
 2014,Sid Meier's Civilization® V,158
 2015,ARK: Survival Evolved,156
-2014,PlanetSide 2,149
 2013,Terraria,147
-0,Garry's Mod,143
-2015,Warframe,143
-2015,Emily is Away,140
 2014,Portal 2,138
 2014,Killing Floor,137
 2015,Rocket League®,136
 2014,Starbound,133
 2015,Fallout 4,129
 2014,BioShock Infinite,124
-2014,No More Room in Hell,123
-2014,Robocraft,123
-0,Unturned,121
-0,Rocket League®,117
 2014,The Forest,116
 2015,Undertale,115
-2015,Life is Strange - Episode 1,115
 2015,Left 4 Dead 2,111
 2014,The Binding of Isaac,110
-2015,AdVenture Capitalist,102
-2015,Robocraft,99
 2014,Counter-Strike: Source,99
 2013,Starbound,99
-0,Rust,98
-2013,Warframe,97
-0,Stardew Valley,97
-0,Undertale,97
-2015,Trove,96
 2015,Killing Floor 2,92
 2013,Killing Floor,91
 2015,Borderlands 2,91
 2014,BattleBlock Theater®,90
 2014,Saints Row IV,89
-2013,PlanetSide 2,88
 2014,Mount & Blade: Warband,88
 2014,Arma 3,87
-2014,Realm of the Mad God,86
 2014,Insurgency,85
 2013,Borderlands 2,84
-0,Warframe,84
 2015,DayZ,84
 2014,Castle Crashers®,82
 2014,Half-Life 2,82
 2014,Super Hexagon,82
 2015,Arma 3,82
-2015,Heroes & Generals,81
-2013,No More Room in Hell,79
-2011,Team Fortress 2,79
 2015,Portal 2,79
 2015,Insurgency,78
-2014,Awesomenauts - the 2D moba,76
 2014,ORION: Prelude,76
 2015,Don't Starve Together,76
 2014,PAYDAY™ The Heist,72
 2015,The Binding of Isaac: Rebirth,72
-2014,Fistful of Frags,72
 2014,FTL: Faster Than Light,72
-0,ARK: Survival Evolved,71
 2015,Sid Meier's Civilization® V,71
 2014,Just Cause 2,71
 2013,DayZ,70
 2013,Portal 2,70
 2014,Chivalry: Medieval Warfare,70
-2015,Clicker Heroes,69
-0,Fallout 4,65
-0,DOOM,65
 2014,Kerbal Space Program,64
 2014,Five Nights at Freddy's,64
 2014,Tomb Raider,63
@@ -109,36 +71,23 @@ year_review,app_name,recommend_count
 2014,Far Cry 3,60
 2015,Dying Light,60
 2015,Fallout: New Vegas,60
-0,Life is Strange - Episode 1,60
 2014,Hotline Miami,59
-0,Tom Clancy's Rainbow Six® Siege,59
 2014,Middle-earth™: Shadow of Mordor™,59
-2014,Spiral Knights,59
 2013,The Walking Dead,59
-2014,Heroes & Generals,58
 2014,The Binding of Isaac: Rebirth,58
 2014,DARK SOULS™ II,58
 2015,Mount & Blade: Warband,57
-2014,The Plan,57
-0,Terraria,56
 2014,South Park™: The Stick of Truth™,56
-0,Grand Theft Auto V,56
 2014,Call of Duty®: Black Ops II,55
 2015,Starbound,55
 2014,The Stanley Parable,54
 2015,Call of Duty®: Black Ops III,54
-0,Arma 3,53
-0,No Man's Sky,53
 2014,Euro Truck Simulator 2,53
 2015,BioShock Infinite,53
-2015,PlanetSide 2,53
-0,DARK SOULS™ III,52
 2014,State of Decay,52
-2014,Blacklight: Retribution,51
 2014,Risk of Rain,51
 2013,Sid Meier's Civilization® V,51
 2015,METAL GEAR SOLID V: THE PHANTOM PAIN,51
-2014,Source Filmmaker,51
 2015,Counter-Strike: Source,50
 2015,Prison Architect,49
 2015,Geometry Dash,49
@@ -149,11 +98,8 @@ year_review,app_name,recommend_count
 2014,Ace of Spades: Battle Builder,47
 2013,Rust,46
 2013,Just Cause 2,46
-0,Brawlhalla,46
 2015,BattleBlock Theater®,45
-2015,No More Room in Hell,45
 2013,Super Hexagon,44
-2014,Toribash,44
 2014,XCOM: Enemy Unknown,44
 2015,Tomb Raider,44
 2014,The Walking Dead,44
@@ -166,37 +112,26 @@ year_review,app_name,recommend_count
 2015,Verdun,42
 2014,Surgeon Simulator,42
 2015,Bad Rats: the Rats' Revenge,42
-0,Firewatch,42
 2014,Guns of Icarus Online,42
 2012,Terraria,42
 2014,Sniper Elite V2,42
-2014,APB Reloaded,41
 2014,Game Dev Tycoon,41
-2014,Cry of Fear,41
 2014,The Wolf Among Us,41
 2013,Saints Row: The Third,41
 2015,The Forest,40
 2013,Counter-Strike: Source,40
 2015,Killing Floor,40
 2015,HuniePop,39
-2014,Gotham City Impostors Free to Play,39
 2012,Garry's Mod,38
 2015,Kerbal Space Program,38
-0,Starbound,38
 2014,Banished,38
 2013,Half-Life 2,38
-0,Borderlands 2,38
-0,Sid Meier's Civilization® V,38
 2015,DARK SOULS™: Prepare To Die™ Edition,38
-0,Evolve Stage 2,38
 2015,Goat Simulator,38
 2013,The Binding of Isaac,38
 2014,POSTAL 2,37
 2014,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,37
-2013,Spiral Knights,37
 2014,Total War™: ROME II - Emperor Edition,37
-2015,Fistful of Frags,37
-0,Insurgency,37
 2014,Prison Architect,37
 2014,Portal,37
 2012,Left 4 Dead 2,36
@@ -204,25 +139,13 @@ year_review,app_name,recommend_count
 2015,Reign Of Kings,36
 2013,Saints Row IV,35
 2014,Batman™: Arkham Origins,35
-0,XCOM® 2,35
-0,Realm of the Mad God,35
-2015,Realm of the Mad God,35
 2015,Depth,35
 2014,Magicka,35
-0,Factorio,35
 2015,Saints Row: The Third,35
-2014,Tactical Intervention,35
 2014,Call of Duty®: Modern Warfare® 2,35
-0,The Forest,35
-0,Call of Duty®: Black Ops III,35
-0,Robocraft,35
-2013,Just Cause 2: Multiplayer Mod,34
-0,Left 4 Dead 2,34
 2013,Tomb Raider,34
 2014,Broforce,34
-2014,AirMech Strike,34
 2015,ORION: Prelude,33
-2014,Alien Swarm,33
 2014,Mirror's Edge™,33
 2015,The Escapists,33
 2015,The Beginner's Guide,32
@@ -233,38 +156,26 @@ year_review,app_name,recommend_count
 2014,Batman: Arkham City - Game of the Year Edition,32
 2014,To the Moon,32
 2015,POSTAL 2,31
-2014,GunZ 2: The Second Duel,31
-0,Heroes & Generals,31
 2014,Hitman: Absolution™,31
 2014,BioShock™,31
-0,Total War: WARHAMMER,31
-2013,Awesomenauts - the 2D moba,31
 2015,Just Cause 2,31
 2014,Contagion,31
 2014,Monaco: What's Yours Is Mine,30
-0,DayZ,30
 2014,Project Zomboid,30
-2015,TERA,30
-2014,DC Universe™ Online,30
 2015,Broforce,30
 2013,FTL: Faster Than Light,30
 2014,Nether: Resurrected,30
-2015,The Way of Life Free Edition,30
 2014,Arma 2: Operation Arrowhead,30
-0,SMITE®,30
 2014,Five Nights at Freddy's 2,30
 2014,Magicite,29
 2012,Portal 2,29
 2013,Surgeon Simulator,29
 2014,Spec Ops: The Line,29
 2015,This War of Mine,29
-2015,Ori and the Blind Forest,29
 2015,Skullgirls,29
 2015,Borderlands: The Pre-Sequel,29
 2014,Call of Duty®: Ghosts,29
 2014,Borderlands: The Pre-Sequel,29
-2015,Brawlhalla,28
-2013,Cry of Fear,28
 2015,Five Nights at Freddy's 2,28
 2015,DRAGON BALL XENOVERSE,28
 2014,Sanctum 2,28
@@ -275,18 +186,12 @@ year_review,app_name,recommend_count
 2013,Kerbal Space Program,27
 2015,Mad Max,27
 2014,Gunpoint,27
-2015,Toribash,27
 2015,Five Nights at Freddy's,27
 2015,Tales from the Borderlands,27
 2014,Bastion,27
 2015,Spec Ops: The Line,27
 2015,Fallout 3: Game of the Year Edition,27
 2014,Plague Inc: Evolved,27
-0,Portal 2,27
-2015,SMITE®,27
-2015,Evolve Stage 2,27
-0,DARK SOULS™: Prepare To Die™ Edition,26
-0,Geometry Dash,26
 2015,XCOM: Enemy Unknown,26
 2015,Five Nights at Freddy's 3,26
 2015,Dishonored,26
@@ -295,36 +200,19 @@ year_review,app_name,recommend_count
 2011,Portal 2,26
 2015,Middle-earth™: Shadow of Mordor™,26
 2015,Age of Empires II HD,25
-0,SUPERHOT,25
 2014,One Finger Death Punch,25
 2014,Octodad: Dadliest Catch,25
-2015,BLOCKADE 3D,25
 2013,Mount & Blade: Warband,25
-2015,Dungeon Defenders II,25
 2013,The Stanley Parable,25
 2011,Terraria,25
 2013,PAYDAY™ The Heist,25
-0,Sven Co-op,25
 2013,The Walking Dead: Season 2,25
 2013,Hotline Miami,24
 2014,Half-Life,24
 2013,Arma 3,24
-2014,Just Cause 2: Multiplayer Mod,24
-2013,Realm of the Mad God,24
-2015,Awesomenauts - the 2D moba,24
 2013,Batman: Arkham City - Game of the Year Edition,24
-2014,Super Crate Box,24
-2015,Double Action: Boogaloo,24
-2015,Cry of Fear,24
-0,Half-Life 2,24
 2014,SpeedRunners,24
 2014,Verdun,24
-2013,Blacklight: Retribution,24
-0,Fallout: New Vegas,24
-0,Tom Clancy’s The Division™,24
-2014,Estranged: Act I,24
-0,Killing Floor 2,24
-2014,The Expendabros,24
 2014,Watch_Dogs™,24
 2013,Dishonored,23
 2015,Town of Salem,23
@@ -334,63 +222,41 @@ year_review,app_name,recommend_count
 2015,Call of Duty®: Advanced Warfare - Gold Edition,23
 2015,PAYDAY™ The Heist,23
 2014,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,23
-0,No More Room in Hell,23
-0,Trove,23
-0,Don't Starve Together,23
-2015,Tactical Intervention,23
 2014,SPINTIRES™,23
-0,Verdun,23
 2014,Europa Universalis IV,23
 2014,Natural Selection 2,23
 2014,Brothers - A Tale of Two Sons,23
 2015,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,23
 2014,LEGO® Marvel™ Super Heroes,23
 2013,DARK SOULS™: Prepare To Die™ Edition,23
-0,Just Cause™ 3,23
-2014,Warface,22
 2014,Super Meat Boy,22
 2014,Scribblenauts Unlimited,22
-2015,APB Reloaded,22
 2013,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,22
-0,Clicker Heroes,22
 2015,Nuclear Throne,22
-2014,Defiance,22
 2014,Counter-Strike,22
 2015,Outlast,22
-0,Mount & Blade: Warband,22
 2013,Torchlight II,22
 2014,Alien: Isolation,22
 2015,Company of Heroes 2,22
 2014,Transistor,21
 2013,Game Dev Tycoon,21
-0,Dying Light,21
 2015,The Binding of Isaac: Afterbirth,21
-2015,Blacklight: Retribution,21
 2014,Yet Another Zombie Defense,21
 2014,SPORE™,21
 2014,Rogue Legacy,21
 2014,Wolfenstein: The New Order,21
 2015,Five Nights at Freddy's 4,21
-2015,Source Filmmaker,21
-0,Slime Rancher,21
 2014,Dino D-Day,21
-0,AdVenture Capitalist,21
 2013,Castle Crashers®,21
-2014,Double Action: Boogaloo,20
 2015,The Binding of Isaac,20
-0,Mad Max,20
-2013,Tribes: Ascend,20
-2015,Transformice,20
 2015,Guns of Icarus Online,20
 2015,South Park™: The Stick of Truth™,20
 2014,The Witcher 2: Assassins of Kings Enhanced Edition,20
-0,Emily is Away,20
 2013,Arma 2: Operation Arrowhead,20
 2014,Crusader Kings II,20
 2015,Dead Realm,20
 2015,Super Hexagon,20
 2015,Call of Duty®: Modern Warfare® 2,20
-0,Bad Rats: the Rats' Revenge,20
 2014,Antichamber,20
 2014,Max Payne 3,20
 2012,Counter-Strike: Global Offensive,19
@@ -398,98 +264,62 @@ year_review,app_name,recommend_count
 2013,Fallout: New Vegas,19
 2015,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,19
 2014,Call of Duty®: Advanced Warfare - Gold Edition,19
-2013,APB Reloaded,19
 2015,Alien: Isolation,19
 2014,Pixel Piracy,19
 2015,Darkest Dungeon®,19
-2012,Realm of the Mad God,19
 2011,Garry's Mod,19
 2014,METAL GEAR RISING: REVENGEANCE,19
 2015,The Elder Scrolls® Online: Tamriel Unlimited™,19
 2015,The Long Dark,19
 2014,Battlefield: Bad Company™ 2,19
-0,Iron Snout,19
 2013,Sonic & All-Stars Racing Transformed,19
 2013,Risk of Rain,19
-0,Hotline Miami,18
 2014,Amnesia: The Dark Descent,18
 2015,Half-Life,18
 2013,Assassin’s Creed® IV Black Flag™,18
 2013,Magicka,18
-0,Tales from the Borderlands,18
-0,PlanetSide 2,18
-0,Source Filmmaker,18
 2014,Turbo Dismount™,18
 2013,Antichamber,18
-2014,Thinking with Time Machine,18
-0,The Binding of Isaac: Rebirth,18
 2015,Batman: Arkham City - Game of the Year Edition,18
 2012,Borderlands 2,18
-0,Golf With Your Friends,18
 2014,Fallout 3: Game of the Year Edition,18
-2013,Tactical Intervention,18
 2015,Super Meat Boy,18
 2013,XCOM: Enemy Unknown,18
 2014,Next Car Game: Wreckfest,18
 2014,Assassin's Creed 2 Deluxe Edition,18
 2015,Hitman: Absolution™,18
 2015,Call of Duty®: Black Ops II,18
-2014,World of Guns: Gun Disassembly,18
 2013,Age of Empires II HD,17
 2015,Far Cry 3,17
 2015,BioShock™,17
 2013,Portal,17
-0,H1Z1,17
-0,Cities: Skylines,17
 2014,Gone Home,17
-2014,Tribes: Ascend,17
 2013,Natural Selection 2,17
 2015,Hurtworld,17
 2014,Burnout Paradise: The Ultimate Box,17
 2015,Crusader Kings II,17
-2013,Gotham City Impostors Free to Play,17
-0,Dishonored,17
 2014,Don't Starve Together,17
-2015,Spooky's Jump Scare Mansion,17
-2014,Star Conflict,17
 2014,Deus Ex: Human Revolution - Director's Cut,17
-2014,theHunter Classic,17
-0,HITMAN™,17
-2013,Neverwinter,17
 2011,Killing Floor,17
-2015,Spiral Knights,17
-0,TERA,17
-0,Who's Your Daddy,17
 2014,Quake Live™,17
 2015,Call of Duty: World at War,17
 2013,Bastion,17
 2015,Hotline Miami 2: Wrong Number,16
 2015,Europa Universalis IV,16
-0,BioShock Infinite,16
 2014,Call of Juarez® Gunslinger,16
-2015,Loadout,16
-2015,Portal Stories: Mel,16
-2013,Alien Swarm,16
-2015,Block N Load,16
 2012,Counter-Strike: Source,16
 2014,Assassin’s Creed® IV Black Flag™,16
 2014,FEZ,16
 2014,Assassin's Creed® Unity,16
-0,Company of Heroes 2,16
 2015,Counter-Strike,16
 2015,Portal,16
 2014,Mark of the Ninja,16
 2013,Total War™: ROME II - Emperor Edition,16
-2012,PlanetSide 2,16
 2012,The Walking Dead,16
-0,American Truck Simulator,16
-0,Dragon's Dogma: Dark Arisen,16
 2011,Portal,16
 2015,Wolfenstein: The New Order,15
 2015,Mountain,15
 2012,Killing Floor,15
-0,This War of Mine,15
-0,Squad,15
 2015,DARK SOULS™ II: Scholar of the First Sin,15
 2015,Arma 2: Operation Arrowhead,15
 2015,Total War™: ROME II - Emperor Edition,15
@@ -497,7 +327,6 @@ year_review,app_name,recommend_count
 2013,Spec Ops: The Line,15
 2015,One Finger Death Punch,15
 2014,Poker Night at the Inventory,15
-0,Killing Floor,15
 2015,Minecraft: Story Mode - A Telltale Games Series,15
 2014,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,15
 2015,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,15
@@ -505,97 +334,57 @@ year_review,app_name,recommend_count
 2015,Game Dev Tycoon,15
 2015,Mortal Kombat X,15
 2014,Thief,15
-2014,Neverwinter,15
 2015,Game of Thrones - A Telltale Games Series,15
 2015,Total War: ATTILA,15
 2015,Batman™: Arkham Origins,15
 2015,Far Cry® 4,15
-0,METAL GEAR SOLID V: THE PHANTOM PAIN,15
-0,Cry of Fear,15
-2015,Fractured Space,14
-2015,Warface,14
 2015,Yet Another Zombie Defense,14
 2014,Mafia II,14
 2014,The Sims™ 3,14
 2013,State of Decay,14
 2014,Saints Row 2,14
 2015,The Walking Dead,14
-2013,AirMech Strike,14
-0,"Papers, Please",14
-2014,ArcheBlade™,14
-0,Stellaris,14
 2014,Mountain,14
-0,XCOM: Enemy Unknown,14
-0,Deus Ex: Mankind Divided,14
 2015,Black Mesa,14
 2015,Banished,14
-0,Castle Crashers®,14
-2014,Soldier Front 2,14
 2014,Thomas Was Alone,14
 2014,Grand Theft Auto: San Andreas,14
 2015,NotGTAV,14
-0,Age of Empires II HD,14
 2014,Far Cry® 4,14
 2014,Far Cry 3 - Blood Dragon,14
 2014,Call of Duty: World at War,14
-2015,Carpe Diem,14
 2014,Sins of a Solar Empire®: Rebellion,14
-0,Broforce,14
-0,SNOW,14
-0,Risk of Rain,14
 2014,Tales from the Borderlands,14
 2014,Age of Empires® III: Complete Collection,14
 2014,Democracy 3,14
-2015,Just Cause 2: Multiplayer Mod,14
 2014,Strike Vector,14
 2014,METAL SLUG 3,13
 2014,PAC-MAN™ Championship Edition DX+,13
-0,Euro Truck Simulator 2,13
 2014,Trine 2: Complete Story,13
-2014,Zombie Panic! Source,13
 2015,RWBY: Grimm Eclipse,13
-2013,Source Filmmaker,13
-2015,Gotham City Impostors Free to Play,13
-2015,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",13
 2015,Dino D-Day,13
-0,Yet Another Zombie Defense,13
-0,Magic Duels,13
-0,Batman™: Arkham Knight,13
 2014,Dungeon Defenders,13
 2015,Sid Meier's Civilization®: Beyond Earth™,13
-2015,Counter-Strike Nexon: Zombies,13
-0,South Park™: The Stick of Truth™,13
 2013,LIMBO,13
 2015,Metro: Last Light Redux,13
 2015,Transistor,13
-0,Tomb Raider,13
-0,RimWorld,13
 2014,Halo: Spartan Assault,13
-2015,theHunter Classic,13
-2015,Eternal Senia,13
 2014,Orcs Must Die! 2,13
 2013,Little Inferno,13
-2015,The Expendabros,13
 2015,To the Moon,13
 2014,Ultra Street Fighter® IV,13
-2015,AirMech Strike,13
 2013,Batman™: Arkham Origins,13
 2015,Ratz Instagib,13
-0,Warface,13
 2015,Mafia II,13
 2014,Call of Duty®: Black Ops,13
 2015,Ace of Spades: Battle Builder,13
 2013,Call of Duty®: Ghosts,13
-0,Darkest Dungeon®,13
 2013,"Papers, Please",13
 2014,How to Survive,12
-0,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,12
 2014,Bully: Scholarship Edition,12
-2015,Boring Man - Online Tactical Stickman Combat,12
 2014,The Ship: Murder Party,12
 2014,Fallout 3,12
 2015,Torchlight II,12
-2014,Evolve Stage 2,12
 2015,Saints Row: Gat out of Hell,12
 2015,"Papers, Please",12
 2015,The Walking Dead: Season 2,12
@@ -604,311 +393,172 @@ year_review,app_name,recommend_count
 2015,Fallout 3,12
 2015,Gunpoint,12
 2014,This War of Mine,12
-0,BattleBlock Theater®,12
-2014,You Have to Win the Game,12
 2013,Call of Duty®: Black Ops II,12
-0,APB Reloaded,12
 2015,Mirror's Edge™,12
 2015,The Stanley Parable,12
 2015,Plague Inc: Evolved,12
 2013,Super Meat Boy,12
-0,Hearts of Iron IV,12
-2013,Zombie Panic! Source,12
 2014,Brutal Legend,12
 2015,Batman: Arkham Asylum Game of the Year Edition,12
 2014,Divinity: Original Sin (Classic),12
 2013,The Wolf Among Us,12
 2015,Warhammer: End Times - Vermintide,12
 2015,How to Survive,12
-0,Counter-Strike: Source,12
-0,Scrap Mechanic,12
-2012,Blacklight: Retribution,12
-0,Goat Simulator,12
-0,Fistful of Frags,12
 2012,Half-Life 2,12
-2014,Depression Quest,12
 2013,Rogue Legacy,12
 2015,Interstellar Marines,12
 2015,DARK SOULS™ II,12
-2015,the static speaks my name,12
 2013,AudioSurf,12
 2014,Tropico 4,12
-2013,Super MNC,11
 2014,The Long Dark,11
 2013,Gunpoint,11
-2015,Gear Up,11
-2013,DC Universe™ Online,11
-2013,RIFT,11
-2015,Star Conflict,11
 2014,Rise of Nations: Extended Edition,11
-0,"Star Wars: Battlefront 2 (Classic, 2005)",11
 2014,Depth,11
 2015,Medieval Engineers,11
 2013,Company of Heroes 2,11
 2013,Outlast,11
-0,Call of Duty: World at War,11
-0,Call of Duty®: Modern Warfare® 2,11
-0,The Beginner's Guide,11
-2015,Neverwinter,11
-2013,8BitMMO,11
 2015,Call of Juarez® Gunslinger,11
 2014,Empire: Total War™,11
 2015,Surgeon Simulator,11
-0,ORION: Prelude,11
 2014,Arma II: DayZ Mod,11
-2014,Synergy,11
 2014,Kingdom Rush,11
-0,Drift Streets Japan,11
 2014,Receiver,11
 2014,Sid Meier's Civilization®: Beyond Earth™,11
 2012,The Binding of Isaac,11
-0,POSTAL 2,11
 2012,Mount & Blade: Warband,11
-0,Prison Architect,11
 2014,Overgrowth,11
-2014,Elsword,11
 2014,Tom Clancy’s Splinter Cell Blacklist,11
-0,Call of Duty®: Black Ops II,11
 2014,Jazzpunk: Director's Cut,11
 2015,Saints Row 2,11
 2014,Napoleon: Total War™,11
 2014,Broken Age,11
-2015,Viridi,11
-0,Paladins®,11
-2014,America's Army: Proving Grounds,11
-2015,Time Clickers,11
 2015,Tom Clancy's Rainbow Six® Siege,11
-2014,Star Trek Online,11
-0,Nuclear Throne,11
 2014,AudioSurf,11
-0,Assassin’s Creed® IV Black Flag™,11
-2014,Fallen Earth Free2Play,11
 2015,LEGO® Worlds,10
 2015,I am Bread,10
-0,Shadow Warrior,10
-2015,DC Universe™ Online,10
-2014,Dwarfs - F2P,10
 2015,SPINTIRES™,10
-2014,MapleStory,10
-2015,Romero's Aftermath,10
 2014,"Sir, You Are Being Hunted",10
-2010,Team Fortress 2,10
 2013,Assassin’s Creed® III,10
-2015,Vindictus,10
-0,Devil Daggers,10
 2014,GRID 2,10
 2015,Mount Your Friends,10
-0,Orcs Must Die! Unchained,10
-2013,Soldier Front 2,10
 2013,Euro Truck Simulator 2,10
-2014,Super MNC,10
-0,Spiral Knights,10
-2015,Survarium,10
 2015,Battlefield: Bad Company™ 2,10
-2015,Codename CURE,10
-0,RWBY: Grimm Eclipse,10
 2014,Nidhogg,10
-0,Middle-earth™: Shadow of Mordor™,10
-2015,ArcheBlade™,10
-0,Portal Stories: Mel,10
 2014,Deadlight,10
 2014,King Arthur's Gold,10
-2014,Vindictus,10
-0,Tree of Savior (English Ver.),10
-0,Paint the Town Red,10
 2013,Mirror's Edge™,10
-2015,how do you Do It?,10
 2014,Borderlands,10
-2014,RIFT,10
-2015,Without Within,10
 2013,Dungeon Defenders,10
 2014,Lethal League,10
 2014,Poker Night 2,10
 2014,Left 4 Dead,10
 2012,Just Cause 2,10
-2014,Everlasting Summer,10
-0,Pony Island,10
 2013,Hitman: Absolution™,10
 2013,"Star Wars: Battlefront 2 (Classic, 2005)",10
 2014,Shovel Knight: Treasure Trove,10
-2014,Narcissu 1st & 2nd,10
 2013,Orcs Must Die! 2,10
-0,Saints Row IV,10
-2015,Alien Swarm,10
 2015,LYNE,10
-0,Blood and Bacon,10
 2015,Magicite,10
-0,Grim Dawn,10
 2015,Duck Game,10
 2014,DLC Quest,10
 2012,Arma 2: Operation Arrowhead,10
-0,Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,10
 2015,BeamNG.drive,10
 2013,BioShock™,10
 2015,Gang Beasts,10
 2014,Interstellar Marines,10
-0,The Long Dark,10
 2015,Red Faction Guerrilla Steam Edition,9
 2014,The Escapists,9
 2013,King Arthur's Gold,9
 2014,Blade Symphony,9
-0,Age of Empires® III: Complete Collection,9
 2015,Grand Theft Auto: San Andreas,9
 2014,Shadow Warrior,9
 2013,Poker Night at the Inventory,9
 2012,Borderlands,9
-0,Kingdom: Classic,9
-0,Town of Salem,9
-2014,Spelunky,9
-0,Game Dev Tycoon,9
 2015,Mini Metro,9
-2015,Spelunky,9
 2015,Murder Miners,9
-2014,Floating Point,9
 2015,Jazzpunk: Director's Cut,9
-0,FTL: Faster Than Light,9
 2013,Mafia II,9
-2015,Fishing Planet,9
 2015,Empire: Total War™,9
 2014,Little Inferno,9
-0,Transmissions: Element 120,9
-2015,Dragon Nest,9
 2014,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,9
 2015,Sanctum 2,9
 2014,Endless Legend™,9
 2013,Arma II: DayZ Mod,9
-2013,Loadout,9
 2014,Mortal Kombat Komplete Edition,9
 2015,Quake Live™,9
 2014,METAL GEAR SOLID V: GROUND ZEROES,9
 2014,Life is Feudal: Your Own,9
-0,Crusader Kings II,9
 2015,Crypt of the NecroDancer,9
-2015,Red Crucible®: Firestorm,9
 2015,State of Decay,9
-2012,Tribes: Ascend,9
-0,Europa Universalis IV,9
-0,Dungeon Defenders II,9
-2012,Alien Swarm,9
-2015,Tribes: Ascend,9
 2015,Zombie Army Trilogy,9
 2014,Sonic & All-Stars Racing Transformed,9
-0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,9
 2013,Batman: Arkham Asylum Game of the Year Edition,9
-0,The Stanley Parable,9
-0,Gotham City Impostors Free to Play,9
-2014,The Lord of the Rings Online™,9
-2013,Super Crate Box,9
-2014,Max Gentlemen,9
-2015,The Plan,9
 2014,Dragon Age: Origins - Ultimate Edition,9
 2015,METAL GEAR SOLID V: GROUND ZEROES,9
 2014,Sanctum,9
-0,Block N Load,9
-0,Miscreated,9
-0,Tactical Intervention,9
 2013,Poker Night 2,9
 2014,Wargame: Red Dragon,9
 2012,Bastion,9
-2015,Elsword,9
 2015,Mortal Kombat Komplete Edition,9
-0,LIMBO,9
-0,Mitos.is: The Game,9
-2015,Mitos.is: The Game,9
-0,Battleborn,9
-2014,8BitMMO,9
-0,Depth,9
 2013,Empire: Total War™,9
 2013,Call of Duty®: Modern Warfare® 2,9
-2015,WARMODE,9
 2013,Borderlands,9
 2014,FINAL FANTASY VII,9
-2014,PAYDAY 2: Hotline Miami,9
-2013,Defiance,9
 2015,Bastion,9
 2014,Long Live The Queen,9
-0,What's under your blanket !?,9
-2014,Counter-Strike Nexon: Zombies,9
 2013,Fallout 3: Game of the Year Edition,9
 2014,Alan Wake,9
 2014,Oddworld: Abe's Oddysee®,9
 2013,Left 4 Dead,9
 2013,DLC Quest,9
-0,Plague Inc: Evolved,9
 2014,Company of Heroes - Legacy Edition,9
 2015,Sniper Elite V2,9
 2015,Age of Empires® III: Complete Collection,8
 2013,Amnesia: The Dark Descent,8
 2015,Dungeon Defenders,8
 2011,Left 4 Dead 2,8
-0,My Name is Mayo,8
-0,Unturned - Permanent Gold Upgrade,8
 2013,Crusader Kings II,8
 2014,A Bird Story,8
 2015,Amnesia: The Dark Descent,8
 2015,Call of Duty®: Black Ops,8
 2014,Child of Light,8
-0,Blacklight: Retribution,8
 2014,Blockland,8
 2015,Turbo Pug,8
-0,Metro: Last Light Redux,8
-0,Arma 2: Operation Arrowhead,8
 2014,Super Amazing Wagon Adventure,8
-0,Refunct,8
-0,Chivalry: Medieval Warfare,8
 2015,LEGO® Marvel™ Super Heroes,8
 2014,The Witcher: Enhanced Edition Director's Cut,8
 2013,Alan Wake,8
 2013,Half-Life,8
 2015,Nether: Resurrected,8
-0,Codename CURE,8
 2015,theHunter: Primal,8
-0,The Walking Dead,8
 2015,Men of War: Assault Squad 2,8
 2014,Mount Your Friends,8
-0,Alien Swarm,8
 2014,The Elder Scrolls IV: Oblivion® Game of the Year Edition,8
 2014,Half-Life 2: Episode Two,8
 2015,Squad,8
-0,A Story About My Uncle,8
 2015,Shadow Warrior,8
 2012,Portal,8
 2012,Mirror's Edge™,8
-2015,Strife®,8
-2015,Magic Duels,8
 2014,Crysis 2 - Maximum Edition,8
 2013,Farming Simulator 2013 Titanium Edition,8
 2015,STAR WARS™ - Knights of the Old Republic™,8
-2013,MapleStory,8
 2014,The Darkness II,8
-0,Tower Unite,8
 2015,Poker Night at the Inventory,8
-0,Far Cry® Primal,8
 2015,STAR WARS™ Republic Commando™,8
 2014,Farming Simulator 15,8
 2015,Caster,8
-0,Borderlands: The Pre-Sequel,8
-2015,Synergy,8
 2014,Hammerwatch,8
 2015,Medieval II: Total War™,8
-0,Transistor,8
-0,Carpe Diem,8
 2013,Thomas Was Alone,8
-0,SimplePlanes,8
 2013,Gone Home,8
 2015,Sniper Elite 3,8
 2014,Kingdoms of Amalur: Reckoning™,8
 2014,Electronic Super Joy,8
-0,Hitman: Absolution™,8
-0,Besiege,8
 2015,Little Inferno,8
 2014,Injustice: Gods Among Us Ultimate Edition,8
-0,Fractured Space,8
 2014,NEO Scavenger,8
-0,Just Cause 2,8
 2015,The Elder Scrolls IV: Oblivion® Game of the Year Edition,8
 2015,Survival: Postapocalypse Now,8
-0,Batman - The Telltale Series,8
 2015,Dust: An Elysian Tail,8
 2014,Guacamelee! Gold Edition,8
 2013,Trine 2: Complete Story,8
@@ -916,9 +566,6 @@ year_review,app_name,recommend_count
 2013,Wargame: Airland Battle,8
 2011,Counter-Strike: Source,7
 2012,Call of Duty®: Modern Warfare® 2,7
-2012,Source Filmmaker,7
-2011,Alien Swarm,7
-0,Rivals of Aether,7
 2015,Lethal League,7
 2015,The Talos Principle,7
 2015,Brothers - A Tale of Two Sons,7
@@ -933,10 +580,8 @@ year_review,app_name,recommend_count
 2013,Counter-Strike,7
 2015,Sleeping Dogs: Definitive Edition,7
 2015,Endless Legend™,7
-0,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",7
 2013,Dead Space,7
 2015,Rogue Legacy,7
-2012,Super MNC,7
 2015,Poker Night 2,7
 2015,From the Depths,7
 2013,The Witcher 2: Assassins of Kings Enhanced Edition,7
@@ -949,118 +594,76 @@ year_review,app_name,recommend_count
 2014,Deus Ex: Game of the Year Edition,7
 2014,STAR WARS™ Jedi Knight - Jedi Academy™,7
 2014,Batman: Arkham Asylum Game of the Year Edition,7
-0,Far Cry 3,7
-2013,Spelunky,7
 2013,Dust: An Elysian Tail,7
-0,Spec Ops: The Line,7
-0,Double Action: Boogaloo,7
-0,Gang Beasts,7
-2015,PAYDAY 2: The OVERKILL Pack,7
-2014,Sniper Elite: Nazi Zombie Army 2,7
 2014,Primal Carnage,7
 2013,Shadow Warrior,7
-0,Warhammer: End Times - Vermintide,7
 2013,Sniper Elite: Nazi Zombie Army,7
 2015,Half-Life 2: Episode Two,7
 2015,Grand Theft Auto: Vice City,7
 2014,The Crew™,7
-0,ShellShock Live,7
 2014,Sniper Elite 3,7
 2014,Day of Defeat: Source,7
 2014,Audiosurf 2,7
 2015,Aliens vs. Predator™,7
-0,To the Moon,7
-2015,Freestyle 2: Street Basketball,7
 2014,VVVVVV,7
 2013,LEGO® Marvel™ Super Heroes,7
 2014,"Warhammer® 40,000: Dawn of War® - Dark Crusade",7
-0,Bastion,7
 2013,Skullgirls,7
-0,Duck Game,7
 2014,LIMBO,7
 2015,Nidhogg,7
 2015,Sonic & All-Stars Racing Transformed,7
 2015,Train Simulator,7
 2015,Assassin's Creed 2 Deluxe Edition,7
-0,Alien: Isolation,7
-0,Hyper Light Drifter,7
 2013,Max Payne 3,7
 2014,FaceRig,7
-0,BioShock™,7
 2014,FarSky,7
 2013,Monaco: What's Yours Is Mine,7
 2014,Fable Anniversary,7
 2013,Project Zomboid,7
 2014,Grand Theft Auto: Vice City,7
 2014,Valkyria Chronicles™,7
-2015,MapleStory,7
 2015,Plug & Play,7
-2014,Only If,7
-0,MapleStory,7
 2014,BIT.TRIP RUNNER,7
 2014,Men of War: Assault Squad,7
 2015,Borderlands,7
-0,The Walking Dead: Season 2,7
 2015,The Witcher: Enhanced Edition Director's Cut,7
-2015,Dev Guy,7
 2013,McPixel,7
 2013,Reus,7
 2014,Lichdom: Battlemage,7
 2014,Game of Thrones - A Telltale Games Series,7
 2015,Kung Fury: Street Rage,7
-0,DARK SOULS™ II: Scholar of the First Sin,7
 2013,POSTAL 2,7
 2014,Fable - The Lost Chapters,7
 2013,Primal Carnage,7
 2015,Call of Duty®: Ghosts,7
 2014,LUFTRAUSERS,7
 2014,The Swapper,7
-0,Kerbal Space Program,7
-0,Game of Thrones - A Telltale Games Series,7
-0,Guardians of Orion,6
 2014,Wargame: Airland Battle,6
-0,ARK: Survival Of The Fittest,6
 2014,Assassin’s Creed® III,6
 2015,Hacknet,6
 2015,Talisman: Digital Edition,6
 2014,Defy Gravity Extended,6
-0,The Plan,6
 2015,Burnout Paradise: The Ultimate Box,6
 2015,Unturned - Permanent Gold Upgrade,6
 2015,The Elder Scrolls III: Morrowind® Game of the Year Edition,6
-2015,PAYDAY 2: The Butcher's BBQ Pack,6
 2015,Bloons TD 5,6
-0,Banished,6
 2012,Saints Row: The Third,6
 2015,Antichamber,6
 2014,Cortex Command,6
 2014,Magic 2014 — Duels of the Planeswalkers,6
 2015,Bully: Scholarship Edition,6
 2015,Dead Bits,6
-2015,SNOW,6
 2014,McPixel,6
-0,Ace of Spades: Battle Builder,6
 2015,"Warhammer® 40,000: Dawn of War® - Soulstorm",6
-0,Orcs Must Die! 2,6
-0,Total War™: ROME II - Emperor Edition,6
-2015,Narcissu 1st & 2nd,6
 2014,Go! Go! Nippon! ~My First Trip to Japan~,6
 2014,Slender: The Arrival,6
 2015,Half-Life 2: Episode One,6
-0,Fallout 3,6
 2014,STARWHAL,6
 2014,BlazBlue: Calamity Trigger,6
-0,Bit Blaster XL,6
-2014,Dragons and Titans,6
 2015,Hero Siege,6
-2014,Anarchy Arcade,6
 2010,Killing Floor,6
-0,Fallout 4 - Automatron,6
-2014,Serena,6
 2014,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,6
 2014,Always Sometimes Monsters,6
-2014,Battle Islands,6
-0,Riders of Icarus,6
 2015,Blockstorm,6
 2014,"Cook, Serve, Delicious!",6
 2012,Day of Defeat: Source,6
@@ -1069,61 +672,33 @@ year_review,app_name,recommend_count
 2015,Shovel Knight: Treasure Trove,6
 2015,Woodle Tree Adventures,6
 2015,Hitman: Blood Money,6
-0,Loadout,6
-0,SpeedRunners,6
-0,Danganronpa: Trigger Happy Havoc,6
 2012,Left 4 Dead,6
-0,Gunpoint,6
-0,Wolfenstein: The New Order,6
-0,Saints Row: The Third,6
 2015,Go! Go! Nippon! ~My First Trip to Japan~,6
-2011,Spiral Knights,6
 2015,Rome: Total War™ - Collection,6
-2015,Relic Hunters Zero,6
 2015,Rivals of Aether,6
 2011,Magicka,6
 2014,Nuclear Throne,6
-0,Dino D-Day,6
 2014,Tropico 5,6
-2012,Spiral Knights,6
-0,Counter-Strike,6
-0,WildStar,6
 2014,Aliens vs. Predator™,6
-2014,TrackMania Nations Forever,6
-2014,Dragon Nest,6
 2015,Beat Hazard,6
 2013,Scribblenauts Unlimited,6
-0,TerraTech,6
-2013,Dungeonland,6
 2014,Mass Effect,6
-0,Quake Live™,6
 2013,RaceRoom Racing Experience,6
 2013,Sanctum 2,6
 2013,FINAL FANTASY VII,6
 2013,SpeedRunners,6
 2015,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,6
-0,Hacknet,6
-2015,Super Crate Box,6
 2013,Call of Juarez® Gunslinger,6
-0,Life is Feudal: Your Own,6
 2013,DmC: Devil May Cry,6
-0,Counter-Strike Nexon: Zombies,6
 2015,The Darkness II,6
-0,Microsoft Flight Simulator X: Steam Edition,6
 2013,Prison Architect,6
-0,Farming Simulator 15,6
 2015,Paint the Town Red,6
 2013,Grand Theft Auto: San Andreas,6
-2015,Echoes+,6
 2013,Electronic Super Joy,6
 2015,Monaco: What's Yours Is Mine,6
-2013,Star Trek Online,6
 2013,RAGE,6
 2015,DLC Quest,6
-0,The Elder Scrolls® Online: Tamriel Unlimited™,6
 2013,Brutal Legend,6
-0,Ryse: Son of Rome,6
-0,Far Cry® 4,6
 2015,Gone Home,6
 2013,FEZ,6
 2013,Burnout Paradise: The Ultimate Box,6
@@ -1131,46 +706,31 @@ year_review,app_name,recommend_count
 2015,Resident Evil 6 / Biohazard 6,6
 2014,Beat Hazard,6
 2012,Alan Wake,6
-0,Black Mesa,6
 2015,Savage Lands,6
 2015,Trine 2: Complete Story,6
 2014,Supreme Commander 2,6
-0,Ori and the Blind Forest,6
-2014,Stronghold Kingdoms,6
 2015,FINAL FANTASY VII,6
-0,Just Cause 2: Multiplayer Mod,6
 2015,PAC-MAN™ Championship Edition DX+,6
-2013,Fallen Earth Free2Play,6
 2013,L.A. Noire,6
 2012,Dishonored,6
-0,Spooky's Jump Scare Mansion,6
 2015,METAL GEAR RISING: REVENGEANCE,6
 2015,DmC: Devil May Cry,6
 2015,King Arthur's Gold,6
 2014,Assassin’s Creed® Brotherhood,6
-0,Survarium,6
 2015,Deus Ex: Human Revolution - Director's Cut,6
 2014,Dead Bits,5
-2015,Anarchy Arcade,5
 2015,Octodad: Dadliest Catch,5
 2015,Max Payne 3,5
-0,Istrolid,5
 2015,Hand of Fate,5
-2015,Defiance,5
 2011,Borderlands,5
-2015,Minimum,5
 2015,The Ship: Murder Party,5
-2015,World of Guns: Gun Disassembly,5
-2013,Stronghold Kingdoms,5
 2014,Crypt of the NecroDancer,5
 2014,Door Kickers,5
 2014,Road Redemption,5
 2015,Ultimate Doom,5
 2011,AudioSurf,5
-2015,You Have to Win the Game,5
 2015,Pixel Piracy,5
 2013,Far Cry 3 - Blood Dragon,5
-2014,Block N Load,5
 2013,TrackMania² Stadium,5
 2013,Brothers - A Tale of Two Sons,5
 2015,Team Fortress Classic,5
@@ -1182,31 +742,21 @@ year_review,app_name,recommend_count
 2014,LYNE,5
 2014,theHunter: Primal,5
 2014,Gang Beasts,5
-0,Welcome to the Game,5
-2013,ArcheBlade™,5
 2014,Melody's Escape,5
 2015,Westerado: Double Barreled,5
-0,Montaro,5
 2014,100% Orange Juice,5
-2014,Villagers and Heroes,5
-2013,Dwarfs - F2P,5
 2014,Lovely Planet,5
 2015,Counter-Strike: Condition Zero,5
-2014,Infinity Wars: Animated Trading Card Game,5
 2014,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,5
 2013,GRID 2,5
 2014,Gauntlet™ Slayer Edition,5
 2013,Mass Effect 2,5
 2011,Half-Life 2,5
 2015,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,5
-0,Crush Crush,5
 2015,100% Orange Juice,5
-0,MANDAGON,5
 2014,Ziggurat,5
 2014,FINAL FANTASY® XIII,5
-0,ChuSingura46+1 S,5
 2015,Robot Roller-Derby Disco Dodgeball,5
-2015,Estranged: Act I,5
 2015,Supreme Commander 2,5
 2014,Proteus,5
 2014,Trials Evolution: Gold Edition,5
@@ -1215,11 +765,9 @@ year_review,app_name,recommend_count
 2012,Poker Night at the Inventory,5
 2014,STAR WARS™ - Knights of the Old Republic™,5
 2014,Resident Evil 6 / Biohazard 6,5
-2012,DC Universe™ Online,5
 2012,Fallout: New Vegas,5
 2015,Tropico 5,5
 2014,DG2: Defense Grid 2,5
-2012,Zombie Panic! Source,5
 2015,Receiver,5
 2014,Reus,5
 2014,Hearts of Iron III,5
@@ -1229,27 +777,22 @@ year_review,app_name,recommend_count
 2013,Audiosurf 2,5
 2015,Fallout 2: A Post Nuclear Role Playing Game,5
 2014,The Bureau: XCOM Declassified,5
-2014,Universe Sandbox,5
 2014,E.Y.E: Divine Cybermancy,5
 2014,Frozen Synapse,5
 2014,Duke Nukem Forever,5
 2012,Orcs Must Die! 2,5
-2012,Gotham City Impostors Free to Play,5
 2014,Retro City Rampage™ DX,5
 2014,Need For Speed: Hot Pursuit,5
 2015,Command & Conquer: Red Alert 3,5
 2015,SPORE™,5
-2014,Minimum,5
 2015,Oddworld: Abe's Oddysee®,5
 2014,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,5
 2014,Victoria II,5
 2014,The Elder Scrolls III: Morrowind® Game of the Year Edition,5
 2015,Ultra Street Fighter® IV,5
-2014,"Pirates, Vikings, and Knights II",5
 2014,Dead Space,5
 2015,Kingdoms of Amalur: Reckoning™,5
 2015,STAR WARS™ Jedi Knight - Jedi Academy™,5
-2015,Super MNC,5
 2014,Angry Video Game Nerd Adventures,5
 2015,Project Zomboid,5
 2014,Edge of Space,5
@@ -1263,7 +806,6 @@ year_review,app_name,recommend_count
 2014,140,5
 2015,Plants vs. Zombies GOTY Edition,5
 2015,Kingdom Wars,5
-2013,Elsword,5
 2014,Psychonauts,5
 2013,Rome: Total War™ - Collection,5
 2013,Day of Defeat: Source,5
@@ -1283,195 +825,93 @@ year_review,app_name,recommend_count
 2014,Teleglitch: Die More Edition,5
 2015,Grim Dawn,5
 2014,Screencheat,5
-0,Batman: Arkham Asylum Game of the Year Edition,5
-0,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,5
-0,Blender,5
-0,The Talos Principle,5
-2015,ArcheAge,5
 2015,Tales of Zestiria,5
-0,Blockstorm,5
-0,One Finger Death Punch,5
 2015,Absolute Drift,5
-0,Batman™: Arkham Origins,5
-0,Time Clickers,5
-0,AirMech Strike,5
-0,Hero Siege,5
 2015,Voices from the Sea,5
-0,Plug & Play,5
-0,Call of Juarez® Gunslinger,5
-0,Batman: Arkham City - Game of the Year Edition,5
-2015,TOXIKK™,5
-0,Youtubers Life,5
-0,BioShock™ Remastered,5
-0,SOMA,5
 2015,Resident Evil / biohazard HD REMASTER,5
-0,Hook,5
-0,WWE 2K16,5
-0,Bully: Scholarship Edition,5
-0,Surgeon Simulator,5
-0,METAL GEAR RISING: REVENGEANCE,5
-2015,SC2VN - The eSports Visual Novel,5
 2015,Hook,5
-0,DARK SOULS™ II,5
 2015,Farming Simulator 15,5
-2015,Endless Sky,5
-0,Outlast,5
 2015,Commander Cool 2,5
-0,LiEat,5
-2015,Card Hunter,5
-0,Skullgirls,5
 2015,Polarity,5
-2015,Frozen Free Fall: Snowball Fight,5
-0,NBA 2K16,5
-0,Toribash,5
 2015,If My Heart Had Wings,5
 2015,Rocket League® - Back to the Future™ Car Pack,5
-0,Portal,5
-0,Turbo Pug,5
-0,FINAL FANTASY XIV Online,5
 2015,GRAV,5
-0,Tropico 4,5
 2015,Orbital Gear,5
-0,Grass Simulator,5
-0,PAYDAY™ The Heist,5
-0,Dying Light: The Following,5
-0,Magicka,5
 2015,FINAL FANTASY TYPE-0™ HD,5
 2015,Layers of Fear,5
-2015,Among Ripples,5
-0,Move or Die,5
-0,LISA,5
 2015,AKIBA'S TRIP: Undead ＆ Undressed,5
-0,Nidhogg,5
-0,The Expendabros,5
 2015,Rake,5
-0,The Sims™ 3,5
-0,Enter the Gungeon,5
-0,Mount Your Friends,5
-0,Half-Life,5
-0,Sniper Elite V2,5
-2015,TrackMania Nations Forever,4
 2015,GRID Autosport,4
-2014,Champions of Regnum,4
 2014,Dungeon of the Endless™,4
 2014,Delver,4
-0,Hurtworld,4
 2014,Dead Pixels,4
-0,Resident Evil 6 / Biohazard 6,4
-0,HELLDIVERS™,4
-0,Antichamber,4
 2014,Freedom Planet,4
-0,Crashlands,4
-0,F1 2016,4
 2014,Rocksmith® 2014 Edition - Remastered,4
-2012,Fallen Earth Free2Play,4
-2014,WAKFU,4
-2015,World of Soccer online,4
 2015,Tom Clancy’s Splinter Cell Blacklist,4
-2014,Dungeonland,4
-2015,Blender,4
-2015,PAYDAY 2: The Alesso Heist,4
 2014,Pid,4
-2015,Seduce Me the Otome,4
 2011,Super Meat Boy,4
 2012,Castle Crashers®,4
 2015,Don't Starve: Shipwrecked,4
 2014,Damned,4
-2012,Awesomenauts - the 2D moba,4
 2012,Max Payne 3,4
 2015,Kingdom: Classic,4
 2014,Among the Sleep - Enhanced Edition,4
 2014,RPG Maker VX Ace,4
-2015,Soldier Front 2,4
 2015,"Warhammer® 40,000: Dawn of War® - Dark Crusade",4
-2015,Star Trek Online,4
-0,Jet Set Radio,4
 2014,Shelter,4
-0,The Darkness II,4
-0,Sins of a Solar Empire®: Rebellion,4
-0,Awesomenauts - the 2D moba,4
 2015,Door Kickers,4
 2012,AudioSurf,4
 2014,The Banner Saga,4
 2014,Urban Trial Freestyle,4
 2012,Sid Meier's Civilization® V,4
-2015,PAYDAY 2: Gage Ninja Pack,4
-2015,PAYDAY 2: Yakuza Character Pack,4
 2015,Shoppe Keep,4
 2015,Flesh Eaters,4
 2015,Company of Heroes - Legacy Edition,4
 2014,Bleed,4
 2015,Super Amazing Wagon Adventure,4
-0,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,4
-0,Suits: A Business RPG,4
-2014,SNOW,4
 2014,The Typing of The Dead: Overkill,4
 2014,LOST PLANET® 3,4
 2015,Ryse: Son of Rome,4
 2012,Spec Ops: The Line,4
 2015,RollerCoaster Tycoon® 3: Platinum,4
-2015,PAYDAY 2: Sokol Character Pack,4
 2014,God Mode,4
 2015,Wargame: Red Dragon,4
 2014,Remember Me,4
 2014,Volgarr the Viking,4
-0,Sonic Adventure 2,4
 2014,Ace Combat Assault Horizon - Enhanced Edition,4
 2015,New kind of adventure,4
 2014,Talisman: Digital Edition,4
 2015,Human Resource Machine,4
 2014,Knights of Pen and Paper +1 Edition,4
 2015,StarMade,4
-2015,Call to Arms,4
 2015,Call of Duty® 4: Modern Warfare®,4
 2015,Deus Ex: Game of the Year Edition,4
-0,Planetary Annihilation: TITANS,4
 2012,Chivalry: Medieval Warfare,4
-0,Endless Legend™,4
 2014,Grand Theft Auto: Episodes from Liberty City,4
 2013,Rise of the Triad,4
 2013,The Incredible Adventures of Van Helsing,4
 2014,"Warhammer 40,000: Dawn of War II",4
-0,HuniePop,4
-2013,Star Conflict,4
 2013,Deadlight,4
-2014,Age of Chivalry,4
 2013,Strike Suit Zero,4
 2014,Far Cry® 2: Fortune's Edition,4
-0,Reign Of Kings,4
-2015,Mabinogi,4
-2015,The Lord of the Rings Online™,4
-0,Boring Man - Online Tactical Stickman Combat,4
 2013,Sins of a Solar Empire®: Rebellion,4
-2015,Dwarfs - F2P,4
-2015,The Old Tree,4
 2015,Mark of the Ninja,4
 2014,Medal of Honor: Airborne,4
 2014,Mass Effect 2,4
-0,Hotline Miami 2: Wrong Number,4
-0,Time of Dragons,4
 2013,Age of Empires® III: Complete Collection,4
-0,Mini Metro,4
 2015,BIT.TRIP RUNNER,4
 2015,FINAL FANTASY XIV Online,4
-2015,Everlasting Summer,4
 2013,Super Amazing Wagon Adventure,4
 2013,Contagion,4
 2014,Team Fortress Classic,4
-2014,Half-Life 2: Lost Coast,4
 2015,Defy Gravity Extended,4
-0,Red Crucible®: Firestorm,4
 2015,ibb & obb,4
 2013,Remember Me,4
 2015,Waveform,4
 2014,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",4
 2014,Rome: Total War™ - Collection,4
-0,Valkyria Chronicles™,4
-0,Gloria Victis,4
 2015,Sonic Generations Collection,4
-0,I am Bread,4
 2014,Geometry Wars: Retro Evolved,4
-0,Duelyst,4
 2013,Insurgency,4
 2013,Rocksmith® 2014 Edition - Remastered,4
 2015,Executive Assault,4
@@ -1482,210 +922,119 @@ year_review,app_name,recommend_count
 2015,Oddworld: New 'n' Tasty,4
 2013,Mass Effect,4
 2015,Galactic Civilizations III,4
-2015,Copa Petrobras de Marcas,4
 2015,The Witcher 2: Assassins of Kings Enhanced Edition,4
 2014,The Bridge,4
 2013,Bully: Scholarship Edition,4
 2014,Serious Sam 2,4
 2014,Tiny and Big: Grandpa's Leftovers,4
 2015,Divinity: Original Sin (Classic),4
-0,"Warhammer® 40,000™: Dawn of War® II - Retribution - The Last Stand Necron Overlord",4
-2015,404Sight,4
-0,Interstellar Marines,4
 2014,RaceRoom Racing Experience,4
 2015,Far Cry 3 - Blood Dragon,4
-0,Tom Clancy’s Splinter Cell Blacklist,4
-0,Empyrion - Galactic Survival,4
-2015,Simply Chess,4
 2015,Assassin’s Creed® Rogue,4
-2013,Half-Life 2: Lost Coast,4
-0,ABZU,4
-2013,Synergy,4
-0,Crypt of the NecroDancer,4
 2015,Wolfenstein: The Old Blood,4
 2015,Worms Reloaded,4
 2014,Secret of the Magic Crystals,4
 2014,Devil May Cry 4,4
-0,FINAL FANTASY X/X-2 HD Remaster,4
 2013,Beat Hazard,4
-0,SPINTIRES™,4
 2015,Hyperdimension Neptunia Re;Birth2: Sisters Generation / 超次次元ゲイム ネプテューヌRe;Birth2,4
 2013,Medal of Honor™,4
 2015,The Collider,4
-0,World of Guns: Gun Disassembly,4
-0,Lethal League,4
 2014,ARMA: Cold War Assault,4
 2015,Overgrowth,4
 2013,Bad Rats: the Rats' Revenge,4
 2015,Grim Fandango Remastered,4
 2013,Lord of the Rings: War in the North,4
 2014,Dungeons of Dredmor,4
-0,CrossCode,4
 2013,Battlefield: Bad Company™ 2,4
-0,The Wolf Among Us,4
-0,Season of 12 Colors,4
 2015,Microsoft Flight Simulator X: Steam Edition,4
-0,Street Fighter V,4
 2014,The Evil Within,4
 2015,TerraTech,4
 2015,Nyan Cat: Lost In Space,4
-0,PAYDAY 2: Wolf Pack,4
-2014,Interplanetary,4
 2015,Rise of Nations: Extended Edition,4
-0,The Walking Dead: Michonne - A Telltale Miniseries,4
-2010,Alien Swarm,4
 2015,Pillars of Eternity,4
-0,Fallout 3: Game of the Year Edition,4
-0,Natural Selection 2,4
-0,S.T.A.L.K.E.R.: Clear Sky,4
 2015,A Story About My Uncle,4
 2015,Dinosaur Hunt,4
 2014,resident evil 4 / biohazard 4,4
-0,Worm.is: The Game,4
 2015,Turbo Dismount™,4
 2014,Microsoft Flight Simulator X: Steam Edition,4
-0,Day of Defeat: Source,4
 2015,RUNNING WITH RIFLES,4
 2011,Battlefield: Bad Company™ 2,4
 2014,Year Walk,4
 2014,Don't Starve: Reign of Giants,4
 2015,The LEGO® Movie - Videogame,4
 2011,Just Cause 2,4
-2014,BLOCKADE 3D,4
-2014,Lambda Wars Beta,4
 2014,Mount & Blade: Warband - Viking Conquest Reforged Edition,4
-0,The Witcher: Enhanced Edition Director's Cut,4
 2014,Aperture Tag: The Paint Gun Testing Initiative,4
-0,The Center - ARK Expansion Map,4
 2014,Eryi's Action,4
-0,Borderlands,4
 2015,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,4
 2014,Bloody Trapland,4
 2015,Assassin's Creed® Unity,4
 2011,Saints Row 2,4
-0,LEGO® Star Wars™ - The Complete Saga,4
-2014,Eldevin,4
-2014,Royal Quest,4
-0,LEGO® STAR WARS™: The Force Awakens,4
-0,STAR WARS™ - Knights of the Old Republic™,4
-0,Aliens vs. Predator™,4
-2014,City of Steam: Arkadia,4
-2014,ArcheAge,4
-0,Fallout 4 Far Harbor,4
-0,Medieval II: Total War™,4
-2015,Echo of Soul,4
 2013,Mark of the Ninja,3
 2010,Portal,3
-0,Metro 2033 Redux,3
 2014,Primal Carnage: Extinction,3
 2014,Drunken Robot Pornography,3
-2015,"Pirates, Vikings, and Knights II",3
 2014,Endless Space® - Collection,3
 2014,IL-2 Sturmovik: 1946,3
-0,Sniper Elite 3,3
-2013,Secret World Legends,3
 2013,Medieval II: Total War™,3
-0,Panzermadels: Tank Dating Simulator,3
 2012,Quantum Conundrum,3
 2013,Saints Row 2,3
 2015,A Bird Story,3
-0,Mad Games Tycoon,3
-0,Fallout 4 - Wasteland Workshop,3
-0,Salt and Sanctuary,3
 2015,Tasty Blue,3
-2013,Dragon Nest,3
-0,State of Decay,3
-2015,CaesarIA,3
-0,Empire: Total War™,3
 2015,Diabolical,3
 2015,Remember Me,3
-0,Soldier Front 2,3
 2015,War for the Overworld,3
 2015,Downwell,3
-2015,Ultimate Tic-Tac-Toe,3
 2013,Sonic Adventure 2,3
-0,Freestyle 2: Street Basketball,3
-0,The Isle,3
 2013,Magic 2014 — Duels of the Planeswalkers,3
-0,Ratz Instagib,3
-0,Contagion,3
 2014,Legend of Grimrock,3
-2013,EVE Online,3
 2015,Salt,3
 2015,LEGO® Batman™3: Beyond Gotham,3
 2015,Broken Age,3
 2015,Assassin’s Creed® III,3
 2014,Cavern Kings,3
-2015,MINERVA,3
 2015,Year Walk,3
 2015,FINAL FANTASY® XIII,3
-0,Armello,3
 2015,Ziggurat,3
 2014,Crawl,3
 2014,Penguins Arena: Sedna's World,3
 2015,Fable Anniversary,3
 2015,Sid Meier's Civilization V: Brave New World,3
-0,Fable Anniversary,3
 2013,Trials Evolution: Gold Edition,3
-0,Hyperdimension Neptunia U: Action Unleashed,3
 2013,Resident Evil 6 / Biohazard 6,3
-0,Elsword,3
-0,XCOM 2: Alien Hunters,3
 2014,"Warhammer® 40,000: Dawn of War® - Soulstorm",3
 2015,Planet Explorers,3
 2015,60 Seconds!,3
-0,Steel Ocean,3
-0,Galactic Civilizations III,3
-0,The Fall,3
-0,Castle Story,3
 2015,The Jackbox Party Pack,3
 2015,oO,3
 2014,Rise of the Triad,3
-0,The Room,3
-0,Ultimate Chicken Horse,3
 2015,LUFTRAUSERS,3
 2014,RUNNING WITH RIFLES,3
-2015,Lambda Wars Beta,3
 2013,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,3
 2015,Reassembly,3
-2014,Amazing World™,3
 2014,Thief™ Gold,3
-0,Watch_Dogs™,3
 2015,Geometry Wars™ 3: Dimensions Evolved,3
-0,The SKIES,3
-2013,Peggle Extreme,3
 2015,Dead Space,3
 2010,Garry's Mod,3
 2014,Robot Roller-Derby Disco Dodgeball,3
-0,Poker Night 2,3
 2013,Half-Life 2: Episode One,3
 2015,Sonic Lost World,3
 2015,Phantom Breaker: Battle Grounds,3
 2015,Oddworld: Stranger's Wrath HD,3
 2014,LOVE,3
-2014,Gear Up,3
 2014,LEGO The Lord of the Rings,3
-0,Grand Theft Auto III,3
 2012,Far Cry 3,3
-0,Grand Theft Auto: San Andreas,3
-0,Far Cry 3 - Blood Dragon,3
 2014,Geometry Dash,3
-0,ARK: Scorched Earth - Expansion Pack,3
 2014,Medal of Honor™,3
 2015,911: First Responders®,3
 2013,The Sims™ 3,3
-0,FaceRig,3
 2013,Mount & Blade: With Fire & Sword,3
-0,Eternal Senia,3
 2014,Mount & Blade: With Fire & Sword,3
 2015,Victoria II,3
-0,PAYDAY 2: Sydney Character Pack,3
 2015,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,3
 2013,MX vs. ATV Reflex,3
 2015,Halo: Spartan Assault,3
 2015,Liftoff,3
-0,Roguelands,3
-2013,America's Army: Proving Grounds,3
 2015,GRID 2,3
 2015,Lord of the Rings: War in the North,3
 2013,Torchlight,3
@@ -1693,57 +1042,39 @@ year_review,app_name,recommend_count
 2015,Alpha Protocol™,3
 2015,Wings of Vi,3
 2014,MX vs. ATV Reflex,3
-0,Zero G Arena,3
 2014,Red Faction®: Armageddon™,3
 2014,Homefront,3
-0,Romero's Aftermath,3
 2013,Secret of the Magic Crystals,3
-0,Wolfenstein: The Old Blood,3
-0,LYNE,3
 2015,Tokyo School Life,3
 2014,Lord of the Rings: War in the North,3
-2015,Modular Combat,3
-2015,RIFT,3
 2015,Worms Armageddon,3
 2014,STAR WARS™ Empire at War - Gold Pack,3
 2015,Don Bradman Cricket 14,3
 2015,Tiny Troopers,3
 2015,Armello,3
-0,LoveBeat,3
 2014,Fallout 2: A Post Nuclear Role Playing Game,3
-0,Lambda Wars Beta,3
 2014,Arma 2,3
-0,Secrets of Grindea,3
 2015,S.T.A.L.K.E.R.: Call of Pripyat,3
 2014,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,3
 2014,Stronghold Crusader HD,3
 2014,Serious Sam HD: The First Encounter,3
 2015,"Warhammer 40,000: Regicide",3
-0,Party Hard,3
 2013,The Darkness II,3
 2015,Primal Carnage: Extinction,3
 2015,Aperture Tag: The Paint Gun Testing Initiative,3
 2015,Lucius,3
 2015,Scribblenauts Unlimited,3
 2015,Fallout: A Post Nuclear Role Playing Game,3
-0,STAR WARS™ Republic Commando™,3
-0,Cobalt,3
-0,Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,3
 2015,STAR WARS™ - Dark Forces,3
 2013,The Elder Scrolls IV: Oblivion® Game of the Year Edition,3
-2015,Half-Life 2: Update,3
 2013,Endless Space® - Collection,3
 2014,Wild Warfare,3
-0,Victor Vran ARPG,3
 2015,Contrast,3
 2015,Windward,3
 2014,Influent,3
 2015,eden*,3
-0,King's Quest,3
 2013,Train Simulator,3
-2015,Pink Hour,3
 2015,SPORE™ Galactic Adventures,3
-2015,Stronghold Kingdoms,3
 2014,Red Faction Guerrilla Steam Edition,3
 2013,FINAL FANTASY VIII,3
 2015,Thief™ Gold,3
@@ -1752,15 +1083,11 @@ year_review,app_name,recommend_count
 2015,LIMBO,3
 2013,Command & Conquer: Red Alert 3,3
 2014,Gods Will Be Watching,3
-0,EVE Online,3
 2013,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,3
 2014,Murder Miners,3
 2014,RAGE,3
-0,Kingdom Rush,3
 2015,Brutal Legend,3
 2013,Far Cry® 2: Fortune's Edition,3
-0,No Time To Explain Remastered,3
-0,Fairy Fencer F,3
 2013,Tiny and Big: Grandpa's Leftovers,3
 2013,Napoleon: Total War™,3
 2015,Dead Rising 2: Off the Record,3
@@ -1771,10 +1098,7 @@ year_review,app_name,recommend_count
 2015,NOT A HERO,3
 2014,Crazy Taxi,3
 2015,"Please, Don’t Touch Anything",3
-0,Stonehearth,3
 2015,Life is Feudal: Your Own,3
-0,Red Trigger,3
-2014,Cubic Castles,3
 2015,Mass Effect 2,3
 2015,Wargame: Airland Battle,3
 2014,World of Goo,3
@@ -1787,64 +1111,43 @@ year_review,app_name,recommend_count
 2013,To the Moon,3
 2014,F.E.A.R. 3,3
 2014,F.E.A.R.,3
-0,Wargame: Red Dragon,3
 2013,Overgrowth,3
 2013,Legend of Grimrock,3
 2015,Jet Set Radio,3
 2014,Sniper: Ghost Warrior 2,3
 2011,Duke Nukem Forever,3
-2015,Thinking with Time Machine,3
-2014,Marvel Puzzle Quest,3
 2015,"Cook, Serve, Delicious!",3
 2014,Dysfunctional Systems: Learning to Manage Chaos,3
 2014,Rush Bros.,3
 2014,Shadowrun Returns,3
-2014,King’s Bounty: Legions,3
 2015,RADical ROACH Remastered,3
 2014,Craft The World,3
-0,Hexcells Infinite,3
-0,The Witcher 2: Assassins of Kings Enhanced Edition,3
-2014,Dungeon Defenders II,3
 2014,DEFCON,3
 2015,Clickteam Fusion 2.5,3
 2015,Freedom Planet,3
 2013,Bleed,3
 2011,Call of Duty®: Modern Warfare® 2,3
 2014,Magic 2015 - Duels of the Planeswalkers,3
-0,Max Payne 3,3
 2014,Dungeon Defenders Eternity,3
-0,Princess Remedy in a World of Hurt,3
-0,Brothers - A Tale of Two Sons,3
 2015,Infinifactory,3
 2015,Half-Life: Blue Shift,3
-0,Fable - The Lost Chapters,3
 2014,Bloody Good Time,3
 2011,Fallout: New Vegas,3
-2015,Steel Ocean,3
 2012,Lord of the Rings: War in the North,3
-0,Sanctum 2,3
 2015,Hexcells,3
 2015,Metro 2033 Redux,3
-0,Left 4 Dead,3
 2014,Scribblenauts Unmasked: A DC Comics Adventure,3
 2014,Aliens versus Predator Classic 2000,3
-0,Sid Meier's Civilization®: Beyond Earth™,3
-0,Guns of Icarus Online,3
-0,Planetbase,3
 2013,Long Live The Queen,3
 2014,Murdered: Soul Suspect,3
 2015,ENSLAVED™: Odyssey to the West™ Premium Edition,3
 2012,Fallout 3: Game of the Year Edition,3
-0,IS Defense,3
-0,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,3
 2015,Democracy 3,3
 2015,Epic Battle Fantasy 4,3
 2014,FlatOut 2™,3
 2011,Mass Effect 2,3
 2015,Enclave,3
-0,Mountain,3
 2014,Vampire: The Masquerade - Bloodlines,3
-0,Mount & Blade: Warband - Napoleonic Wars,3
 2015,Worms Revolution,3
 2011,"Warhammer 40,000: Dawn of War II",3
 2015,Among the Sleep - Enhanced Edition,3
@@ -1852,129 +1155,75 @@ year_review,app_name,recommend_count
 2013,Europa Universalis IV,3
 2013,Mortal Kombat Komplete Edition,3
 2015,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",3
-0,Polarity,3
 2011,Zeno Clash,3
-0,Floating Point,3
-2015,TeraBlaster,3
 2013,Pixel Piracy,3
 2014,The Vanishing of Ethan Carter,3
 2014,Deus Ex: The Fall,3
-2013,Half-Life: Before,3
-0,DC Universe™ Online,3
-2013,Pinball Arcade,3
-0,This Is the Police,3
 2014,Men of War: Assault Squad 2,3
-2014,NEOTOKYO,3
 2015,Ricochet,3
 2014,Trials Fusion™,3
 2012,Half-Life,3
 2014,ENSLAVED™: Odyssey to the West™ Premium Edition,3
-0,ARMA: Cold War Assault,3
 2012,Counter-Strike,3
-0,Battlefield: Bad Company™ 2,3
 2015,Insaniquarium Deluxe,3
 2014,Dead State: Reanimated,3
 2014,Planet Explorers,3
 2014,Tales of Maj'Eyal,3
 2015,Timberman,3
-0,Mafia II,3
 2015,Road Redemption,3
 2011,PuzzleQuest: Challenge of the Warlords,3
 2014,System Shock 2,3
 2013,Shadowrun Returns,3
 2015,Total Annihilation,3
 2014,Half-Life 2: Episode One,3
-0,Neverwinter,3
 2015,FORCED: Slightly Better Edition,3
 2014,Half-Life 2: Deathmatch,3
 2015,Assault Android Cactus,3
 2015,METAL SLUG 3,3
-2015,Total War Battles: KINGDOM,3
 2014,Half-Life: Source,3
-0,Zombie Army Trilogy,3
 2015,Empyrion - Galactic Survival,3
-0,"Warhammer 40,000: Space Marine",3
 2014,Ricochet,3
-0,Amnesia: The Dark Descent,3
 2015,LISA,3
 2013,Interstellar Marines,3
-0,The Bureau: XCOM Declassified,3
 2015,Castle Crashers - Blacksmith Pack,3
 2014,The Impossible Game,3
 2015,The Evil Within,3
 2013,Super House of Dead Ninjas,3
 2014,Devil May Cry® 3 Special Edition,3
 2013,Scribblenauts Unmasked: A DC Comics Adventure,3
-2011,Altitude,3
 2013,"Sir, You Are Being Hunted",3
-0,Rising World,3
 2012,Amnesia: The Dark Descent,3
-2015,Silver Creek Falls: Chapter 1,3
-0,Mirror's Edge™,3
-0,Don't Starve: Shipwrecked,3
-0,MachineCraft,3
-0,PAYDAY 2: The Point Break Heists,3
 2014,Heavy Bullets,3
 2015,The Vanishing of Ethan Carter,3
-0,Antenna,3
-0,SteamVR Performance Test,3
 2015,The Crew™,3
 2013,Verdun,3
-2011,RIFT,3
 2015,SimplePlanes,3
 2014,SUNLESS SEA,3
-2015,Missing Translation,3
 2014,Bloons TD 5,3
-0,From Dust,3
 2011,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,3
 2014,Grimm,3
 2015,Arma 3 Marksmen,3
-0,Card Hunter,3
-0,Punch Club,3
 2015,Sins of a Solar Empire®: Rebellion,3
 2014,Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,3
-0,Assassin's Creed 2 Deluxe Edition,3
 2013,Dungeon of the Endless™,3
 2014,Hitman: Blood Money,3
 2015,Uplink,3
 2015,Automation - The Car Company Tycoon Game,3
-0,The Ship: Murder Party,3
-0,SPORE™,3
 2011,Half-Life 2: Episode Two,3
 2014,Super House of Dead Ninjas,3
-0,Tribes: Ascend,3
 2012,E.Y.E: Divine Cybermancy,3
-0,Arma 3 Apex,3
-2015,Warhammer: End Times - Vermintide Sigmar's Blessing,3
-2014,Sang-Froid - Tales of Werewolves,3
-0,Supreme Commander 2,3
 2014,Castle Story,3
 2013,How to Survive,3
 2015,"Sir, You Are Being Hunted",3
 2011,Beat Hazard,3
-0,Dead Space,3
 2014,The Elder Scrolls® Online: Tamriel Unlimited™,3
 2012,Super Meat Boy,3
 2014,Blockstorm,3
-0,Super Crate Box,3
 2014,S.T.A.L.K.E.R.: Shadow of Chernobyl,3
-0,Zombie Panic! Source,3
 2015,Prototype 2,3
-0,Star Conflict,3
-0,Jesus Christ RPG Trilogy,3
-0,Synergy,3
 2011,Atom Zombie Smasher,3
-2014,Ragnarok Online 2,3
-2015,EVE Online,3
 2015,Despair,3
-2015,Air Brawl,3
-0,The Witness,3
 2012,Call of Duty®: Black Ops,3
-0,DRAGON BALL XENOVERSE,3
-0,Octodad: Dadliest Catch,3
-2015,MechWarrior Online™,3
-0,Mass Effect,3
-0,IMSCARED,3
 2015,Titan Souls,3
 2014,Enclave,3
 2015,The Banner Saga,3
@@ -1982,120 +1231,80 @@ year_review,app_name,recommend_count
 2011,Napoleon: Total War™,3
 2013,Blockland,3
 2014,THE KING OF FIGHTERS XIII STEAM EDITION,3
-2015,GunZ 2: The Second Duel,3
-0,Super Meat Boy,3
 2015,Injustice: Gods Among Us Ultimate Edition,3
 2011,Company of Heroes - Legacy Edition,3
-0,Gear Up,3
-0,Mark of the Ninja,3
-0,RUNNING WITH RIFLES,2
 2014,From Dust,2
 2013,Draw a Stickman: EPIC,2
 2014,Worms Reloaded,2
 2015,The Fruit of Grisaia,2
-2014,BRINK,2
 2015,BEEP,2
 2015,Devil May Cry 4,2
 2013,Kingdoms Rise,2
 2015,Shantae and the Pirate's Curse,2
 2015,Machinarium,2
-0,Haunt the House: Terrortown,2
 2014,Grand Ages: Rome,2
 2013,Paranautical Activity: Deluxe Atonement Edition,2
-0,Brigador: Up-Armored Edition,2
 2014,Mini Metro,2
-0,Half-Life: Blue Shift,2
 2014,Back to the Future: The Game,2
 2013,Slender: The Arrival,2
-0,Condemned: Criminal Origins,2
 2014,Command & Conquer 3: Tiberium Wars,2
 2015,Choice of Robots,2
-0,Vertiginous Golf,2
 2015,Basement,2
 2015,This War of Mine - War Child Charity DLC,2
 2014,SimCity™ 4 Deluxe Edition,2
-0,Resident Evil / biohazard HD REMASTER,2
 2014,Trainz™ Simulator 12,2
-0,Mortal Kombat X,2
-0,Hatoful Boyfriend,2
-0,Mordheim: City of the Damned,2
 2014,Earth Defense Force: Insect Armageddon,2
 2013,Bloody Trapland,2
-0,Offworld Trading Company,2
 2014,Metro 2033 Redux,2
 2015,Pixel Survivors,2
 2015,Dragon Age: Origins - Ultimate Edition,2
 2014,STAR WARS™ Republic Commando™,2
 2014,Medieval II: Total War™ Kingdoms,2
 2015,Cat Goes Fishing,2
-0,Rise of Nations: Extended Edition,2
 2015,Voxelized,2
 2015,"Warhammer 40,000: Space Marine",2
 2015,Homefront,2
 2014,Operation Flashpoint: Dragon Rising,2
 2014,Unreal Tournament 3 Black,2
 2014,Far Cry®,2
-2014,Guns and Robots,2
 2015,Hatred,2
 2014,Tom Clancy's Splinter Cell Chaos Theory®,2
 2014,Prince of Persia®: The Sands of Time,2
 2014,Assassin's Creed™: Director's Cut Edition,2
-0,GemCraft - Chasing Shadows,2
-2014,Velvet Sundown,2
 2015,Darksiders™,2
 2014,Sid Meier's Pirates!,2
-0,Wolfenstein 3D,2
 2014,Sid Meier's Civilization® III Complete,2
-0,You Have to Win the Game,2
 2014,Max Payne,2
 2014,Cosmic DJ,2
 2014,Sid Meier's Civilization® IV,2
-0,Amazing World™,2
 2014,Supreme Commander,2
 2015,Dustforce DX,2
 2014,Unturned - Permanent Gold Upgrade,2
 2014,RACE 07,2
 2015,The Bureau: XCOM Declassified,2
-2014,Galcon 2: Galactic Conquest,2
 2014,Pivvot,2
 2014,White Noise Online,2
-0,Uriel's Chasm,2
 2014,FIST OF AWESOME,2
 2015,SAMURAI WARRIORS 4-II,2
-0,ROCKETSROCKETSROCKETS,2
-0,Assassin's Creed® Unity,2
 2014,Just Cause,2
 2014,Overlord™,2
 2014,Grand Theft Auto III,2
 2014,Insecticide Part 1,2
 2014,Velvet Assassin,2
 2014,Ryse: Son of Rome,2
-0,Master of Orion,2
-0,Lovely Planet,2
-0,The Escapists,2
-2014,Fractured Space,2
 2014,Red Faction,2
 2015,Stronghold 3 Gold,2
 2014,ROCKETSROCKETSROCKETS,2
 2014,Counter-Strike: Condition Zero,2
-0,Saints Row: Gat out of Hell,2
 2014,The Fifth Day,2
 2015,Hard Reset Extended Edition,2
-0,MX vs. ATV Supercross Encore,2
 2014,LEGO Batman,2
-2014,Divine Souls F2P MMO,2
-0,BLOCKADE 3D,2
-0,Dead Bits,2
-2015,A.V.A. Alliance of Valiant Arms™,2
-0,Half-Life 2: Deathmatch,2
 2015,Vapour,2
 2014,Penumbra Overture,2
 2013,Savant - Ascent,2
-0,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2
 2014,Rock of Ages,2
 2014,6180 the moon,2
 2014,Zero Gear,2
-2014,Peggle Extreme,2
 2014,Peggle Deluxe,2
 2015,E.Y.E: Divine Cybermancy,2
 2014,Feeding Frenzy 2 Deluxe,2
@@ -2105,21 +1314,15 @@ year_review,app_name,recommend_count
 2015,Crystal Story II,2
 2014,The Ship: Single Player,2
 2014,Dragon Age: Origins,2
-2014,Brawlhalla,2
 2015,LIGHTNING RETURNS™: FINAL FANTASY® XIII,2
-0,Titan Souls,2
 2014,Ultimate Doom,2
-0,100% Orange Juice,2
 2015,Greyfox RPG,2
 2014,The Fall,2
 2015,TyranoBuilder Visual Novel Studio,2
 2014,Hatoful Boyfriend,2
 2015,King's Quest,2
-2014,INSURGENCY: Modern Infantry Combat,2
 2015,Need For Speed: Hot Pursuit,2
 2014,Uplink,2
-0,Rebel Galaxy,2
-0,STAR WARS™: The Force Unleashed™ II,2
 2014,Sniper: Ghost Warrior,2
 2015,RAGE,2
 2014,War of the Human Tanks,2
@@ -2134,14 +1337,9 @@ year_review,app_name,recommend_count
 2015,Divinity: Original Sin - Enhanced Edition,2
 2015,Contradiction - Spot The Liar!,2
 2014,Cities in Motion 2,2
-2015,RPG MO,2
 2014,Gnomoria,2
 2014,"10,000,000",2
-0,Minimum,2
 2014,Action! - Gameplay Recording and Streaming,2
-0,"Pirates, Vikings, and Knights II",2
-0,Drunken Robot Pornography,2
-0,Call of Duty®: Ghosts,2
 2014,Stronghold Crusader 2,2
 2015,Kane and Lynch: Dead Men™,2
 2014,Euro Truck Simulator,2
@@ -2150,100 +1348,62 @@ year_review,app_name,recommend_count
 2014,Gunman Clive,2
 2014,Daylight,2
 2014,War for the Overworld,2
-0,Sonic & All-Stars Racing Transformed,2
 2014,Dream,2
-2014,Gems of War - Puzzle RPG,2
 2014,Saturday Morning RPG,2
 2014,Xenonauts,2
-2015,Electric Highways,2
 2014,Secret Ponchos,2
 2014,The Sandbox,2
 2015,Aero's Quest,2
-2014,Dogs of War Online,2
 2014,Ultratron,2
 2015,Poly Bridge,2
 2014,Breach & Clear,2
 2014,Lucius,2
-0,DLC Quest,2
 2014,One Way Heroics,2
 2014,Hand of Fate,2
 2015,Unreal Tournament 2004: Editor's Choice Edition,2
 2014,Anna - Extended Edition,2
 2015,Tom Clancy's Splinter Cell Chaos Theory®,2
 2015,Assassin's Creed® Syndicate,2
-0,RPG Maker VX Ace,2
 2014,FootLOL: Epic Fail League,2
-0,Rocksmith® 2014 Edition - Remastered,2
-2015,Let the Cat in,2
-2014,Victory: The Age of Racing,2
 2015,Overlord™,2
-0,Oddworld: Abe's Exoddus®,2
-0,Defiance,2
 2014,Zombie Driver HD,2
-0,"Warhammer 40,000: Dawn of War II",2
-0,Blade Symphony,2
 2015,Grand Theft Auto III,2
-2015,Crusaders of the Lost Idols,2
 2015,Just Cause,2
-0,Apotheon,2
 2014,Organ Trail: Director's Cut,2
-0,Dead Space™ 2,2
-0,Dragon Age: Origins - Ultimate Edition,2
 2014,GRID Autosport,2
 2014,Pro Cycling Manager 2014,2
 2015,Highschool Romance,2
-0,Poker Night at the Inventory,2
 2015,Borderless Gaming,2
 2015,X Rebirth,2
 2014,WRC 4 FIA World Rally Championship,2
 2014,Spacebase DF-9,2
-0,Overgrowth,2
 2015,Judge Dredd: Dredd vs. Death,2
 2014,Divekick,2
-2014,Epigenesis,2
-2015,Comedy Quest,2
 2014,"Invisible, Inc.",2
 2014,PixelJunk™ Monsters Ultimate,2
-0,Ultra Street Fighter® IV,2
 2015,Wolfenstein 3D,2
 2014,Marlow Briggs and the Mask of Death,2
-0,FINAL FANTASY VIII,2
 2014,Eldritch,2
 2014,OMSI 2: Steam Edition,2
 2015,Left 4 Dead,2
 2014,Double Dragon: Neon,2
 2015,HELLDIVERS™,2
-2014,Sparkle 2 Evo,2
 2015,Zoombinis,2
-2014,Gorky 17,2
-2014,Forge Quest,2
 2014,UnderRail,2
 2014,Bridge Constructor,2
 2015,UNDERTALE Soundtrack,2
-0,S.T.A.L.K.E.R.: Call of Pripyat,2
-2015,Fingerbones,2
-0,Call of Duty®: Black Ops,2
-2015,Half-Life 2: Lost Coast,2
 2015,Sid Meier's Pirates!,2
-0,Sonic Generations Collection,2
-0,E.Y.E: Divine Cybermancy,2
 2014,Starpoint Gemini 2,2
 2014,Agarest: Generations of War,2
 2014,Dreamfall Chapters,2
 2014,DuckTales: Remastered,2
-2014,School of Dragons,2
 2014,Lifeless Planet Premier Edition,2
-0,Infested Planet,2
-0,Hell Yeah! Wrath of the Dead Rabbit,2
 2014,Super Sanctum TD,2
-0,Ys Origin,2
 2014,Strike Suit Infinity,2
 2014,UnEpic,2
 2015,Commandos: Behind Enemy Lines,2
-0,Torchlight II,2
 2014,Guncraft,2
 2014,PAC-MAN™ and the Ghostly Adventures,2
-0,Train Simulator,2
 2014,Savant - Ascent,2
 2014,Finding Teddy,2
 2014,3079 -- Block Action RPG,2
@@ -2252,30 +1412,18 @@ year_review,app_name,recommend_count
 2014,Nightmares from the Deep: The Cursed Heart,2
 2015,Destiny Warriors RPG,2
 2014,Assassin’s Creed® Liberation HD,2
-0,Kingdoms of Amalur: Reckoning™,2
 2014,Amnesia: A Machine for Pigs,2
 2014,The Last Tinker™: City of Colors,2
 2014,Might & Magic X - Legacy,2
-2015,Teeworlds,2
-0,Broken Age,2
 2015,IL-2 Sturmovik: 1946,2
-2015,Navy Field 2 : Conqueror of the Ocean,2
 2014,Rochard,2
 2015,Braid,2
-0,OMSI 2: Steam Edition,2
-2014,Color Symphony,2
-0,theHunter Classic,2
-0,FortressCraft Evolved!,2
 2014,Battlepillars Gold Edition,2
-0,Project Nimbus,2
 2015,Back to the Future: The Game,2
 2014,Dustforce DX,2
-0,Fuse,2
 2015,Ampersand,2
-0,Bloody Trapland,2
 2015,STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,2
 2015,Better Late Than DEAD,2
-0,Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,2
 2014,Real Horror Stories Ultimate Edition,2
 2015,Napoleon: Total War™,2
 2015,Hearts of Iron III,2
@@ -2286,21 +1434,14 @@ year_review,app_name,recommend_count
 2014,Space Pirates and Zombies,2
 2015,Soccer Rage,2
 2015,SimCity™ 4 Deluxe Edition,2
-0,UnderRail,2
-0,Among the Sleep - Enhanced Edition,2
 2014,Wings of Vi,2
 2014,Dinner Date,2
-0,X-Blades,2
 2014,Enforcer: Police Crime Action,2
 2014,TinyKeep,2
 2014,Demolition Inc.,2
 2014,Hard Reset Extended Edition,2
 2014,The Tiny Bang Story,2
-0,Long Live The Queen,2
 2014,Darksiders™,2
-0,From the Depths,2
-0,Hand of Fate,2
-2014,Altitude,2
 2014,Hammerfight,2
 2014,AI War: Fleet Command,2
 2014,Nation Red,2
@@ -2315,97 +1456,60 @@ year_review,app_name,recommend_count
 2014,Dead Effect,2
 2014,S.T.A.L.K.E.R.: Call of Pripyat,2
 2015,Roogoo,2
-0,Pixel Piracy,2
 2014,Magic: The Gathering - Duels of the Planeswalkers 2012,2
 2014,Mount & Blade: Warband - Napoleonic Wars,2
 2015,Pregnancy,2
 2014,planetarian ~the reverie of a little planet~,2
 2015,Invisible Apartment,2
-0,Hitman: Blood Money,2
 2014,Astebreed: Definitive Edition,2
 2014,LEGO® The Hobbit™,2
 2014,Heroine's Quest: The Herald of Ragnarok,2
-0,CONSORTIUM,2
 2014,Dead Rising® 2,2
 2015,Trine Enchanted Edition,2
 2014,BeamNG.drive,2
-0,Devil May Cry® 3 Special Edition,2
-0,Tower of Guns,2
 2015,UBERMOSH,2
 2014,Chaos Reborn,2
 2015,Face It - A game to fight inner demons,2
-0,Craft The World,2
-0,MINERVA,2
-0,Audiosurf 2,2
-0,Dust: An Elysian Tail,2
 2014,Crusader Kings II: Mediterranean Portraits,2
 2014,Analogue: A Hate Story,2
-0,Dreamfall Chapters,2
 2014,STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2
 2014,Omerta - City of Gangsters,2
-0,Deus Ex: Human Revolution - Director's Cut,2
 2014,Doom 3: BFG Edition,2
 2014,Arena Wars 2,2
 2014,A Virus Named TOM,2
 2015,POSTAL 2: Paradise Lost,2
 2014,Reversion - The Escape (1st Chapter),2
-0,Magicka 2,2
 2014,Indie Game: The Movie,2
 2014,Adventures of Shuggy,2
 2015,Crysis,2
-2015,Devilian,2
 2014,Infectonator: Survivors,2
 2014,Thirty Flights of Loving,2
-0,Evoland,2
-0,Dragon Nest,2
 2015,RPG Maker MV,2
 2014,Sonic Adventure 2,2
-0,Penguins Arena: Sedna's World,2
 2014,LEGO® Batman 2 DC Super Heroes™,2
-2014,Mabinogi,2
 2014,Kung Fu Strike - The Warrior's Rise,2
 2015,The Mean Greens - Plastic Warfare,2
-0,Thief,2
-2014,Dungeons & Dragons Online®,2
 2015,Rock of Ages,2
 2015,Resident Evil™ 5/ Biohazard 5®,2
-0,Homeworld Remastered Collection,2
 2014,Really Big Sky,2
 2015,Penumbra: Black Plague Gold Edition,2
-0,Lord of the Rings: War in the North,2
 2014,OlliOlli,2
-0,"Cook, Serve, Delicious!",2
-0,Call of Duty® 4: Modern Warfare®,2
 2014,Binding of Isaac: Wrath of the Lamb,2
 2014,Canyon Capers,2
-0,Nether: Resurrected,2
 2014,L.A. Noire,2
 2014,Z,2
 2015,F.E.A.R. 3,2
 2014,Titan Attacks!,2
-0,Rogue Legacy,2
 2015,Company of Heroes: Tales of Valor,2
 2014,Sniper Art of Victory,2
 2014,Rocksmith™,2
-0,Quadrilateral Cowboy,2
-0,Sherlock Holmes: Crimes and Punishments,2
-0,The Crew™,2
 2014,Space Farmers,2
 2014,The Collider,2
 2015,F.E.A.R.,2
-0,Supreme Commander: Forged Alliance,2
 2014,The Showdown Effect,2
 2014,Superbrothers: Sword & Sworcery EP,2
 2014,The Dark Eye: Chains of Satinav,2
-0,Styx: Master of Shadows,2
 2014,Binary Domain,2
-0,BioShock® 2,2
-0,Tropico 5,2
-0,ArcheAge,2
-2012,Dungeons & Dragons Online®,2
-0,Obliteracers,2
-0,DEAD RISING®,2
-0,HunieCam Studio,2
 2011,Cogs,2
 2013,The Elder Scrolls III: Morrowind® Game of the Year Edition,2
 2013,Fallout 3,2
@@ -2414,61 +1518,41 @@ year_review,app_name,recommend_count
 2015,Ford Racing 3,2
 2013,F.E.A.R.,2
 2011,Arma 2: Operation Arrowhead,2
-2013,Dystopia,2
 2011,PAYDAY™ The Heist,2
-2015,sZone-Online,2
 2013,Dwarfs!?,2
 2011,The Witcher: Enhanced Edition Director's Cut,2
 2015,Reus,2
 2013,Arma 2,2
 2011,The Elder Scrolls IV: Oblivion® Game of the Year Edition,2
 2015,Battle of Empires : 1914-1918,2
-2011,BRINK,2
 2011,Fallout 3: Game of the Year Edition,2
 2013,The Secret of Monkey Island: Special Edition,2
 2015,Dead Pixels,2
-0,Controller Companion,2
 2015,Smooth Operators,2
 2013,Hearts of Iron III,2
-2011,DC Universe™ Online,2
 2015,F1 2014,2
-2013,Age of Chivalry,2
 2015,Savant - Ascent,2
-0,The Lost Mythologies,2
 2011,"Warhammer 40,000: Space Marine",2
-2013,TrackMania Nations Forever,2
 2013,Aliens vs. Predator™,2
 2011,Saints Row: The Third,2
-0,Plantera,2
-0,Air Brawl,2
-0,Viridi,2
 2015,TrackMania² Canyon,2
 2015,Morphopolis,2
-0,GUILTY GEAR Xrd -SIGN-,2
 2011,Monday Night Combat,2
 2013,RACE 07,2
 2013,Call of Duty® 4: Modern Warfare®,2
 2011,BIT.TRIP RUNNER,2
 2015,Rodina,2
 2011,Mafia II,2
-0,PAYDAY 2: Sokol Character Pack,2
 2015,Bloody Trapland,2
-0,Kung Fury: Street Rage,2
-0,Furi,2
-0,Contradiction - Spot The Liar!,2
 2013,Oddworld: Abe's Oddysee®,2
-0,Godus Wars,2
 2013,Tom Clancy's Rainbow Six® Vegas 2,2
 2015,Rampage Knights,2
-0,Divinity: Original Sin - Enhanced Edition,2
 2011,Mount & Blade: Warband,2
-0,Portal Knights,2
 2011,"Warhammer® 40,000: Dawn of War® II Chaos Rising",2
 2015,Velocibox,2
 2013,Rochard,2
 2013,E.Y.E: Divine Cybermancy,2
 2015,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2
-0,XCOM 2: Anarchy's Children,2
 2011,Day of Defeat: Source,2
 2011,Half-Life 2: Deathmatch,2
 2015,Overcast - Walden and the Werewolf,2
@@ -2477,21 +1561,13 @@ year_review,app_name,recommend_count
 2015,Call of Duty®: Black Ops II - Apocalypse,2
 2013,BIT.TRIP RUNNER,2
 2013,Sniper Elite V2,2
-2015,Amazing World™,2
 2013,Wargame: European Escalation,2
 2013,Tropico 4,2
-2015,Galcon 2: Galactic Conquest,2
 2013,"Warhammer 40,000: Space Marine",2
-0,STAR WARS™ Galactic Battlegrounds Saga,2
-0,Savage Resurrection,2
 2011,Half-Life,2
 2013,ORION: Prelude,2
-2015,WAKFU,2
-2015,Ragnarok Online,2
 2013,Shank 2,2
-2013,A.V.A. Alliance of Valiant Arms™,2
 2015,WORLD END ECONOMiCA episode.01,2
-2015,Secret World Legends,2
 2015,20XX,2
 2013,Hard Reset Extended Edition,2
 2010,Amnesia: The Dark Descent,2
@@ -2506,7 +1582,6 @@ year_review,app_name,recommend_count
 2015,Convoy,2
 2015,Enforcer: Police Crime Action,2
 2013,Machinarium,2
-2015,Royal Quest,2
 2013,Nation Red,2
 2015,PARTICLE MACE,2
 2013,EDGE,2
@@ -2516,48 +1591,32 @@ year_review,app_name,recommend_count
 2015,Thomas Was Alone,2
 2015,Chaos Reborn,2
 2013,Call of Duty®: Black Ops,2
-0,Downwell,2
 2015,One Way Heroics,2
-0,Cards and Castles,2
-0,Sepia Tears,2
 2015,Secret Ponchos,2
 2013,Dragon Age: Origins - Ultimate Edition,2
-0,Fran Bow,2
 2013,Ultra Street Fighter® IV,2
 2015,Farming Simulator 2013 Titanium Edition,2
 2011,Sid Meier's Civilization® V,2
-0,Feed and Grow: Fish,2
 2011,RAGE,2
-0,Software Inc.,2
 2013,Hitman: Blood Money,2
 2015,Spy Chameleon - RGB Agent,2
 2015,POSTAL,2
 2012,Call of Duty® 4: Modern Warfare®,2
-0,Missing Translation,2
 2015,Castlevania: Lords of Shadow 2,2
-0,World's Fastest Pizza,2
 2015,Bleed,2
-0,Contract,2
 2012,Aliens vs. Predator™,2
-2015,Battle Islands,2
 2012,Tropico 4,2
 2015,Wasteland 2: Director's Cut,2
 2015,Half Minute Hero: The Second Coming,2
 2015,Contraption Maker,2
 2015,Shadowrun: Dragonfall - Director's Cut,2
-0,Zoombinis,2
 2012,BioShock™,2
 2012,Deus Ex: Game of the Year Edition,2
 2013,"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2
 2015,Hammerwatch,2
-0,Layers of Fear,2
 2012,Company of Heroes - Legacy Edition,2
-2015,8BitMMO,2
-0,World of Soccer online,2
-0,Insanity Clicker,2
 2015,System Shock 2,2
 2012,Natural Selection 2,2
-0,Pretty Girls Mahjong Solitaire,2
 2015,Blockland,2
 2015,Saints Row IV: Commander-In-Chief Pack,2
 2015,Magicka 2,2
@@ -2570,12 +1629,8 @@ year_review,app_name,recommend_count
 2012,STAR WARS™ - Knights of the Old Republic™,2
 2015,Electronic Super Joy,2
 2015,Screencheat,2
-2012,Age of Chivalry,2
-0,Rocket League® - Back to the Future™ Car Pack,2
-0,Fallout 4 Season Pass,2
 2012,Mass Effect 2,2
 2015,Skullgirls: Eliza,2
-2015,Floating Point,2
 2012,Train Simulator,2
 2015,Etherium,2
 2015,Kingdom Rush,2
@@ -2585,205 +1640,113 @@ year_review,app_name,recommend_count
 2012,Magicka,2
 2012,Torchlight,2
 2012,The Misadventures of P.B. Winterbottom,2
-0,Heaven Island - VR MMO,2
 2012,Nation Red,2
 2015,"Invisible, Inc.",2
-0,MXGP2 - The Official Motocross Videogame,2
 2012,Trine Enchanted Edition,2
-0,Rabi-Ribi,2
-0,The Binding of Isaac: Afterbirth,2
-2015,Epigenesis,2
 2012,Crysis 2 - Maximum Edition,2
-2011,APB Reloaded,2
 2011,NightSky,2
 2015,Wild Warfare,2
 2011,Orcs Must Die!,2
-0,The Ship: Remasted,2
-0,Tom Clancy's Rainbow Six® Siege - The Safari Bundle,2
-2015,DEAD OR ALIVE 5 Last Round: Core Fighters,2
 2015,Double Dragon: Neon,2
 2015,Slender: The Arrival,2
 2013,Half-Life: Source,2
-0,Aviary Attorney,2
 2013,Ricochet,2
-0,INK,2
-0,Dungeon Souls,2
 2015,OTTTD,2
 2015,Murdered: Soul Suspect,2
 2013,Evil Genius,2
 2011,SpaceChem,2
 2013,Sid Meier's Civilization® IV,2
 2015,OMSI 2: Steam Edition,2
-0,Shoppe Keep,2
 2011,Frozen Synapse,2
 2013,Peggle Deluxe,2
 2015,StarDrive 2,2
 2013,X Rebirth,2
 2013,RollerCoaster Tycoon® 3: Platinum,2
-0,Dragon Saga,2
 2013,The Ship: Murder Party,2
 2011,Dungeons of Dredmor,2
-0,NBA 2K17,2
 2015,Teleglitch: Die More Edition,2
 2015,Paranautical Activity: Deluxe Atonement Edition,2
 2012,Primal Carnage,2
 2012,To the Moon,2
 2015,Platypus,2
-2015,Velvet Sundown,2
-0,Umbrella Corps™/Biohazard Umbrella Corps™,2
 2012,Crusader Kings II,2
-0,Melty Blood Actress Again Current Code,2
 2015,The Legend of Heroes: Trails in the Sky,2
 2012,Torchlight II,2
 2012,XCOM: Enemy Unknown,2
 2015,Memories of a Vagabond,2
-2012,APB Reloaded,2
 2015,Miscreated,2
 2012,Vampire: The Masquerade - Bloodlines,2
-0,WARMODE,2
-2012,AirMech Strike,2
-0,Maximum Override,2
 2012,Cubemen,2
 2015,Super Sanctum TD,2
-2015,The Desolate Hope,2
-2015,Only If,2
 2015,TowerFall Ascension,2
 2015,The Inner World,2
-0,Junk Jack,2
 2012,DARK SOULS™: Prepare To Die™ Edition,2
-0,A Lenda do Herói - O Herói desta Canção,2
 2015,Higurashi When They Cry Hou - Ch.1 Onikakushi,2
-0,Danganronpa 2: Goodbye Despair,2
-0,Five Nights at Freddy's 4,2
 2012,Assassin’s Creed® III,2
 2012,Endless Space® - Collection,2
-0,Oxenfree,2
 2015,You Must Build A Boat,2
 2015,The Testament of Sherlock Holmes,2
 2013,UnEpic,2
-2013,Vindictus,2
 2015,Outlast: Whistleblower DLC,2
 2013,Worms Clan Wars,2
-0,Squishy the Suicidal Pig,2
 2015,The Hat Man: Shadow Ward,2
-2013,The Lord of the Rings Online™,2
-0,Wings of Vi,2
 2013,Deus Ex: Human Revolution - Director's Cut,2
 2015,Reflex Arena,2
-0,klocki,2
 2015,Apotheon,2
-0,Governor of Poker 3,2
-0,The Flame in the Flood,2
 2015,Gods Will Be Watching,2
 2015,Blades of Time,2
-0,Kingdom: New Lands,2
-0,Trine 3: The Artifacts of Power,2
-0,Deepworld,2
 2015,Cortex Command,2
-0,MechWarrior Online™,2
 2015,DeadCore,2
 2013,DuckTales: Remastered,2
-0,The Fruit of Grisaia,2
-0,True or False,2
-0,LIGHTNING RETURNS™: FINAL FANTASY® XIII,2
 2013,Blades of Time,2
-0,PAYDAY 2: Biker Character Pack,2
 2015,LEGO® The Hobbit™,2
-0,Voxelized,2
-0,sZone-Online,2
 2015,RaceRoom Racing Experience,2
-0,12 Labours of Hercules,2
-2015,Grimoire: Manastorm,2
 2013,Tom Clancy’s Splinter Cell Blacklist,2
 2015,They Bleed Pixels,2
 2013,Prime World: Defenders,2
-2015,Brick-Force,2
-0,Airships: Conquer the Skies,2
-0,Moon Hunters,2
-0,Transformice,2
-0,Absolute Drift,2
 2013,RPG Maker VX Ace,2
 2013,Monster Loves You!,2
 2015,Castle Crashers - Pink Knight Pack,2
-0,AdVenture Communist,2
 2015,One Piece Pirate Warriors 3,2
-0,Bus Simulator 16,2
-0,Picross Touch,2
 2015,Amazing Frog?,2
-2015,School of Dragons,2
 2015,Gunjitsu,2
-0,Sonic Lost World,2
-0,One Thousand Lies,2
-0,Windward,2
 2013,Gnomoria,2
-0,Out of Reach,2
-0,Reassembly,2
-0,Reigns,2
 2013,Dead Pixels,2
 2015,Hover,2
-0,Everlasting Summer,2
 2015,Assassin's Creed Freedom Cry,2
-2015,America's Army: Proving Grounds,2
 2015,Grass Simulator,2
 2015,Shelter 2,2
 2015,Hektor,2
-0,Megadimension Neptunia VII,2
-2015,The Walking Dead: 400 Days,2
-2015,EasyAntiCheat eSports,2
-2013,Ragnarok Online 2,2
 2015,Noct,2
 2013,Fallen Enchantress: Legendary Heroes,2
 2015,The Bridge,2
 2013,Grim Dawn,2
-0,Summer Sale,2
 2013,God Mode,2
 2015,Master Spy,2
-0,FPV Air Tracks,2
-0,One Piece Pirate Warriors 3,2
 2015,Serious Sam 2,2
 2015,Creeper World 3: Arc Eternal,2
 2013,Amnesia: A Machine for Pigs,2
 2015,FarSky,2
-0,Tales of Zestiria,2
-0,Atulos Online,2
-2015,Portal 2 Soundtrack,2
 2013,The Showdown Effect,2
 2010,Worms Reloaded,2
-2015,Half-Life 2 Soundtrack,2
 2015,Painkiller Hell & Damnation,2
 2015,F1 2015,2
 2013,Hammerwatch,2
-0,Lost Lands: Mahjong,2
-0,There's Poop In My Soup,2
 2015,The Magic Circle,2
-2015,Fallen Earth Free2Play,2
 2015,Sonic Adventure 2,2
-0,Overcooked,2
 2015,Rising World,2
 2013,Guncraft,2
-0,LEGO® Batman™3: Beyond Gotham,2
 2013,Space Hulk,2
 2015,Melody's Escape,2
 2013,Injustice: Gods Among Us Ultimate Edition,2
-0,Sophie's Curse,2
 2015,The Forest of Doom,2
-0,Half Dead,2
-0,Voices from the Sea,2
 2013,Worms Revolution,2
-0,METAL GEAR SOLID V: GROUND ZEROES,2
 2015,Dishonored - Void Walker Arsenal,2
-0,You Have 10 Seconds 2,2
-0,Naval Action,2
-2015,Mortal Online,2
 2010,Counter-Strike: Source,2
-0,Bloons TD Battles,2
-0,The Old Tree,2
 2015,Offworld Trading Company,2
-0,Assassin’s Creed® Rogue,2
 2015,LEGO® Batman 2 DC Super Heroes™,2
 2013,Crysis 2 - Maximum Edition,2
 2015,Legend of Grimrock 2,1
-2015,Metal War Online: Retribution,1
 2014,Super Panda Adventures,1
 2015,Pandora: First Contact,1
 2015,Victory At Sea,1
@@ -2801,14 +1764,11 @@ year_review,app_name,recommend_count
 2015,European Ship Simulator,1
 2015,Blood: One Unit Whole Blood,1
 2015,Stick 'Em Up 2: Paper Adventures,1
-2014,The Way of Life Free Edition,1
 2015,Shank,1
 2015,Saints Row IV - The Super Saints Pack,1
 2015,Cosmic Rocket Defender,1
 2015,INK,1
 2015,SMITE® - Ultimate God Pack,1
-2015,Written in the Sky,1
-2015,GASP,1
 2015,Sid Meier's Civilization® IV,1
 2014,Bus Driver,1
 2015,Steel Rain,1
@@ -2820,48 +1780,36 @@ year_review,app_name,recommend_count
 2015,Long Live The Queen,1
 2015,King's Bounty: Armored Princess,1
 2015,Gimbal,1
-2014,Rugby League Live 3 Demo,1
 2014,FINAL FANTASY IV,1
-2015,Bloodline Champions,1
 2015,SuperPower 2 Steam Edition,1
 2015,Feeding Frenzy 2 Deluxe,1
-2015,The Shivah,1
 2015,Blackguards: Untold Legends,1
 2015,One More Dungeon,1
-2015,Астролорды: Облако Оорта,1
 2015,Typer Shark! Deluxe,1
-2015,Peggle Extreme,1
 2015,Bus Driver,1
 2015,Real Horror Stories Ultimate Edition,1
 2015,BloodRayne Betrayal,1
 2015,Scott in Space,1
 2015,Saints Row IV: Dubstep Gun (Remix) Pack,1
 2015,fault - milestone one,1
-2015,Golden Rush,1
-2015,Eldevin,1
 2014,Bird Assassin,1
-2015,Tom Clancy's Rainbow Six® Siege - Ultra HD Texture Pack,1
 2015,Tiki Man,1
 2015,FlatOut 2™,1
 2015,Ionball 2: Ionstorm,1
-2015,PAYDAY 2: The Point Break Heists,1
 2015,Commando Jack,1
 2015,Stray Cat Crossing,1
 2015,Dungeon Souls,1
 2015,Action Henk,1
-2015,Dragon Saga,1
 2014,Aeon Command,1
 2015,Pixel Puzzles: Japan,1
 2015,Speed Kills,1
 2014,Runers,1
 2014,Ultimate General: Gettysburg,1
-2015,Divine Souls F2P MMO,1
 2015,Magicka: Wizards of the Square Tablet,1
 2015,NEO Scavenger,1
 2015,Battle of Empires : 1914-1918 -  British Empire,1
 2015,The Last Door - Collector's Edition,1
 2015,Untamed: Life Of A Cougar,1
-2015,Nomad,1
 2015,"Spy Fox in ""Dry Cereal""",1
 2015,STAR WARS™ Jedi Knight II - Jedi Outcast™,1
 2015,Pajama Sam: No Need to Hide When It's Dark Outside,1
@@ -2879,7 +1827,6 @@ year_review,app_name,recommend_count
 2015,Ichi,1
 2015,Thea: The Awakening,1
 2015,Galagan's Island: Reprymian Rising,1
-2015,Tap Tap Infinity,1
 2015,Scribblenauts Unmasked: A DC Comics Adventure,1
 2015,Victim of Xen,1
 2015,Wick,1
@@ -2902,9 +1849,7 @@ year_review,app_name,recommend_count
 2015,Fingered,1
 2015,ROCKETSROCKETSROCKETS,1
 2015,Dead Effect,1
-2015,Battle for Blood - Epic battles within 30 seconds!,1
 2014,The Nightmare Cooperative,1
-2015,Lamia Must Die,1
 2015,Eleusis,1
 2015,Tengami,1
 2015,Craft The World,1
@@ -2915,7 +1860,6 @@ year_review,app_name,recommend_count
 2015,Croixleur Sigma,1
 2015,Sacred 3,1
 2015,Putt-Putt® Joins the Parade,1
-2015,Sniper Elite: Nazi Zombie Army 2,1
 2015,Astebreed: Definitive Edition,1
 2014,Memories of a Vagabond,1
 2014,Hexcells Infinite,1
@@ -2931,12 +1875,10 @@ year_review,app_name,recommend_count
 2015,Heaven Island - VR MMO,1
 2015,Hexcells Plus,1
 2015,Super Killer Hornet: Resurrection,1
-2015,Genesis Online,1
 2015,Lords Of The Fallen™,1
 2015,Dead Rising 3 Apocalypse Edition,1
 2015,The Fall of the Dungeon Guardians - Enhanced Edition,1
 2015,Block N Load - 560 Platinum Bar Pack,1
-2014,PAYDAY 2: Gage Historical Pack,1
 2015,Putt-Putt® Goes to the Moon,1
 2015,Timber and Stone,1
 2015,Raiden Legacy - Steam Edition,1
@@ -2946,8 +1888,6 @@ year_review,app_name,recommend_count
 2015,Tower of Guns,1
 2015,Jumpdrive,1
 2015,Breach & Clear,1
-2015,Lost Saga NA,1
-2015,PAYDAY 2: Gage Chivalry Pack,1
 2015,Axis Game Factory's AGFPRO BattleMat Multi-Player DLC,1
 2015,Freddi Fish 5: The Case of the Creature of Coral Cove,1
 2015,Millie,1
@@ -2960,20 +1900,12 @@ year_review,app_name,recommend_count
 2015,Saturday Morning RPG,1
 2015,3089 -- Futuristic Action RPG,1
 2015,Vertiginous Golf,1
-2014,Fork Parker's Holiday Profit Hike,1
-2014,PAYDAY 2: Clover Character Pack,1
 2014,Deadnaut,1
 2015,War of the Human Tanks,1
-2014,Rooster Teeth vs. Zombiens,1
 2015,FootLOL: Epic Fail League,1
-2014,Brick-Force,1
-2015,Darkwind: War on Wheels,1
-2015,Victory: The Age of Racing,1
 2015,Detective Grimoire,1
-2015,Serena,1
 2015,Schrödinger’s Cat And The Raiders Of The Lost Quark,1
 2014,Disney Winnie the Pooh,1
-2015,PAYDAY 2: Armored Transport,1
 2015,Hero Siege - Amazon (Class),1
 2015,Awesomenauts - Rockstar Announcer,1
 2014,Expansion - Crusader Kings II: Way of Life,1
@@ -2984,9 +1916,7 @@ year_review,app_name,recommend_count
 2015,GabeN: The Final Decision,1
 2015,Panzer Corps,1
 2015,Uriel's Chasm,1
-2014,Middle-earth: Shadow of Mordor - Power of Shadow,1
 2014,Verde Station,1
-2015,EVGA Precision XOC,1
 2015,You Are Not The Hero,1
 2015,GTGD S1: More Than a Gamer,1
 2015,Bardbarian,1
@@ -2995,24 +1925,19 @@ year_review,app_name,recommend_count
 2014,The World II: Hunting BOSS,1
 2015,liteCam Game: 100 FPS Game Capture,1
 2015,Chronology,1
-2014,Portal 2 Soundtrack,1
 2015,Montas,1
 2014,Gods vs Humans,1
 2015,Undead Overlord,1
 2015,Secrets of Grindea,1
 2014,Rugby Union Team Manager 2015,1
 2015,Axis Game Factory's AGFPRO Fantasy Side-Scroller Player,1
-2015,PAYDAY 2: A Merry Payday Christmas Soundtrack,1
 2015,Airport Simulator 2014,1
 2015,Axis Game Factory's AGFPRO Zombie FPS Player DLC,1
-2015,Starbound - Soundtrack,1
 2015,Crawl,1
 2015,Cinders,1
 2015,Poi,1
 2014,Potatoman Seeks the Troof,1
 2014,Reflex Arena,1
-2015,Depression Quest,1
-2014,Rising Angels: Reborn,1
 2015,Meltdown,1
 2014,Sword of the Samurai,1
 2015,Turok,1
@@ -3025,7 +1950,6 @@ year_review,app_name,recommend_count
 2015,9.03m,1
 2015,resident evil 4 / biohazard 4,1
 2015,Quake III Arena,1
-2015,TUG,1
 2015,Child of Light,1
 2014,Supreme Ruler Ultimate,1
 2015,Albedo: Eyes from Outer Space,1
@@ -3036,9 +1960,6 @@ year_review,app_name,recommend_count
 2015,Rebuild 3: Gangs of Deadsville,1
 2015,Two Worlds Epic Edition,1
 2015,Imperial Glory,1
-2015,Angels That Kill Demo,1
-2015,Fuse,1
-2015,Max Gentlemen,1
 2014,Kings of Kung Fu,1
 2015,Space Empires V,1
 2015,My Riding Stables: Life with Horses,1
@@ -3067,19 +1988,14 @@ year_review,app_name,recommend_count
 2015,QUAKE,1
 2015,Axis Game Factory's AGFPRO v3,1
 2015,PewDiePie: Legend of the Brofist,1
-2015,Fortress Forever,1
 2015,DOOM II,1
 2015,The I of the Dragon,1
 2015,Tiny Brains,1
 2015,Labyronia RPG,1
-2015,Famaze,1
 2015,Digger Online,1
 2015,Handsome Jack Doppelganger Pack,1
-2015,PAYDAY 2: Gage Sniper Pack,1
 2015,Sneaky Sneaky,1
-2015,Half-Life: Before,1
 2015,Labyronia RPG 2,1
-2015,Deus Ex: Revision,1
 2014,Squishy the Suicidal Pig,1
 2014,Euro Truck Simulator 2 - Christmas Paint Jobs Pack,1
 2015,Manga Maker Comipo,1
@@ -3092,7 +2008,6 @@ year_review,app_name,recommend_count
 2015,GoD Factory: Wingmen,1
 2015,Stock Car Extreme,1
 2015,KINGDOMS,1
-2015,War of Beach,1
 2015,Castle In The Darkness,1
 2015,STARWHAL,1
 2015,Ballistic Overkill,1
@@ -3100,10 +2015,8 @@ year_review,app_name,recommend_count
 2015,GemCraft - Chasing Shadows,1
 2015,Eryi's Action,1
 2015,FaceRig,1
-2015,PAYDAY 2: Gage Weapon Pack #02,1
 2015,Drifter,1
 2015,Z Steel Soldiers,1
-2015,My Lands: Black Gem Hunting,1
 2014,Quantum Rush Champions,1
 2015,Tales of Maj'Eyal,1
 2015,Fading Hearts,1
@@ -3114,10 +2027,8 @@ year_review,app_name,recommend_count
 2015,Lords of Xulima,1
 2015,ACE Academy,1
 2014,Space Hulk Ascension,1
-2015,The Four Kings Casino and Slots,1
 2015,8BitBoy™,1
 2015,Killer is Dead - Nightmare Edition,1
-2015,Sphere III: Enchanted World,1
 2015,Real Boxing™,1
 2014,Lovely Planet OST,1
 2015,Tesla Effect: A Tex Murphy Adventure,1
@@ -3136,9 +2047,7 @@ year_review,app_name,recommend_count
 2015,David.,1
 2015,Deponia,1
 2015,CLANNAD,1
-2015,Into The War,1
 2015,Decay: The Mare,1
-2015,PAYDAY 2: Hotline Miami,1
 2015,Thirty Flights of Loving,1
 2015,Guacamelee! Gold Edition,1
 2015,Alphadia Genesis,1
@@ -3149,7 +2058,6 @@ year_review,app_name,recommend_count
 2015,Fairy Fencer F,1
 2015,Gratuitous Space Battles,1
 2015,"War, the Game",1
-2015,Altitude,1
 2015,BioShock Infinite: Clash in the Clouds,1
 2015,Borderlands 2: Mr. Torgue’s Campaign of Carnage,1
 2015,Super Street Fighter IV: Arcade Edition - Arcade Challengers Pack,1
@@ -3158,7 +2066,6 @@ year_review,app_name,recommend_count
 2015,Borderlands 2: Creature Slaughterdome,1
 2015,Ship Simulator Extremes,1
 2015,Mount & Blade: With Fire & Sword,1
-2015,Tales Runner,1
 2015,All Zombies Must Die!: Scorepocalypse,1
 2015,Ironcast,1
 2015,Analogue: A Hate Story,1
@@ -3188,22 +2095,18 @@ year_review,app_name,recommend_count
 2015,Dead Sea,1
 2015,Proteus,1
 2015,BIOS,1
-2015,Train Fever: USA DLC,1
 2015,Regency Solitaire,1
 2015,RER2 Episode Three: Judgment,1
 2015,Dwarfs!?,1
 2015,The Detail,1
 2015,Trine 3: The Artifacts of Power,1
 2015,Awesomenauts - Wraithlord Scoop Announcer,1
-2015,Defence Alliance 2,1
 2015,Quiplash,1
-2015,PAYDAY 2: The Butcher's Western Pack,1
 2015,Kold War Pack,1
 2015,Reprisal Universe,1
 2015,Sniper: Ghost Warrior 2,1
 2015,Sniper: Ghost Warrior,1
 2015,Trials Evolution: Gold Edition,1
-2015,PAYDAY 2: The Butcher's AK/CAR Mod Pack,1
 2015,Riff Racer - Race Your Music!,1
 2015,Magicmaker,1
 2015,StarDrive,1
@@ -3232,7 +2135,6 @@ year_review,app_name,recommend_count
 2015,Notrium,1
 2015,The Black Watchmen,1
 2015,Might & Magic® Heroes® VII,1
-2015,Burstfire,1
 2015,RUSH,1
 2015,Planetary Annihilation - Digital Deluxe Add-on,1
 2015,Toki Tori,1
@@ -3243,19 +2145,15 @@ year_review,app_name,recommend_count
 2015,CRYPTARK,1
 2015,Wild Season,1
 2015,Princess Evangile All Ages Version,1
-2015,LEGO Batman 3: Beyond Gotham DLC: Heroines and Villainesses Character Pack,1
 2015,Frozen Synapse,1
 2015,Serious Sam: The Random Encounter,1
 2015,Really Big Sky,1
 2015,Teddy Floppy Ear - Kayaking,1
 2015,Domestic Dog,1
 2015,Orcs Must Die! 2 - Family Ties Booster Pack,1
-2015,Quintet,1
 2015,200% Mixed Juice!,1
-2015,Spartans Vs Zombies Defense,1
 2015,Armed with Wings: Rearmed,1
 2015,Battle of Empires : 1914-1918 - Russian Empire,1
-2015,Deepworld,1
 2015,X3: Albion Prelude,1
 2015,Mad Games Tycoon,1
 2015,Puzzle Agent 2,1
@@ -3274,29 +2172,22 @@ year_review,app_name,recommend_count
 2015,inMomentum,1
 2015,Alan Wake,1
 2015,Binding of Isaac: Wrath of the Lamb,1
-2015,Fork Parker's Holiday Profit Hike,1
 2015,Dead Synchronicity: Tomorrow Comes Today,1
 2015,Costume Quest,1
 2015,Vessel,1
 2015,ZOMBI,1
 2015,Expansion - Europa Universalis IV: El Dorado,1
 2015,Ticket to Ride,1
-2015,PAYDAY 2: Clover Character Pack,1
 2015,Axis Game Factory's AGFPRO - Drone Kombat FPS Multiplayer,1
-2015,EverQuest® II Free-To-Play. Your Way.™,1
 2015,Cthulhu Saves the World,1
 2015,Runestone Keeper,1
 2015,Survivalist,1
 2015,Oil Rush Tower Defense Map Pack,1
 2015,"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",1
-2015,HIT,1
 2015,Bloodsports.TV,1
 2015,Shank 2,1
-2015,Rooster Teeth vs. Zombiens,1
 2015,Goats on a Bridge,1
-2015,Dream Of Mirror Online,1
 2015,Before the Echo,1
-2015,Puzzle Pirates,1
 2015,Stardust Vanguards,1
 2015,Gemini Rue,1
 2015,Saints Row: The Third - Gangstas in Space,1
@@ -3307,7 +2198,6 @@ year_review,app_name,recommend_count
 2015,Wargame: European Escalation,1
 2015,MacGuffin's Curse,1
 2015,Total War: ATTILA - The Last Roman Campaign Pack,1
-2015,Passing Pineview Forest,1
 2015,Shark Attack Deathmatch 2,1
 2015,"Warhammer 40,000: Space Marine - Iron Hands Chapter Pack DLC",1
 2015,Legend of Grimrock,1
@@ -3321,14 +2211,12 @@ year_review,app_name,recommend_count
 2015,MX vs. ATV Reflex,1
 2015,State of Decay: YOSE,1
 2015,Jane's Advanced Strike Fighters,1
-2015,PAYDAY 2: Dragan Character Pack,1
 2015,PAYDAY™ The Heist: Wolfpack DLC,1
 2015,PAYDAY: The Heist Soundtrack,1
 2015,Endless Space® - Collection,1
 2015,Doom 3: BFG Edition,1
 2015,Devil May Cry® 4 Special Edition,1
 2015,The Deer God,1
-2015,PAYDAY 2: Gage Historical Pack,1
 2015,Men of War: Assault Squad,1
 2015,The Mystery of the Druids,1
 2015,Warlock 2: The Exiled,1
@@ -3337,7 +2225,6 @@ year_review,app_name,recommend_count
 2015,Tales of Aravorn: Seasons Of The Wolf,1
 2015,Fallout New Vegas: Old World Blues,1
 2015,Infested Planet,1
-2015,Universe Sandbox,1
 2015,Zombie Kill of the Week - Reborn,1
 2015,Retro City Rampage™ DX,1
 2015,Crazy Taxi,1
@@ -3353,14 +2240,11 @@ year_review,app_name,recommend_count
 2015,Samudai,1
 2015,Axiom Verge,1
 2015,ARMA: Gold Edition,1
-2015,Destination Sol,1
 2015,Zombie Driver HD,1
 2015,McPixel,1
-2015,Subspace Continuum,1
 2015,Controller Companion,1
 2015,Far Cry®,1
 2015,Unreal Gold,1
-2015,One Manga Day,1
 2015,Audiosurf 2,1
 2015,OlliOlli2: Welcome to Olliwood,1
 2015,Wurm Unlimited,1
@@ -3382,7 +2266,6 @@ year_review,app_name,recommend_count
 2015,Sirius Online,1
 2014,The Blue Flamingo,1
 2015,No Time To Explain Remastered,1
-2015,PAYDAY 2: The OVERKILL B-Sides Soundtrack,1
 2015,Hospital Tycoon,1
 2015,Agarest: Generations of War,1
 2015,Pongo,1
@@ -3401,7 +2284,6 @@ year_review,app_name,recommend_count
 2015,Evoland,1
 2015,Vertical Drop Heroes HD,1
 2015,OCEAN CITY RACING: Redux,1
-2015,Grave Prosperity: Redux- part 1,1
 2015,Grand Ages: Medieval,1
 2015,Breach & Clear: Deadline Rebirth (2016),1
 2015,UnEpic,1
@@ -3410,7 +2292,6 @@ year_review,app_name,recommend_count
 2015,Shadowrun Returns,1
 2015,Brothers in Arms: Hell's Highway™,1
 2015,Call of Duty®: Black Ops II - Aqua Personalization Pack,1
-2015,Freshman Year,1
 2015,Heroes of Might & Magic V,1
 2015,Tom Clancy's Rainbow Six® Vegas 2,1
 2015,Penguins Arena: Sedna's World,1
@@ -3425,7 +2306,6 @@ year_review,app_name,recommend_count
 2015,TrackMania² Valley,1
 2015,Korwin The Game,1
 2015,Death Tractor,1
-2015,Bitweb,1
 2015,Supreme Ruler 1936,1
 2015,Divekick,1
 2015,Amygdala,1
@@ -3433,10 +2313,8 @@ year_review,app_name,recommend_count
 2015,The Witcher Adventure Game,1
 2015,Tomb Raider: Anniversary,1
 2015,Anno 2205™,1
-2015,Of Guards And Thieves,1
 2015,X-COM: UFO Defense,1
 2015,Sid Meier's Railroads!,1
-2015,SAGA,1
 2015,Skullgirls: Big Band,1
 2015,Dungeon Defenders Eternity,1
 2015,The Isle,1
@@ -3447,10 +2325,8 @@ year_review,app_name,recommend_count
 2015,Sky Gamblers: Storm Raiders,1
 2015,Castaway Paradise - Town Building Sim,1
 2015,Templar Battleforce,1
-2015,Pinball Arcade,1
 2015,LOOP: A Tranquil Puzzle Game,1
 2015,Empire: Total War™ - Elite Units of the West,1
-2015,Ruzh Delta Z,1
 2015,Ultimate General: Gettysburg,1
 2015,TIS-100,1
 2015,FINAL FANTASY III,1
@@ -3467,7 +2343,6 @@ year_review,app_name,recommend_count
 2015,Blue Estate The Game,1
 2015,Winter Sports Trilogy Super Pack,1
 2015,MotoGP™13,1
-2015,PAYDAY 2: The Golden Grin Casino Heist,1
 2015,Wanderlust Adventures,1
 2015,Ittle Dew,1
 2015,Supreme Commander,1
@@ -3479,7 +2354,6 @@ year_review,app_name,recommend_count
 2015,Medal of Honor: Airborne,1
 2015,Command & Conquer: Red Alert 3 - Uprising,1
 2015,Command & Conquer 3: Tiberium Wars,1
-2015,Soccer Manager 2015,1
 2015,Orbit HD,1
 2015,Celestian Tales: Old North,1
 2015,Catacomb Kids,1
@@ -3499,7 +2373,6 @@ year_review,app_name,recommend_count
 2015,Republique,1
 2015,Beyond Gravity,1
 2015,SPORE™ Creepy & Cute Parts Pack,1
-2015,Rexaura,1
 2015,Star Horizon,1
 2015,Chicken Invaders 5,1
 2015,Jack Lumber,1
@@ -3522,8 +2395,6 @@ year_review,app_name,recommend_count
 2015,Supreme Ruler 2020 Gold,1
 2015,Knights of Honor,1
 2015,Space Hulk Ascension,1
-2015,The Settlers Online,1
-2015,MISSING: An Interactive Thriller - Episode One,1
 2015,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,1
 2015,D4: Dark Dreams Don’t Die -Season One-,1
 2015,XCOM: Enemy Within,1
@@ -3538,21 +2409,15 @@ year_review,app_name,recommend_count
 2015,The Night of the Rabbit,1
 2015,And Yet It Moves,1
 2015,Defense Grid: The Awakening,1
-2015,Ragnarok Online 2,1
-2015,Middle-earth: Shadow of Mordor - Test of Power,1
 2015,Sacred 2 Gold,1
 2015,Knights of Pen and Paper +1 Edition,1
 2015,Middle-earth: Shadow of Mordor - The Dark Ranger Character Skin,1
 2015,The Masterplan,1
-2015,Empires Mod,1
 2015,Depth - Corsair Knife Skin,1
 2015,Cradle,1
 2015,Nuclear Dawn,1
 2015,Soul Gambler,1
-2015,D.I.P.R.I.P. Warm Up,1
-2015,Rugby League Live 3 Demo,1
 2015,Tree of Life,1
-2015,Zombie Panic! Source,1
 2015,Stronghold Crusader 2,1
 2015,S.T.A.L.K.E.R.: Clear Sky,1
 2015,Double Dragon Trilogy,1
@@ -3580,218 +2445,9 @@ year_review,app_name,recommend_count
 2015,"10,000,000",1
 2015,Serious Sam Classics: Revolution,1
 2015,Fallen Enchantress: Legendary Heroes,1
-2015,Cards and Castles,1
 2015,Colin McRae Rally,1
 2014,Osmos,1
 2014,Disney•Pixar Cars 2: The Video Game,1
-0,ACE Academy,1
-0,Deus Ex: Revision,1
-0,Shmadow,1
-0,Hyperspace Invaders II: Pixel Edition,1
-0,Invasion,1
-0,Protoshift,1
-0,Timberman,1
-0,Epistory - Typing Chronicles,1
-0,Armello - Usurpers Hero Pack,1
-0,Dragon's Wake,1
-0,The Juicer,1
-0,3DMark Fire Strike benchmarks,1
-0,Atlas Reactor,1
-0,Kindred Spirits on the Roof,1
-0,The Coma: Cutting Class,1
-0,Draw a Stickman: EPIC 2,1
-0,Stigmat,1
-0,ALPAGES : THE FIVE BOOKS,1
-0,LEGO® MARVEL's Avengers,1
-0,Turok,1
-0,Umineko When They Cry - Question Arcs,1
-0,Soccer Manager 2016,1
-0,Battlevoid: Harbinger,1
-0,Legend of Mysteria RPG,1
-0,HELLDIVERS™ - Weapons Pack,1
-0,Ultimate Arena,1
-0,Stray Cat Crossing,1
-0,Crossout,1
-0,Rake,1
-0,Ori and the Blind Forest: Definitive Edition,1
-0,Sol 0: Mars Colonization,1
-0,SMITE® - Ultimate God Pack,1
-0,the static speaks my name,1
-0,Clown House (Palyaço Evi),1
-0,Spakoyno: Back to the USSR 2.0,1
-0,Day of the Tentacle Remastered,1
-0,Darksiders II Deathinitive Edition,1
-0,Knight Online,1
-0,Wild Animal Racing,1
-0,Mugen Souls,1
-0,Bulb Boy,1
-0,PewDiePie: Legend of the Brofist,1
-0,Sora,1
-0,Fingerbones,1
-0,UNDERTALE Soundtrack,1
-0,Atom Universe,1
-0,BattleStick,1
-0,Miracle Fly,1
-0,Ben and Ed,1
-0,Dungeon of the Endless™ - Organic Matters Update,1
-0,The Deed,1
-0,CUPID - A free to play Visual Novel,1
-0,Pendragon Rising,1
-0,Project Highrise,1
-0,Apocalypse Hotel - The Post-Apocalyptic Hotel Simulator!,1
-0,Wolcen: Lords of Mayhem,1
-0,One Piece Burning Blood,1
-0,Fernbus Simulator,1
-0,8-Bit Armies,1
-0,CALENDULA,1
-0,Zavix Tower,1
-0,The Withering,1
-0,TurnOn,1
-0,Momodora: Reverie Under The Moonlight,1
-0,"Linea, the Game",1
-0,"Kivi, Toilet and Shotgun",1
-0,Spellweaver,1
-0,Squirbs,1
-0,Of Kings And Men,1
-0,Clash of the Monsters,1
-0,Mystic Destinies: Serendipity of Aeons,1
-0,Hard Room,1
-0,Rivalry,1
-0,3DRPG,1
-0,CHKN,1
-0,"That Dragon, Cancer",1
-0,Unfortunate Spacemen,1
-0,Wick,1
-0,Mystery Chronicle: One Way Heroics,1
-0,SnakEscape,1
-0,Rogue Harvest,1
-0,KINGDOMS,1
-0,Angry Video Game Nerd II: ASSimilation,1
-0,12 is Better Than 6,1
-0,Starward Rogue,1
-0,SHOWTIME 2073,1
-0,Reveal The Deep,1
-0,SENRAN KAGURA SHINOVI VERSUS,1
-0,TY the Tasmanian Tiger,1
-0,The Black Death,1
-0,STEINS;GATE,1
-0,Back to Dinosaur Island,1
-0,Metal Assault,1
-0,Life is Hard,1
-0,One More Dungeon,1
-0,OmniBus,1
-0,Block'hood,1
-0,Rubber Ducky and the Rainbow Gun,1
-0,Pay2Win: The Tricks Exposed,1
-0,Left Alone,1
-0,Helen's Mysterious Castle,1
-0,Zombie Party,1
-0,CPUCores :: Maximize Your FPS,1
-0,Prominence Poker,1
-0,Assassin’s Creed® Chronicles: China,1
-0,STAR WARS™ - X-Wing Special Edition,1
-0,GlassWire,1
-0,gravilon,1
-0,Age of Mythology EX: Tale of the Dragon,1
-0,Soccer Rage,1
-0,Port of Call,1
-0,UBERMOSH,1
-0,Frozen Free Fall: Snowball Fight,1
-0,Rogue Continuum,1
-0,D4: Dark Dreams Don’t Die -Season One-,1
-0,The Curious Expedition,1
-0,PAYDAY 2: The Butcher's BBQ Pack,1
-0,How to Survive 2,1
-0,12 Labours of Hercules II: The Cretan Bull,1
-0,Ultimate Tic-Tac-Toe,1
-0,The Mean Greens - Plastic Warfare,1
-0,POSTAL 2: Paradise Lost,1
-0,Turmoil,1
-0,404Sight,1
-0,Garfield Kart,1
-0,Tadpole Treble,1
-0,"Please, Don’t Touch Anything",1
-0,Pathologic Classic HD,1
-0,Five Nights at Freddy's 3,1
-0,TyranoBuilder Visual Novel Studio,1
-0,Hero of the Kingdom II,1
-0,Shadowrun: Hong Kong - Extended Edition,1
-0,Terra Incognita ~ Chapter One: The Descendant,1
-0,Hidden Object Bundle 4 in 1,1
-0,Gaokao.Love.100Days,1
-0,Forsaken Isle,1
-0,PAYDAY 2: The OVERKILL Pack,1
-0,Siege Wars,1
-0,Bierzerkers,1
-0,Beyond Sol,1
-0,Saint Seiya: Soldiers' Soul,1
-0,Notrium,1
-0,Modular Combat,1
-0,BLADESTORM: Nightmare,1
-0,Pixel Puzzles 2: Anime,1
-0,Cricket Captain 2015,1
-0,Regency Solitaire,1
-0,UnReal World,1
-0,PAYDAY 2: The Butcher's AK/CAR Mod Pack,1
-0,Spirit of War,1
-0,Dead Realm,1
-0,The Silent Age,1
-0,Love at First Sight,1
-0,how do you Do It?,1
-0,Train Valley,1
-0,Escape Machines,1
-0,Battlefleet Gothic: Armada,1
-0,Downfall,1
-0,PAYDAY 2: The Golden Grin Casino Heist,1
-0,Ember Strike,1
-0,New kind of adventure,1
-0,Human Resource Machine,1
-0,100% Orange Juice - Krila & Kae Character Pack,1
-0,Big Thinkers 1st Grade,1
-0,Minecraft: Story Mode - A Telltale Games Series,1
-0,Hide & Hold Out - H2o,1
-0,Tom Clancy's Rainbow Six® Siege - Ultra HD Texture Pack,1
-0,Blues and Bullets,1
-0,LISA the Joyful,1
-0,FSX: Steam Edition - REX 4 Texture Direct Enhanced Edition Add-On,1
-0,FSX: Steam Edition - HD Airport Graphics Add-On,1
-0,Teeworlds,1
-0,Barbara-ian,1
-0,Eon Altar,1
-0,Relic Hunters Zero,1
-0,FINAL FANTASY V,1
-0,Dead Island Definitive Edition,1
-0,Hue,1
-0,Cross of the Dutchman,1
-0,PAYDAY 2: Yakuza Character Pack,1
-0,Cast of the Seven Godsends - Redux,1
-0,Tap Heroes,1
-0,Teddy Floppy Ear - The Race,1
-0,Pixel Star,1
-0,Battle Brothers,1
-0,OlliOlli2: Welcome to Olliwood,1
-0,Flying Tigers: Shadows Over China,1
-0,Iggy's Egg Adventure,1
-0,Wurm Unlimited,1
-0,Adorables,1
-0,Call of Duty®: Black Ops III - Season Pass,1
-0,Vernon's Legacy,1
-0,Seduce Me the Otome,1
-0,Angels Fall First,1
-0,Poly Bridge,1
-0,Halcyon 6: Starbase Commander,1
-0,60 Seconds!,1
-0,Her Story,1
-0,Garbage Day,1
-0,Airport Madness: World Edition,1
-0,Adventure Time: Finn and Jake Investigations,1
-0,NotGTAV,1
-0,Lilly and Sasha: Nexus of Souls,1
-0,Fated Souls,1
-0,Waste Walkers,1
-0,Making History: The Calm and the Storm Gold Edition,1
-0,And So It Was,1
-0,Heliborne,1
 2010,STAR WARS™ - Knights of the Old Republic™,1
 2010,ArcaniA,1
 2010,Supreme Commander 2,1
@@ -3806,7 +2462,6 @@ year_review,app_name,recommend_count
 2011,Half-Life 2: Episode One,1
 2011,Uplink,1
 2011,Quake III Arena,1
-2011,Peggle Extreme,1
 2011,Psychonauts,1
 2011,S.T.A.L.K.E.R.: Shadow of Chernobyl,1
 2011,Medieval II: Total War™,1
@@ -3820,13 +2475,6 @@ year_review,app_name,recommend_count
 2010,eversion,1
 2011,Men of War™,1
 2010,Osmos,1
-0,Unbox: Newbie's Adventure,1
-0,Sparky's Hunt,1
-0,Everything is Peachy,1
-0,American Truck Simulator - Steering Creations Pack,1
-0,Super Switch,1
-0,Galactic Storm,1
-0,What The Box?,1
 2010,Day of Defeat: Source,1
 2010,Left 4 Dead 2,1
 2010,DOOM II,1
@@ -3846,8 +2494,6 @@ year_review,app_name,recommend_count
 2010,Madballs in Babo:Invasion,1
 2010,King's Bounty: The Legend,1
 2011,X-COM: UFO Defense,1
-2011,EVE Online,1
-0,Last Hope - Tower Defense,1
 2011,Crayon Physics Deluxe,1
 2011,Poker Night at the Inventory,1
 2011,STAR WARS™ - Knights of the Old Republic™,1
@@ -3873,7 +2519,6 @@ year_review,app_name,recommend_count
 2011,DOOM 3,1
 2011,Lugaru HD,1
 2011,Commander Keen,1
-2011,Champions Online,1
 2011,3D Ultra™ Minigolf Adventures,1
 2011,Overlord™,1
 2011,Grand Theft Auto: Episodes from Liberty City,1
@@ -3885,7 +2530,6 @@ year_review,app_name,recommend_count
 2011,Oddworld: Abe's Exoddus®,1
 2011,Mass Effect,1
 2011,Dead Space,1
-2011,Age of Chivalry,1
 2011,Nuclear Dawn,1
 2011,S.T.A.L.K.E.R.: Clear Sky,1
 2011,The Witcher 2: Assassins of Kings Enhanced Edition,1
@@ -3893,536 +2537,6 @@ year_review,app_name,recommend_count
 2011,Mount & Blade,1
 2011,Worms Reloaded,1
 2011,Burnout Paradise: The Ultimate Box,1
-0,You Have 10 Seconds,1
-0,ROD: Revolt Of Defense,1
-0,Elite Dangerous: Pilot Starter Pack,1
-0,I am Setsuna,1
-0,OutDrive,1
-0,Super Night Riders,1
-0,Princess Edge - Dragonstone,1
-0,Death Stair,1
-0,The Average Everyday Adventures of Samantha Browne,1
-0,Flowers -Le volume sur printemps- Demo,1
-0,Settled,1
-0,Jalopy,1
-0,Bunker Punks,1
-0,New York Taxi Simulator,1
-0,Square's Route,1
-0,The Bottom of the Well,1
-0,Rock Paper Scissors Champion,1
-0,Chicken Invaders 2,1
-0,SAMOLIOTIK,1
-0,REDCON,1
-0,Expansion - Crusader Kings II: The Reaper's Due,1
-0,Ember Kaboom,1
-0,Boundel: The Second Era,1
-0,[the Sequence],1
-0,Fragmented,1
-0,The God's Chain,1
-0,Polandball: Can into Space!,1
-0,Masked Shooters 2,1
-0,Buried: An Interactive Story,1
-0,The Chosen RPG,1
-0,Pythagoria,1
-0,The Renegades of Orion 2.0,1
-0,Rusty Lake Hotel,1
-0,The Final Station,1
-0,Factorio - Soundtrack,1
-0,Medusa's Labyrinth,1
-0,Expansion - Europa Universalis IV: Mare Nostrum,1
-0,Gamma Bros 1.5,1
-0,Diaries of a Spaceport Janitor,1
-0,Line of Sight,1
-0,Warhammer: End Times - Vermintide Schluesselschloss,1
-0,Party Jousting,1
-0,Surfingers,1
-0,Learn Japanese To Survive! Hiragana Battle,1
-0,One Troll Army,1
-0,Rocket League® - Batman v Superman: Dawn of Justice Car Pack,1
-0,Random Access Murder,1
-0,Legends of Callasia,1
-0,HITMAN™: Episode 3 - Marrakesh,1
-0,Warhammer: End Times - Vermintide Last Stand,1
-0,Project Starship,1
-0,"Don't Die Dateless, Dummy!",1
-0,STAR WARS™: Rogue Squadron 3D,1
-0,Space Hole,1
-0,Cuties,1
-0,Fallout 4 - Contraptions Workshop,1
-0,Fallout 4 Vault-Tec Workshop,1
-0,Hero Zero,1
-0,Runeous: Part One,1
-0,Freebie,1
-0,Conan the mighty pig,1
-0,Just Deserts,1
-0,Battle Forever,1
-0,Take Thy Throne,1
-0,My Butler,1
-0,Dungeon Fighter Online,1
-0,Replica,1
-0,Street Legal Racing: Redline v2.3.1,1
-0,8-Bit Hordes,1
-0,ASRECorp,1
-0,Dark Parables: The Exiled Prince Collector's Edition,1
-0,Puppy Dog: Jigsaw Puzzles,1
-0,Strike.is: The Game,1
-0,Human: Fall Flat,1
-0,Major\Minor - Complete Edition,1
-0,State of Anarchy,1
-0,Rocket League® - Aftershock,1
-0,Rocket League® - Masamune,1
-0,Moustache Mountain,1
-0,March of the Living,1
-0,Snooker Nation Championship,1
-0,Euro Truck Simulator 2 - Mighty Griffin Tuning Pack,1
-0,Massive,1
-0,Farnham Fables,1
-0,Street Fighter® V - A Shadow Falls (Cinematic Story Expansion),1
-0,Neon Space ULTRA,1
-0,Sector Six,1
-0,SWORDY,1
-0,Blind Trust,1
-0,Super Mega Neo Pug,1
-0,Ortus Regni,1
-0,Elisa: The Innkeeper - Prequel,1
-0,Memory Oblivion Box,1
-0,The NADI Project,1
-0,fault - milestone two side:above,1
-0,Goat Simulator: GoatZ,1
-0,Bob Was Hungry,1
-0,Street Fighter X Tekken,1
-0,Call of Duty®: Advanced Warfare - Gold Edition,1
-0,Cortex Command,1
-0,They Bleed Pixels,1
-0,Deadlight,1
-0,Max Payne 3: Deathmatch Made In Heaven Pack,1
-0,Vindictus,1
-0,Borderlands 2: Mr. Torgue’s Campaign of Carnage,1
-0,Borderlands 2: Mechromancer Pack,1
-0,Intrusion 2,1
-0,WAKFU,1
-0,Secret World Legends,1
-0,Primal Carnage,1
-0,The Incredible Adventures of Van Helsing,1
-0,Demonicon,1
-0,Zeno Clash 2,1
-0,AirMech® Soundtrack,1
-0,Worms Armageddon,1
-0,Dungeonland,1
-0,Defender's Quest: Valley of the Forgotten (DX edition),1
-0,Borderlands 2: Tiny Tina's Assault on Dragon Keep,1
-0,Lucius,1
-0,Scribblenauts Unlimited,1
-0,King Arthur's Gold,1
-0,Edna & Harvey: Harvey's New Eyes,1
-0,The Journey Down: Chapter One,1
-0,Magrunner: Dark Pulse,1
-0,Blades of Time,1
-0,Super Hexagon,1
-0,Assassin’s Creed® III,1
-0,Super MNC,1
-0,Space Pirates and Zombies,1
-0,Cthulhu Saves the World,1
-0,Project Zomboid,1
-0,Alan Wake,1
-0,Crysis 2 - Maximum Edition,1
-0,L.A. Noire,1
-0,Snuggle Truck,1
-0,The Binding of Isaac,1
-0,Costume Quest,1
-0,Worms Revolution,1
-0,Pox Nora,1
-0,EverQuest® II Free-To-Play. Your Way.™,1
-0,America's Army: Proving Grounds,1
-0,Warlock - Master of the Arcane,1
-0,Serious Sam 2,1
-0,Retro City Rampage™ DX,1
-0,Everquest ®,1
-0,Chronicle: RuneScape Legends,1
-0,ArcheBlade™,1
-0,Train Simulator: Southern Pacific GS-4 Loco Add-On,1
-0,Thomas Was Alone,1
-0,Resident Evil Revelations / Biohazard Revelations,1
-0,Total War: ATTILA - Age of Charlemagne Campaign Pack,1
-0,TrackMania² Stadium,1
-0,Murdered: Soul Suspect,1
-0,Organ Trail: Director's Cut,1
-0,UnEpic,1
-0,Receiver,1
-0,Teleglitch: Die More Edition,1
-0,Shadowrun Returns,1
-0,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,1
-0,Dyscourse,1
-0,Sid Meier's Civilization V: Brave New World,1
-0,Starpoint Gemini 2,1
-0,Blood Bowl 2,1
-0,Mortal Kombat Komplete Edition,1
-0,Angry Video Game Nerd Adventures,1
-0,Agarest: Generations of War,1
-0,The Banner Saga,1
-0,System Shock 2,1
-0,Might & Magic X - Legacy,1
-0,Amnesia: A Machine for Pigs,1
-0,Spelunky,1
-0,Goodbye Deponia,1
-0,Vector Thrust,1
-0,Space Hulk,1
-0,Injustice: Gods Among Us Ultimate Edition,1
-0,LUFTRAUSERS,1
-0,Stronghold Crusader 2,1
-0,Champions of Regnum,1
-0,Gone Home,1
-0,THE KING OF FIGHTERS XIII STEAM EDITION,1
-0,Homefront®: The Revolution,1
-0,Miner Wars 2081,1
-0,FEZ,1
-0,Super House of Dead Ninjas,1
-0,Cities in Motion 2,1
-0,Far Cry® 3 Deluxe Bundle DLC,1
-0,F1 2014,1
-0,Sniper Elite: Nazi Zombie Army,1
-0,Kinetic Void,1
-0,Euro Truck Simulator 2 - Going East!,1
-0,God Mode,1
-0,Retrovirus,1
-0,Action! - Gameplay Recording and Streaming,1
-0,Remember Me,1
-0,The Age of Decadence,1
-0,Borderlands 2 - Psycho Pack,1
-0,Divinity: Original Sin (Classic),1
-0,N++ (NPLUSPLUS),1
-0,BEEP,1
-0,Orcs Must Die!,1
-0,Renegade Ops,1
-0,X-COM: UFO Defense,1
-0,Saints Row 2,1
-0,Champions Online,1
-0,Star Trek Online,1
-0,TrackMania Nations Forever,1
-0,Hospital Tycoon,1
-0,Grand Theft Auto: Vice City,1
-0,Midnight Club 2,1
-0,Grand Theft Auto: Episodes from Liberty City,1
-0,FlatOut: Ultimate Carnage,1
-0,Overlord II,1
-0,AudioSurf,1
-0,Unreal Tournament 2004: Editor's Choice Edition,1
-0,Prince of Persia: Warrior Within™,1
-0,Assassin's Creed™: Director's Cut Edition,1
-0,IL-2 Sturmovik: 1946,1
-0,Velvet Assassin,1
-0,Children of the Nile: Enhanced Edition,1
-0,Crysis,1
-0,Command & Conquer: Red Alert 3,1
-0,Red Faction Guerrilla Steam Edition,1
-0,"Warhammer® 40,000: Dawn of War® II Chaos Rising",1
-0,F.E.A.R.,1
-0,Resident Evil™ 5/ Biohazard 5®,1
-0,Mount & Blade,1
-0,The Elder Scrolls III: Morrowind® Game of the Year Edition,1
-0,"Warhammer® 40,000: Dawn of War® - Soulstorm",1
-0,X-COM: Apocalypse,1
-0,Hard Reset: Exile DLC,1
-0,Rogue Trooper,1
-0,Ricochet,1
-0,Half-Life 2: Episode One,1
-0,Dark Messiah of Might & Magic,1
-0,Final DOOM,1
-0,DOOM II,1
-0,QUAKE II,1
-0,GUN™,1
-0,RollerCoaster Tycoon® 3: Platinum,1
-0,FlatOut 2™,1
-0,Safecracker: The Ultimate Puzzle Adventure,1
-0,Plants vs. Zombies GOTY Edition,1
-0,Zuma's Revenge!,1
-0,Sniper Elite,1
-0,Aliens versus Predator Classic 2000,1
-0,Psychonauts,1
-0,Sid Meier's Civilization® IV,1
-0,Sid Meier's Civilization® III Complete,1
-0,S.T.A.L.K.E.R.: Shadow of Chernobyl,1
-0,Rome: Total War™ - Collection,1
-0,STAR WARS™ Jedi Knight - Jedi Academy™,1
-0,STAR WARS™ Jedi Knight II - Jedi Outcast™,1
-0,Vegas: Make It Big™,1
-0,FlatOut,1
-0,The Longest Journey,1
-0,Commandos 2: Men of Courage,1
-0,Just Cause,1
-0,Thief: Deadly Shadows,1
-0,SimCity™ 4 Deluxe Edition,1
-0,Command & Conquer 3: Kane's Wrath,1
-0,Hearts of Iron III,1
-0,Caster,1
-0,Need For Speed: Hot Pursuit,1
-0,Shift 2 Unleashed,1
-0,Assassin’s Creed® Brotherhood,1
-0,Mount & Blade: With Fire & Sword,1
-0,Beat Hazard,1
-0,Homefront,1
-0,Broken Sword: Director's Cut,1
-0,Swords and Soldiers HD,1
-0,Men of War: Assault Squad,1
-0,Dustforce DX,1
-0,VVVVVV,1
-0,Recettear: An Item Shop's Tale,1
-0,Evochron Mercenary,1
-0,Closure,1
-0,Universe Sandbox,1
-0,Fallout New Vegas: Old World Blues,1
-0,Fallout New Vegas®: Lonesome Road™,1
-0,Majesty 2 Collection,1
-0,Darkest Hour: A Hearts of Iron Game,1
-0,Iron Front: Digital War Edition,1
-0,Post Apocalyptic Mayhem,1
-0,DETOUR,1
-0,SpaceChem,1
-0,ibb & obb,1
-0,The Cat and the Coup,1
-0,Hard Reset Extended Edition,1
-0,RISK™: Factions,1
-0,Medal of Honor™,1
-0,Stronghold Kingdoms,1
-0,Bad Rats: the Rats' Revenge Demo,1
-0,Back to the Future: The Game,1
-0,Iron Grip: Warlord,1
-0,LEGO® Indiana Jones™: The Original Adventures,1
-0,STAR WARS™ Starfighter™,1
-0,The Secret of Monkey Island: Special Edition,1
-0,STAR WARS™ - Dark Forces,1
-0,STAR WARS™: The Clone Wars - Republic Heroes™,1
-0,STAR WARS™ Empire at War - Gold Pack,1
-0,Alien Shooter,1
-0,Dawn of Discovery™,1
-0,18 Wheels of Steel: Extreme Trucker,1
-0,Napoleon: Total War™,1
-0,Dwarfs!?,1
-0,Star Wolves 2,1
-0,Trine 2: Complete Story,1
-0,Fallout 2: A Post Nuclear Role Playing Game,1
-0,Dungeon Siege II,1
-0,Machinarium,1
-0,Serious Sam HD: The First Encounter,1
-0,Hammerfight,1
-0,Altitude,1
-0,GRID 2,1
-0,GunZ 2: The Second Duel,1
-0,"Sir, You Are Being Hunted",1
-0,Anachronox,1
-0,Hard West,1
-0,Sleeping Dogs: Definitive Edition,1
-0,Savage Lands,1
-0,Buzz Aldrin's Space Program Manager,1
-0,The Way of Life Free Edition,1
-0,NEON STRUCT,1
-0,Super Panda Adventures,1
-0,Dino D-Day: Last Stand DLC,1
-0,Khet 2.0,1
-0,Way of the Samurai 4,1
-0,Fahrenheit: Indigo Prophecy Remastered,1
-0,Soul Gambler,1
-0,The Masterplan,1
-0,Stranded Deep,1
-0,Boid,1
-0,Rodina,1
-0,RPG Tycoon,1
-0,Rampage Knights,1
-0,Age of Conquest IV,1
-0,The Crew™ Season Pass,1
-0,Ford Racing 3,1
-0,planetarian ~the reverie of a little planet~,1
-0,Grim Fandango Remastered,1
-0,The Original Strife: Veteran Edition,1
-0,Lexica,1
-0,Half-Life 2: Update,1
-0,Bloons TD 5,1
-0,FINAL FANTASY® XIII-2,1
-0,"Spy Fox 2 ""Some Assembly Required""",1
-0,Racer 8,1
-0,Realms of the Haunting,1
-0,Duet,1
-0,Cosmochoria,1
-0,Coma: Mortuary,1
-0,Call of Duty®: Ghosts - Squad Pack - Resistance,1
-0,The Promised Land,1
-0,Ballistic Overkill,1
-0,Renowned Explorers: International Society,1
-0,Monsters Ate My Birthday Cake,1
-0,Total Annihilation,1
-0,Woodle Tree Adventures,1
-0,Victim of Xen,1
-0,Lemma,1
-0,Shadowrun: Dragonfall - Director's Cut,1
-0,Infinifactory,1
-0,Epsilon,1
-0,Frederic: Evil Strikes Back,1
-0,Submerged,1
-0,Call to Arms,1
-0,Euro Truck Simulator 2 - Scandinavia,1
-0,SUNLESS SEA,1
-0,Train Fever,1
-0,Act of Aggression - Reboot Edition,1
-0,Middle-earth: Shadow of Mordor - The Bright Lord,1
-0,Disney Princess: My Fairytale Adventure,1
-0,Girlfriend Rescue,1
-0,GRAV,1
-0,Five Nights at Freddy's 2,1
-0,Forward to the Sky,1
-0,The Pewdieverse DLC,1
-0,AKIBA'S TRIP: Undead ＆ Undressed,1
-0,Armikrog,1
-0,Fortified,1
-0,Project CARS - Stanceworks Track Expansion,1
-0,Tormentum - Dark Sorrow,1
-0,VRC PRO,1
-0,Outcast 1.1,1
-0,Avernum 2: Crystal Souls,1
-0,Warden: Melody of the Undergrowth,1
-0,Resident Evil 0 / biohazard 0 HD REMASTER,1
-0,Choice of Robots,1
-0,PAYDAY 2: The Bomb Heists,1
-0,Uncraft World,1
-0,Survivalist,1
-0,Quintet,1
-0,Europe at War,1
-0,Phantasmal: Survival Horror Roguelike,1
-0,School of Dragons,1
-0,Executive Assault,1
-0,Five Nights at Freddy's,1
-0,Reprisal Universe,1
-0,Gender Bender DNA Twister Extreme,1
-0,Primal Carnage: Extinction,1
-0,Supraball,1
-0,Command: Modern Air / Naval Operations WOTY,1
-0,Sigils of Elohim,1
-0,PAYDAY 2: Hotline Miami,1
-0,Jotun: Valhalla Edition,1
-0,911: First Responders®,1
-0,TOXIKK™,1
-0,Total War: ATTILA,1
-0,bit Dungeon II,1
-0,Warhammer Quest,1
-0,A Bird Story,1
-0,Potatoman Seeks the Troof,1
-0,Devil May Cry® 4 Special Edition,1
-0,NAM,1
-0,Robotex,1
-0,Noct,1
-0,Shark Attack Deathmatch 2,1
-0,2064: Read Only Memories,1
-0,Disney•Pixar Cars,1
-0,Pillars of Eternity,1
-0,You Must Build A Boat,1
-0,Memoria,1
-0,Slender: The Arrival,1
-0,StarDrive 2,1
-0,Obscure,1
-0,resident evil 4 / biohazard 4,1
-0,South Park™: The Stick of Truth™ - Ultimate Fellowship Pack,1
-0,Infinity Wars: Animated Trading Card Game,1
-0,Violett Remastered,1
-0,Ring Runner: Flight of the Sages,1
-0,Gauntlet™ Slayer Edition,1
-0,PAYDAY 2: Gage Mod Courier,1
-0,Savant - Ascent,1
-0,Killer is Dead - Nightmare Edition,1
-0,Toy Soldiers: Complete,1
-0,Dungeons 2,1
-0,Gunman Clive,1
-0,Our Darker Purpose,1
-0,Crimsonland,1
-0,The Journey Down: Chapter Two,1
-0,Smooth Operators,1
-0,9.03m,1
-0,Squirt's Adventure,1
-0,BlazBlue: Calamity Trigger,1
-0,3089 -- Futuristic Action RPG,1
-0,SteamWorld Dig,1
-0,Maia,1
-0,Grey Goo,1
-0,Go! Go! Nippon! ~My First Trip to Japan~,1
-0,Rise of Flight United,1
-0,Men of War: Assault Squad 2,1
-0,Epigenesis,1
-0,Shelter,1
-0,Divekick,1
-0,Velocity®Ultra,1
-0,"I Have No Mouth, and I Must Scream",1
-0,The Typing of The Dead: Overkill,1
-0,Soundodger+,1
-0,Hitman: Contracts,1
-0,Freedom Planet,1
-0,Depth Hunter 2: Deep Dive,1
-0,Door Kickers,1
-0,NEO Scavenger,1
-0,Dungeon of the Endless™,1
-0,LEGO® Marvel™ Super Heroes,1
-0,METAL SLUG 3,1
-0,Blockland,1
-0,How to Survive,1
-0,8BitMMO,1
-0,Shovel Knight: Treasure Trove,1
-0,Damned,1
-0,The Legend of Heroes: Trails in the Sky SC,1
-0,TowerFall Ascension,1
-0,The Impossible Game,1
-0,Dragons and Titans,1
-0,Out There Somewhere,1
-0,PAYDAY 2: Armored Transport,1
-0,FORCED SHOWDOWN,1
-0,Praetorians,1
-0,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,1
-0,Sacred 3: Z4ngr13f Weapon Spirit,1
-0,Hover,1
-0,Crea,1
-0,Aperture Tag: The Paint Gun Testing Initiative,1
-0,Homeworld: Deserts of Kharak,1
-0,Carmageddon Max Pack,1
-0,RollerCoaster Tycoon World™,1
-0,EasyAntiCheat eSports,1
-0,Freddi Fish and The Case of the Missing Kelp Seeds,1
-0,"Spy Fox in ""Dry Cereal""",1
-0,BeamNG.drive,1
-0,Crimzon Clover WORLD IGNITION,1
-0,Kitty Powers' Matchmaker,1
-0,Thinking with Time Machine,1
-0,FarSky,1
-0,Avoid - Sensory Overload,1
-0,S.K.I.L.L. - Special Force 2 (Shooter),1
-0,Influent DLC - 한국어 [Learn Korean],1
-0,Resident Evil Revelations 2 / Biohazard Revelations 2,1
-0,TY the Tasmanian Tiger 4,1
-0,Mortal Online,1
-0,Ampu-Tea,1
-0,RC Cars,1
-0,Clandestine,1
-0,Halo: Spartan Assault,1
-0,VIDEOBALL,1
-0,Guacamelee! Super Turbo Championship Edition,1
-0,Magicite,1
-0,Lords Of The Fallen™,1
-0,Epic Battle Fantasy 4,1
-0,Breach & Clear,1
-0,One Way Heroics,1
-0,Farm for your Life,1
-0,Anarchy Arcade,1
-0,Star Swarm Stress Test,1
-0,PAYDAY 2: Gage Weapon Pack #01,1
-0,The LEGO® Movie - Videogame,1
-0,Grapple,1
-0,Satellite Reign,1
-0,Costume Quest 2,1
-0,The Yawhg,1
-0,Bardbarian,1
-0,Melody's Escape,1
-0,Robot Roller-Derby Disco Dodgeball,1
-0,The Forest of Doom,1
-0,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,1
-0,Detective Grimoire,1
-0,Outlast: Whistleblower DLC,1
-0,Gods Will Be Watching,1
-0,Always Sometimes Monsters,1
 2011,Greed Corp,1
 2011,Burn Zombie Burn!,1
 2014,Darkest Hour: A Hearts of Iron Game,1
@@ -4448,7 +2562,6 @@ year_review,app_name,recommend_count
 2014,Naval War: Arctic Circle,1
 2014,Battle Chess: Game of Kings™,1
 2014,Off-Road Drive,1
-2014,Pox Nora,1
 2014,Toki Tori 2+,1
 2014,Flatout 3: Chaos & Destruction,1
 2014,Supreme Ruler: Cold War,1
@@ -4461,7 +2574,6 @@ year_review,app_name,recommend_count
 2014,Shift 2 Unleashed,1
 2014,Ship Simulator Extremes,1
 2014,"Warhammer 40,000: Space Marine",1
-2014,Saints Row: The Third Initiation Station,1
 2014,Tropico 3: Absolute Power,1
 2014,Broken Sword: Director's Cut,1
 2014,Blood Bowl® Legendary Edition,1
@@ -4480,15 +2592,12 @@ year_review,app_name,recommend_count
 2014,Sonic Generations Collection,1
 2014,Ridge Racer™ Unbounded,1
 2014,Eufloria HD,1
-2014,Continent of the Ninth Seal,1
 2014,Aerofly FS 1 Flight Simulator,1
 2014,Deponia,1
 2014,Eets Munchies,1
 2014,Cherry Tree High Comedy Club,1
 2014,Call of Duty: Black Ops - Mac Edition,1
 2014,Painkiller Hell & Damnation,1
-2014,Ragnarok Online,1
-2014,Secret World Legends,1
 2014,Rocketbirds: Hardboiled Chicken,1
 2014,The Incredible Adventures of Van Helsing,1
 2014,Home,1
@@ -4539,7 +2648,6 @@ year_review,app_name,recommend_count
 2014,Freedom Force,1
 2014,Master Levels for Doom II,1
 2014,Frontlines™: Fuel of War™,1
-2014,Champions Online,1
 2014,Blade Kitten,1
 2014,TimeShift™,1
 2014,Postal III,1
@@ -4560,13 +2668,11 @@ year_review,app_name,recommend_count
 2014,Trackmania United Forever Star Edition,1
 2014,Sol Survivor,1
 2014,Tomb Raider: Legend,1
-2013,Dead Sky,1
 2013,Eryi's Action,1
 2013,Broken Sword 5 - the Serpent's Curse,1
 2014,Day of Defeat,1
 2014,Deathmatch Classic,1
 2014,Half-Life: Opposing Force,1
-2014,Darkest Hour: Europe '44-'45,1
 2014,Two Worlds Epic Edition,1
 2014,Wolfenstein 3D,1
 2014,QUAKE,1
@@ -4613,16 +2719,11 @@ year_review,app_name,recommend_count
 2014,Plant Tycoon,1
 2014,Sid Meier's Civilization V: Gods and Kings,1
 2014,Command & Conquer: Red Alert 3,1
-2014,D.I.P.R.I.P. Warm Up,1
-2014,Eternal Silence,1
-2014,Dystopia,1
-2014,Empires Mod,1
 2014,"Precipice of Darkness, Episode Two",1
 2014,DeathSpank,1
 2014,Defense Grid: The Awakening,1
 2014,Tom Clancy's Rainbow Six® 3 Gold,1
 2014,"Warhammer® 40,000: Dawn of War® II Chaos Rising",1
-0,Team Fortress Classic,1
 2014,Street Fighter® IV,1
 2014,Mount & Blade,1
 2014,Penumbra: Black Plague Gold Edition,1
@@ -4635,7 +2736,6 @@ year_review,app_name,recommend_count
 2014,Kane & Lynch 2: Dog Days,1
 2014,Towns,1
 2014,The Cave,1
-2011,Saints Row: The Third Initiation Station,1
 2014,The Yawhg,1
 2014,liteCam Game: 100 FPS Game Capture,1
 2014,EPOCH,1
@@ -4650,7 +2750,6 @@ year_review,app_name,recommend_count
 2014,My Riding Stables: Life with Horses,1
 2014,Mordheim: City of the Damned,1
 2014,Assassin's Creed Freedom Cry,1
-2014,TUG,1
 2014,A Story About My Uncle,1
 2014,0RBITALIS,1
 2014,Skyborn,1
@@ -4680,13 +2779,11 @@ year_review,app_name,recommend_count
 2014,Tower of Guns,1
 2014,Farm for your Life,1
 2014,Lili: Child of Geos - Complete Edition,1
-2014,Star Swarm Stress Test,1
 2014,The LEGO® Movie - Videogame,1
 2014,Airport Simulator 2014,1
 2014,Woodcutter Simulator 2013,1
 2014,Shadowrun Chronicles - Boston Lockdown,1
 2014,Meltdown,1
-2014,Vanguard Princess Director's Cut,1
 2014,Puddle,1
 2014,Firefighters 2014,1
 2014,X-Plane 10 Global - 64 Bit,1
@@ -4699,7 +2796,6 @@ year_review,app_name,recommend_count
 2014,They Breathe,1
 2014,Freddi Fish 3: The Case of the Stolen Conch Shell,1
 2014,Putt-Putt® Travels Through Time,1
-2014,Darkwind: War on Wheels,1
 2014,Sweezy Gunner,1
 2014,Rogue Shooter: The FPS Roguelike,1
 2014,Battlepaths,1
@@ -4712,12 +2808,10 @@ year_review,app_name,recommend_count
 2014,Heroes Rise: The Prodigy,1
 2014,Noir Syndrome,1
 2014,Hippocampal: The White Sofa,1
-2014,Fiesta Online NA,1
 2014,FINAL FANTASY® XIII-2,1
 2014,Flower Shop: Summer In Fairbrook,1
 2014,Ubersoldier II,1
 2014,Explodemon,1
-2014,Organic Panic,1
 2014,Circuits,1
 2014,Spoiler Alert,1
 2014,Nosferatu: The Wrath of Malachi,1
@@ -4738,7 +2832,6 @@ year_review,app_name,recommend_count
 2014,DubWars,1
 2014,LogicBots,1
 2014,Volt,1
-2014,My Lands: Black Gem Hunting,1
 2014,Toy Soldiers: Complete,1
 2014,Catzilla 4K - Advanced,1
 2014,Corporate Lifestyle Simulator,1
@@ -4749,9 +2842,7 @@ year_review,app_name,recommend_count
 2014,Worms Clan Wars,1
 2014,Call of Duty®: Black Ops II - Kawaii Personalization Pack,1
 2014,Sid Meier's Civilization V: Brave New World,1
-2014,MINERVA,1
 2014,Anomaly 2,1
-2014,PlayClaw 5 - Game Recording and Streaming,1
 2014,Skyward Collapse,1
 2014,FINAL FANTASY III,1
 2014,Castlevania: Lords of Shadow 2,1
@@ -4760,7 +2851,6 @@ year_review,app_name,recommend_count
 2014,Ittle Dew,1
 2014,CastleStorm,1
 2014,Space Hulk,1
-2014,Saints Row IV: Inauguration Station,1
 2014,Styx: Master of Shadows,1
 2014,Poöf,1
 2014,Gas Guzzlers Extreme,1
@@ -4791,12 +2881,10 @@ year_review,app_name,recommend_count
 2014,Cities XL Platinum,1
 2014,Deadfall Adventures,1
 2014,Eador. Masters of the Broken World,1
-2014,SolForge,1
 2014,Mars: War Logs,1
 2014,Skullgirls: Eliza,1
 2014,Borderlands 2: Headhunter 2: Wattle Gobbler,1
 2014,Tiny Brains,1
-2014,PAYDAY 2: The Official Soundtrack,1
 2014,Obscure,1
 2014,Obscure II (Obscure: The Aftermath),1
 2014,Journey of a Roach,1
@@ -4815,27 +2903,20 @@ year_review,app_name,recommend_count
 2014,Professional Farmer 2014,1
 2014,Ballpoint Universe - Infinite,1
 2014,Hero of the Kingdom,1
-2014,Nimble Quest,1
 2014,Total War: ROME II - Blood & Gore,1
-2014,Get Off My Lawn!,1
 2014,Neighbours from Hell Compilation,1
 2014,1001 Spikes,1
-2014,WARMACHINE: Tactics,1
 2014,Tiny Barbarian DX,1
 2014,The Cat Lady,1
 2014,Draw a Stickman: EPIC,1
 2014,Hack 'n' Slash,1
-2014,TorqueL prototype,1
 2014,FATE,1
-2014,Portal 2 Sixense Perceptual Pack,1
 2014,Soundodger+,1
 2014,Deadly Premonition: The Director's Cut,1
 2014,Clickteam Fusion 2.5,1
 2014,Omegalodon,1
-2014,Legends of Aethereus,1
 2014,Megabyte Punch,1
 2014,Kingdoms Rise,1
-2014,Vector,1
 2014,Nihilumbra,1
 2014,Unholy Heights,1
 2014,The Castle Doctrine,1
@@ -4843,7 +2924,6 @@ year_review,app_name,recommend_count
 2014,Paranautical Activity: Deluxe Atonement Edition,1
 2014,The Inner World,1
 2014,Legend of Grimrock 2,1
-2014,Valdis Story: Abyssal City,1
 2014,Maia,1
 2014,SteamWorld Dig,1
 2013,3079 -- Block Action RPG,1
@@ -4854,7 +2934,6 @@ year_review,app_name,recommend_count
 2012,Demolition Inc.,1
 2012,Dungeons of Dredmor,1
 2012,Renegade Ops,1
-2012,Puzzle Pirates,1
 2012,Orcs Must Die!,1
 2012,Warp,1
 2012,Tobe's Vertical Adventure,1
@@ -4887,7 +2966,6 @@ year_review,app_name,recommend_count
 2012,Red Faction®: Armageddon™,1
 2012,MX vs. ATV Reflex,1
 2012,"Warhammer 40,000: Space Marine",1
-2012,Saints Row: The Third Initiation Station,1
 2012,Tropico 3: Absolute Power,1
 2012,Men of War: Assault Squad,1
 2012,Dino D-Day,1
@@ -4931,9 +3009,7 @@ year_review,app_name,recommend_count
 2013,Sid Meier's Civilization® III Complete,1
 2013,Aliens versus Predator Classic 2000,1
 2012,Unmechanical,1
-2012,The Lord of the Rings Online™,1
 2012,Party of Sin,1
-2012,Super Crate Box,1
 2012,LEGO® Batman 2 DC Super Heroes™,1
 2012,Hotline Miami,1
 2012,Little Inferno,1
@@ -4956,7 +3032,6 @@ year_review,app_name,recommend_count
 2011,Before the Echo,1
 2012,Team Fortress Classic,1
 2012,Ricochet,1
-2012,Half-Life 2: Lost Coast,1
 2012,Half-Life 2: Episode One,1
 2012,Red Orchestra: Ostfront 41-45,1
 2012,Uplink,1
@@ -4966,7 +3041,6 @@ year_review,app_name,recommend_count
 2012,Bloody Good Time,1
 2012,Call of Duty®,1
 2012,Insaniquarium Deluxe,1
-2012,Peggle Extreme,1
 2012,Sniper Elite,1
 2012,Psychonauts,1
 2012,S.T.A.L.K.E.R.: Shadow of Chernobyl,1
@@ -5001,7 +3075,6 @@ year_review,app_name,recommend_count
 2011,Jamestown,1
 2011,Section 8®: Prejudice™,1
 2011,Hard Reset Extended Edition,1
-2011,Puzzle Pirates,1
 2011,Space Pirates and Zombies,1
 2011,Breath of Death VII,1
 2011,Cthulhu Saves the World,1
@@ -5011,7 +3084,6 @@ year_review,app_name,recommend_count
 2012,Prototype™,1
 2012,Zeno Clash,1
 2012,The Elder Scrolls III: Morrowind® Game of the Year Edition,1
-2012,BRINK,1
 2012,Worms Reloaded,1
 2012,Burnout Paradise: The Ultimate Box,1
 2012,Command & Conquer 3: Tiberium Wars,1
@@ -5034,7 +3106,6 @@ year_review,app_name,recommend_count
 2012,Mount & Blade,1
 2012,F.E.A.R. 2: Project Origin,1
 2012,Empire: Total War™,1
-2012,TrackMania Nations Forever,1
 2012,Gumboy Tournament,1
 2012,SlamIt Pinball Big Score,1
 2012,Unreal Tournament 3 Black,1
@@ -5050,8 +3121,6 @@ year_review,app_name,recommend_count
 2012,Crysis Warhead®,1
 2012,SPORE™,1
 2012,Command & Conquer: Red Alert 3,1
-2012,Synergy,1
-2012,"Pirates, Vikings, and Knights II",1
 2012,"Precipice of Darkness, Episode Two",1
 2012,Red Faction Guerrilla Steam Edition,1
 2012,S.T.A.L.K.E.R.: Clear Sky,1
@@ -5064,16 +3133,13 @@ year_review,app_name,recommend_count
 2013,Defender's Quest: Valley of the Forgotten (DX edition),1
 2013,Mercenary Kings,1
 2013,Ultratron,1
-2013,The Banner Saga: Factions,1
 2013,Edna & Harvey: Harvey's New Eyes,1
 2013,Cargo Commander,1
 2013,Jack Lumber,1
 2013,The Cave,1
-2013,Champions of Regnum,1
 2013,Miasmata,1
 2013,Ys I & II Chronicles+,1
 2013,Of Orcs And Men,1
-2013,Dungeon-Party,1
 2013,Indie Game: The Movie,1
 2013,Home,1
 2013,eXceed 3rd - Jade Penetrate Black Package,1
@@ -5094,7 +3160,6 @@ year_review,app_name,recommend_count
 2013,They Bleed Pixels,1
 2013,Inversion™,1
 2013,Tom Clancy's Ghost Recon: Future Soldier™,1
-2013,Gear Up,1
 2013,LEGO The Lord of the Rings,1
 2013,Call of Duty: Black Ops - Mac Edition,1
 2013,The Basement Collection,1
@@ -5104,19 +3169,13 @@ year_review,app_name,recommend_count
 2013,Cities in Motion 2,1
 2013,Blade Symphony,1
 2013,Wasteland 2: Director's Cut,1
-2013,Rayman® Legends,1
 2013,Day One : Garry's Incident,1
 2013,Betrayer,1
 2013,Divinity: Dragon Commander,1
 2013,Divekick,1
-2013,SNOW,1
-2013,Paranormal,1
 2013,The Typing of The Dead: Overkill,1
-2013,Portal 2 Sixense Perceptual Pack,1
-2013,Sniper Elite: Nazi Zombie Army 2,1
 2013,Omegalodon,1
 2013,Dysfunctional Systems: Learning to Manage Chaos,1
-2013,Forge Quest,1
 2013,Knock-knock,1
 2013,Escape Goat,1
 2013,Gimbal,1
@@ -5131,7 +3190,6 @@ year_review,app_name,recommend_count
 2013,Kingdom Wars,1
 2013,Castle Story,1
 2013,Baldur's Gate: Enhanced Edition,1
-2013,Akaneiro: Demon Hunters,1
 2013,Cities XL Platinum,1
 2013,The Swapper,1
 2013,MirrorMoon EP,1
@@ -5141,9 +3199,6 @@ year_review,app_name,recommend_count
 2013,Evoland,1
 2013,Castlevania: Lords of Shadow – Ultimate Edition,1
 2013,Receiver,1
-2013,Marvel Puzzle Quest,1
-2013,King’s Bounty: Legions,1
-2013,MINERVA,1
 2013,Tetrobot and Co.,1
 2013,Angry Video Game Nerd Adventures,1
 2013,Cubemen,1
@@ -5158,7 +3213,6 @@ year_review,app_name,recommend_count
 2013,STAR WARS™: The Force Unleashed™ II,1
 2013,eversion,1
 2013,Alpha Protocol™,1
-2013,Defence Alliance 2,1
 2013,Trine Enchanted Edition,1
 2013,Fallout: A Post Nuclear Role Playing Game,1
 2013,Fallout Tactics: Brotherhood of Steel,1
@@ -5172,7 +3226,6 @@ year_review,app_name,recommend_count
 2013,Hamilton's Great Adventure,1
 2013,Command & Conquer: Red Alert 3 - Uprising,1
 2013,The Last Remnant™,1
-2013,Dungeons & Dragons Online®,1
 2013,Alien Breed: Impact,1
 2013,Unreal Tournament 2004: Editor's Choice Edition,1
 2013,Beyond Good and Evil™,1
@@ -5182,8 +3235,6 @@ year_review,app_name,recommend_count
 2013,Need for Speed Undercover,1
 2013,SPORE™ Creepy & Cute Parts Pack,1
 2013,Dragon Age: Origins,1
-2013,"Pirates, Vikings, and Knights II",1
-2013,INSURGENCY: Modern Infantry Combat,1
 2013,Nuclear Dawn,1
 2013,"Precipice of Darkness, Episode One",1
 2013,Unstoppable Gorg,1
@@ -5244,7 +3295,6 @@ year_review,app_name,recommend_count
 2013,VVVVVV,1
 2013,Recettear: An Item Shop's Tale,1
 2013,Closure,1
-2013,Universe Sandbox,1
 2013,Majesty 2 Collection,1
 2013,Darkest Hour: A Hearts of Iron Game,1
 2013,Iron Front: Digital War Edition,1
