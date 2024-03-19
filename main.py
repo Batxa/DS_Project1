@@ -177,8 +177,7 @@ def recomendacion_juego(item_id: int):
         similar_indices = cosine_sim.argsort()[0][-6:-1][::-1]
 
         # Obtener los item_id de los juegos más similares
-        #juegos_similares = df_mlo.loc[similar_indices, 'item_id'].tolist()
-        juegos_similares = df_mlo.loc[similar_indices, 'app_name'].tolist()
+        juegos_similares = df_mlo.loc[similar_indices, 'item_id'].tolist()
 
         return {"recomendaciones": juegos_similares}
     except Exception as e:

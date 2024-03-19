@@ -14,7 +14,9 @@
   * Modelo de Aprendiaje Automático   
 
 
-El presente trabajo constituye el primero de los proyectos individuales a presentar como parte de los requisitos para alcanzar la graduación del curso. El objetivo de este proyecto es la creación de un modelo de aprendizaje a partir de un conjunto de datasets.  
+El presente trabajo constituye el primero de los proyectos individuales a presentar como parte de los requisitos para alcanzar la graduación del curso. El objetivo de este proyecto es la creación de un modelo de aprendizaje a partir de un conjunto de datasets.
+
+Si bien el trabajo tiene como objetivo un desarrollo profesional, en este caso tiene un enfoque académico pues están comentados y explicados con detalle los pasos realizados, en función de que sea sencilla su corrección y pueda ser de utilidad a futuros estudiantes de data science.
 
 # Fases del proyecto:
 
