@@ -26,6 +26,7 @@ Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos
 Archivo ETL:
 
 * DESARROLLO API (Application Program Interfase)
+
 Link a api: https://ds-project1.onrender.com/docs#/
 
 Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
@@ -46,6 +47,7 @@ Se definirá un código en el archivo "main.py" con funciones para comunicar los
   Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
 * DEPLOYMENT de la API
+
 Link a dashboard de render: https://dashboard.render.com/web/srv-cnq8upljm4es739f67jg/deploys/dep-cnroca6ct0pc73ct2md0?r=2024-03-18%4000%3A08%3A12%7E2024-03-18%4000%3A12%3A18
 
 Se utilizará la herramienta RENDER para comunicar el servidor e intercambiar los datos de la API. La misma consiste en una interfaz gráfica que permite mostrar la interacción entre inputs y outputs, regida por las funciones definidas en el código del archivo "main.py".
