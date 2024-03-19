@@ -31,6 +31,7 @@ Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos
 * DESARROLLO API (Application Program Interfase)
 
 Link a api: https://ds-project1.onrender.com/docs#/
+
 Link a archivo main: https://github.com/Batxa/DS_Project1/blob/main/main.py
 
 Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
