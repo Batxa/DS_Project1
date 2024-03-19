@@ -8,8 +8,8 @@
 
 * Contenidos & Fases del Proyecto
   * ETL (Extraction, transformation and loading of data)
-  * Desarrollo API Application Program Interfase)
-  * Deployment
+  * Desarrollo API (Application Program Interfase)
+  * Deployment de API
   * EDA (Exploratory Dat Analysis)
   * Modelo de Aprendiaje Automático   
 
@@ -18,12 +18,15 @@ El presente trabajo constituye el primero de los proyectos individuales a presen
 
 # Fases del proyecto:
 
-* ETL (Extraction, transformation and loading of data). 
+* ETL (Extraction, transformation and loading of data)
+
 Los datasets son provistos en formato json comprimido y no vienen limpios, con lo cual se aplica una preparación de los datos. El primer paso es  FEATURE ENGINERERING (INGENIERIA DE CARACTERISTICAS), que consiste en el proceso de seleccionar, transformar y/o crear nuevas características (campos) a partir de los datos brutos. En particular, algunos campos se muestran como listas de diccionarios, por lo cual se deben desanidar pues cada par clave-valor contiene valiosa información para el modelo. 
 Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos, valores duplicados y valores nulos. El ouput de esta fase es un conjunto de datasets limpio y listo para ser consumido por la fase siguiente.
 Archivo ETL:
 
-* DESARROLLO API (Application Program Interfase). Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
+* DESARROLLO API (Application Program Interfase)
+
+Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
 
   1) def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
   Ejemplo de retorno: {"Año de lanzamiento con más horas jugadas para Género X" : 2013}
@@ -41,9 +44,15 @@ Archivo ETL:
   Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
 * DEPLOYMENT de la API
+
 Se utilizará la herramienta RENDER para comunicar el servidor e intercambiar los datos de la API. La misma consiste en una interfaz gráfica que permite mostrar la interacción entre inputs y outputs, regida por las funciones definidas en el código del archivo "main.py".
   
-* EDA (Exploratory data analysis). Esta fase consiste en un análisis de los contenidos de los datos. Se aplican sucesivos métodos para conocer el comportamiento estadístico de las variables principales, aplicables al análisis del mercado, análisis de precios, análisis de preferencias de usuario, y análisis de correlaciones entre variables
+* EDA (Exploratory data analysis)
+
+Esta fase consiste en un análisis de los contenidos de los datos. Se aplican sucesivos métodos para conocer el comportamiento estadístico de las variables principales, aplicables al análisis del mercado, análisis de precios, análisis de preferencias de usuario, y análisis de correlaciones entre variables. 
+
+Si bien el EDA no es el foco del presente trabajo, pretende brindar al lector una sólida idea de cómo debiera encararse. Además, el EDA finaliza con un armado de un dataframe que se utilizará para el análisis de correlaciones y el modelo de aprendizaje automático.
+
 
 Armado de dataframe para correlaciones y modelo de aprendizaje:
 <img width="907" alt="image" src="https://github.com/Batxa/DS_Project1/assets/17538681/cfb05725-6e60-44d0-b1e6-a1d13b266c83">
