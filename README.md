@@ -25,7 +25,7 @@ Si bien el trabajo tiene como objetivo un desarrollo profesional, en este caso t
 Los datasets son provistos en formato json comprimido y no vienen limpios, con lo cual se aplica una preparación de los datos. El primer paso es  FEATURE ENGINERERING (INGENIERIA DE CARACTERISTICAS), que consiste en el proceso de seleccionar, transformar y/o crear nuevas características (campos) a partir de los datos brutos. En particular, algunos campos se muestran como listas de diccionarios, por lo cual se deben desanidar pues cada par clave-valor contiene valiosa información para el modelo. 
 Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos, valores duplicados y valores nulos. El ouput de esta fase es un conjunto de datasets limpio y listo para ser consumido por la fase siguiente.
 
-Archivo ETL:
+Link a archivo ETL: https://github.com/Batxa/DS_Project1/blob/main/ETL.ipynb
 
 * DESARROLLO API (Application Program Interfase)
 
