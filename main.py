@@ -8,8 +8,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
 
-df_mlo = pd.read_csv('df_mlo.csv')
-
 # http://127.0.0.1:8001
 
 # Endpoint1
@@ -139,12 +137,14 @@ def UsersNotRecommend(year: int):
 def SentimentAnalysis(year: int):
     try:
         df_e5 = pd.read_csv("df_e5.csv")
+        df_year = df_e5[df_e5['year'] == year]
+        value_negative = df_year['negative'].values[0]
+        value_neutral = df_year['neutral'].values[0]
+        value_positive = df_year['positive'].values[0]
 
-        value_negative = df_e5['negative'].values[0]
-        value_neutral = df_e5['neutral'].values[0]
-        value_positive = df_e5['positive'].values[0]
+        # Crear la cadena de salida con los valores obtenidos
+        output_sentiment_list = f"Para el año {year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, positive: {value_positive}"
 
-        output_sentiment_list = f"Para el año {year} se registran los siguientes valores: negative: {value_negative}, neutral: {value_neutral}, neutral: {value_positive}"
         return output_sentiment_list
     except Exception as e:
         return {"error": str(e)}
@@ -161,28 +161,24 @@ def SentimentAnalysis(year: int):
 @app.get("/recomendacionjuego/{item_id}")
 def recomendacion_juego(item_id: int):
     try:
-        # Verificar si el item_id existe en el DataFrame
-        if item_id not in df_mlo['item_id'].values:
-            return {"error": "El item_id proporcionado no existe en el DataFrame."}
+        df_mlo = pd.read_csv('df_mlo.csv')
 
         # Filtrar el DataFrame para obtener solo el juego de interés
         juego = df_mlo[df_mlo['item_id'] == item_id]
-
-        # Verificar si el DataFrame filtrado está vacío
-        if juego.empty:
-            return {"error": "No se encontraron datos para el item_id proporcionado."}
 
         # Seleccionar solo las características relevantes para el cálculo de similitud
         features = juego.drop(columns=['item_id'])
 
         # Calcular la similitud del coseno entre el juego de interés y todos los demás juegos
-        cosine_sim = cosine_similarity(features, df_mlo.drop(columns=['item_id']))
+        cosine_sim = cosine_similarity(
+            features, df_mlo.drop(columns=['item_id']))
 
         # Ordenar los resultados de similitud y obtener los índices de los juegos más similares
         similar_indices = cosine_sim.argsort()[0][-6:-1][::-1]
 
         # Obtener los item_id de los juegos más similares
-        juegos_similares = df_mlo.loc[similar_indices, 'item_id'].tolist()
+        #juegos_similares = df_mlo.loc[similar_indices, 'item_id'].tolist()
+        juegos_similares = df_mlo.loc[similar_indices, 'app_name'].tolist()
 
         return {"recomendaciones": juegos_similares}
     except Exception as e:
