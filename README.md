@@ -4,7 +4,7 @@
 * Curso: Data Science Part Time, cohorte 7
 * Proyecto: Proyecto Individual 1, Machine Learning Operations
 * Estudiante: Juan GARATE
-* Video explicativo: XXX
+* Video explicativo: https://youtu.be/N4Yk12dFkbQ
 
 * Contenidos & Fases del Proyecto
   * ETL (Extraction, transformation and loading of data)
