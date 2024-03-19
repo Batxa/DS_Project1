@@ -46,7 +46,7 @@ Se utilizará la herramienta RENDER para comunicar el servidor e intercambiar lo
 * EDA (Exploratory data analysis). Esta fase consiste en un análisis de los contenidos de los datos. Se aplican sucesivos métodos para conocer el comportamiento estadístico de las variables principales, aplicables al análisis del mercado, análisis de precios, análisis de preferencias de usuario, y análisis de correlaciones entre variables
 
 Armado de dataframe para correlaciones y modelo de aprendizaje:
-![image.png](attachment:image.png)
+<img width="907" alt="image" src="https://github.com/Batxa/DS_Project1/assets/17538681/cfb05725-6e60-44d0-b1e6-a1d13b266c83">
 
 
 * MODELO DE APRENDIZAJE AUTOMATICO
