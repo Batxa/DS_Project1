@@ -62,7 +62,11 @@ Si bien el EDA no es el foco del presente trabajo, pretende brindar al lector un
 
 
 Armado de dataframe para correlaciones y modelo de aprendizaje:
-<img width="907" alt="image" src="https://github.com/Batxa/DS_Project1/assets/17538681/cfb05725-6e60-44d0-b1e6-a1d13b266c83">
+
+<img width="936" alt="image" src="https://github.com/Batxa/DS_Project1/assets/17538681/ef8ce550-6a98-4dbc-b6c5-7f85b0a78909">
+
+
+
 
 
 * MODELO DE APRENDIZAJE AUTOMATICO
