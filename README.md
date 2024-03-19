@@ -22,14 +22,16 @@ Si bien el trabajo tiene como objetivo un desarrollo profesional, en este caso t
 
 * ETL (Extraction, transformation and loading of data)
 
+Link a archivo ETL: https://github.com/Batxa/DS_Project1/blob/main/ETL.ipynb
+
 Los datasets son provistos en formato json comprimido y no vienen limpios, con lo cual se aplica una preparación de los datos. El primer paso es  FEATURE ENGINERERING (INGENIERIA DE CARACTERISTICAS), que consiste en el proceso de seleccionar, transformar y/o crear nuevas características (campos) a partir de los datos brutos. En particular, algunos campos se muestran como listas de diccionarios, por lo cual se deben desanidar pues cada par clave-valor contiene valiosa información para el modelo. 
 Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos, valores duplicados y valores nulos. El ouput de esta fase es un conjunto de datasets limpio y listo para ser consumido por la fase siguiente.
 
-Link a archivo ETL: https://github.com/Batxa/DS_Project1/blob/main/ETL.ipynb
 
 * DESARROLLO API (Application Program Interfase)
 
 Link a api: https://ds-project1.onrender.com/docs#/
+Link a archivo main:
 
 Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
 
@@ -55,6 +57,8 @@ Link a dashboard de render: https://dashboard.render.com/web/srv-cnq8upljm4es739
 Se utilizará la herramienta RENDER para comunicar el servidor e intercambiar los datos de la API. La misma consiste en una interfaz gráfica que permite mostrar la interacción entre inputs y outputs, regida por las funciones definidas en el código del archivo "main.py".
   
 * EDA (Exploratory data analysis)
+
+Link a archivo EDA: https://github.com/Batxa/DS_Project1/blob/main/EDA.ipynb 
 
 Esta fase consiste en un análisis de los contenidos de los datos. Se aplican sucesivos métodos para conocer el comportamiento estadístico de las variables principales, aplicables al análisis del mercado, análisis de precios, análisis de preferencias de usuario, y análisis de correlaciones entre variables. 
 
