@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
 
-# http://127.0.0.1:8001
+# http://127.0.0.1:8001 Para trabajar en local
 
 # Endpoint1
 # Debe devolver año con mas horas jugadas para dicho género.
@@ -166,19 +166,29 @@ def recomendacion_juego(item_id: int):
         # Filtrar el DataFrame para obtener solo el juego de interés
         juego = df_mlo[df_mlo['item_id'] == item_id]
 
-        # Seleccionar solo las características relevantes para el cálculo de similitud
-        features = juego.drop(columns=['item_id'])
+        # Seleccionar solo las características numéricas relevantes para el cálculo de similitud
+        numeric_features = juego.select_dtypes(
+            include=['number']).drop(columns=['item_id'])
 
         # Calcular la similitud del coseno entre el juego de interés y todos los demás juegos
-        cosine_sim = cosine_similarity(
-            features, df_mlo.drop(columns=['item_id']))
+        cosine_sim = cosine_similarity(numeric_features, df_mlo.select_dtypes(
+            include=['number']).drop(columns=['item_id']))
 
         # Ordenar los resultados de similitud y obtener los índices de los juegos más similares
         similar_indices = cosine_sim.argsort()[0][-6:-1][::-1]
 
-        # Obtener los item_id de los juegos más similares
-        juegos_similares = df_mlo.loc[similar_indices, 'item_id'].tolist()
+        # Obtener los nombres de los juegos más similares
+        juegos_similares = df_mlo.loc[similar_indices, 'app_name']
 
-        return {"recomendaciones": juegos_similares}
+        # Convertir a conjunto para eliminar duplicados y luego a lista
+        # list(set(juegos_similares))
+        juegos_similares_unique = juegos_similares
+
+        # Si hay menos de 5 recomendaciones únicas, seleccionar todas
+        if len(juegos_similares_unique) < 5:
+            return {"recomendaciones": juegos_similares_unique}
+        else:
+            # Retornar solo los primeros 5 elementos
+            return {"recomendaciones": juegos_similares_unique[:5]}
     except Exception as e:
         return {"error": str(e)}
