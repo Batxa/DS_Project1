@@ -75,8 +75,6 @@ La similitud del coseno calcula el coseno del ángulo entre dos vectores y devue
 
 Aunque no es un modelo de clasificación en sí mismo, la similitud del coseno puede ser utilizada como una medida auxiliar en ciertos procesos de clasificación o agrupamiento, especialmente cuando se trabaja con datos de alta dimensionalidad, como en el procesamiento de texto.
 
-Para este trabajo, he tenido en cuenta que el método de similitud del consumo implica generar tantos campos como registros tenga el dataframe. El dataframe que utilizamos tiene casi 25.000 registros, con lo cual he decidido tomar una muestra aleatoria de 2000 registros.
-
-Luego, en el archivo "main.py" contamos con una función para consultar los outputs del modelo, adoptando un sistema de recomendación tipo item-item. La función tendrá un input que es el item_id de un juego, y devolverá un listado de 5 juegos:
+Para este trabajo, en el archivo "main.py" contamos con una función para consultar los outputs del modelo, adoptando un sistema de recomendación tipo item-item. La función tendrá un input que es el item_id de un juego, y devolverá un listado de 5 juegos:
 
 def recomendacion_juego( id de producto ): Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
