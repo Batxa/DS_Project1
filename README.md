@@ -65,9 +65,9 @@ Armado de dataframe para correlaciones y modelo de aprendizaje:
 
 * MODELO DE APRENDIZAJE AUTOMATICO
 
-El trabajo propone aplicar el formato de SIMILITUD DEL COSENO.
+Link a api: https://ds-project1.onrender.com/docs#/
 
-La similitud del coseno no es un modelo de clasificación per se, sino más bien una medida utilizada para calcular la similitud entre dos vectores en un espacio de características. Es comúnmente utilizada en tareas de minería de texto y recuperación de información para determinar la similitud entre documentos, palabras clave, o cualquier otro tipo de datos representados como vectores.
+El trabajo propone aplicar la técnica de SIMILITUD DEL COSENO. Esta técnica no es un modelo de clasificación per se, sino más bien una medida utilizada para calcular la similitud entre dos vectores en un espacio de características. Es comúnmente utilizada en tareas de minería de texto y recuperación de información para determinar la similitud entre documentos, palabras clave, o cualquier otro tipo de datos representados como vectores.
 
 La similitud del coseno calcula el coseno del ángulo entre dos vectores y devuelve un valor entre -1 y 1, donde 1 indica que los vectores son idénticos, 0 indica que son ortogonales (no tienen similitud) y -1 indica que son opuestos.
 
