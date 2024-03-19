@@ -22,9 +22,11 @@ El presente trabajo constituye el primero de los proyectos individuales a presen
 
 Los datasets son provistos en formato json comprimido y no vienen limpios, con lo cual se aplica una preparación de los datos. El primer paso es  FEATURE ENGINERERING (INGENIERIA DE CARACTERISTICAS), que consiste en el proceso de seleccionar, transformar y/o crear nuevas características (campos) a partir de los datos brutos. En particular, algunos campos se muestran como listas de diccionarios, por lo cual se deben desanidar pues cada par clave-valor contiene valiosa información para el modelo. 
 Luego, se aplica sucesivamente una verificación y tratamiento de tipos de datos, valores duplicados y valores nulos. El ouput de esta fase es un conjunto de datasets limpio y listo para ser consumido por la fase siguiente.
+
 Archivo ETL:
 
 * DESARROLLO API (Application Program Interfase)
+Link a api: https://ds-project1.onrender.com/docs#/
 
 Se definirá un código en el archivo "main.py" con funciones para comunicar los diferentes componentes del software. Los endpoints que se consumirán en la API son los siguientes:
 
@@ -44,6 +46,7 @@ Se definirá un código en el archivo "main.py" con funciones para comunicar los
   Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
 * DEPLOYMENT de la API
+Link a dashboard de render: https://dashboard.render.com/web/srv-cnq8upljm4es739f67jg/deploys/dep-cnroca6ct0pc73ct2md0?r=2024-03-18%4000%3A08%3A12%7E2024-03-18%4000%3A12%3A18
 
 Se utilizará la herramienta RENDER para comunicar el servidor e intercambiar los datos de la API. La misma consiste en una interfaz gráfica que permite mostrar la interacción entre inputs y outputs, regida por las funciones definidas en el código del archivo "main.py".
   
