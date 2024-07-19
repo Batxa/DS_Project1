@@ -1,7 +1,7 @@
 # DS_Project1
 
 * Escuela: Soy Henry
-* Curso: Data Science Part Time, cohorte 7
+* Curso: Data Science Part Time, cohorte 07
 * Proyecto: Proyecto Individual 1, Machine Learning Operations
 * Estudiante: Juan GARATE
 * Video explicativo: https://youtu.be/N4Yk12dFkbQ
